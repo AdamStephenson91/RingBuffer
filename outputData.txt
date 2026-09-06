@@ -1,0 +1,12596 @@
+HEADER:
+MessageType: e
+SequenceNumber: 1
+
+ORDER_EXECUTED:
+PriceAtTrade: 72
+TradeSize: 4
+InstrumentId: 47645
+OrderIdAggressor: 10807
+OrderIdPassive: 63032
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: m
+SequenceNumber: 2
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 11
+OrderPrice: 42
+InstrumentId: 34438
+OrderId: 66569
+
+HEADER:
+MessageType: m
+SequenceNumber: 3
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 86
+OrderPrice: 1
+InstrumentId: 62841
+OrderId: 58210
+
+HEADER:
+MessageType: c
+SequenceNumber: 4
+
+ORDER_CANCEL:
+InstrumentId: 43417
+OrderId: 48518
+
+HEADER:
+MessageType: e
+SequenceNumber: 5
+
+ORDER_EXECUTED:
+PriceAtTrade: 91
+TradeSize: 54
+InstrumentId: 73106
+OrderIdAggressor: 78736
+OrderIdPassive: 43054
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: m
+SequenceNumber: 6
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 72
+OrderPrice: 79
+InstrumentId: 25042
+OrderId: 54439
+
+HEADER:
+MessageType: m
+SequenceNumber: 7
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 48
+OrderPrice: 28
+InstrumentId: 33765
+OrderId: 31847
+
+HEADER:
+MessageType: e
+SequenceNumber: 8
+
+ORDER_EXECUTED:
+PriceAtTrade: 43
+TradeSize: 37
+InstrumentId: 85044
+OrderIdAggressor: 7949
+OrderIdPassive: 42450
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: e
+SequenceNumber: 9
+
+ORDER_EXECUTED:
+PriceAtTrade: 2
+TradeSize: 11
+InstrumentId: 65022
+OrderIdAggressor: 82092
+OrderIdPassive: 40155
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: o
+SequenceNumber: 10
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 34
+OrderPrice: 37
+InstrumentId: 44732
+OrderId: 32757
+
+HEADER:
+MessageType: m
+SequenceNumber: 11
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 48
+OrderPrice: 37
+InstrumentId: 75082
+OrderId: 17769
+
+HEADER:
+MessageType: c
+SequenceNumber: 12
+
+ORDER_CANCEL:
+InstrumentId: 65699
+OrderId: 97880
+
+HEADER:
+MessageType: c
+SequenceNumber: 13
+
+ORDER_CANCEL:
+InstrumentId: 57443
+OrderId: 2152
+
+HEADER:
+MessageType: a
+SequenceNumber: 14
+
+ANNOUNCEMENT:
+InstrumentId: 769931
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: e
+SequenceNumber: 15
+
+ORDER_EXECUTED:
+PriceAtTrade: 91
+TradeSize: 100
+InstrumentId: 9129
+OrderIdAggressor: 21191
+OrderIdPassive: 80932
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: c
+SequenceNumber: 16
+
+ORDER_CANCEL:
+InstrumentId: 75543
+OrderId: 35949
+
+HEADER:
+MessageType: m
+SequenceNumber: 17
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 17
+OrderPrice: 37
+InstrumentId: 22167
+OrderId: 3070
+
+HEADER:
+MessageType: o
+SequenceNumber: 18
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 10
+OrderPrice: 93
+InstrumentId: 91926
+OrderId: 33138
+
+HEADER:
+MessageType: m
+SequenceNumber: 19
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 74
+OrderPrice: 43
+InstrumentId: 25263
+OrderId: 5800
+
+HEADER:
+MessageType: o
+SequenceNumber: 20
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 47
+OrderPrice: 82
+InstrumentId: 78471
+OrderId: 52658
+
+HEADER:
+MessageType: m
+SequenceNumber: 21
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 70
+OrderPrice: 93
+InstrumentId: 13007
+OrderId: 22023
+
+HEADER:
+MessageType: e
+SequenceNumber: 22
+
+ORDER_EXECUTED:
+PriceAtTrade: 49
+TradeSize: 45
+InstrumentId: 89204
+OrderIdAggressor: 95148
+OrderIdPassive: 90850
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: e
+SequenceNumber: 23
+
+ORDER_EXECUTED:
+PriceAtTrade: 82
+TradeSize: 20
+InstrumentId: 14799
+OrderIdAggressor: 51545
+OrderIdPassive: 1137
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: o
+SequenceNumber: 24
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 58
+OrderPrice: 89
+InstrumentId: 75644
+OrderId: 52591
+
+HEADER:
+MessageType: o
+SequenceNumber: 25
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 76
+OrderPrice: 90
+InstrumentId: 54053
+OrderId: 98808
+
+HEADER:
+MessageType: m
+SequenceNumber: 26
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 32
+OrderPrice: 39
+InstrumentId: 8523
+OrderId: 5177
+
+HEADER:
+MessageType: e
+SequenceNumber: 27
+
+ORDER_EXECUTED:
+PriceAtTrade: 9
+TradeSize: 1
+InstrumentId: 29594
+OrderIdAggressor: 60178
+OrderIdPassive: 60020
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: o
+SequenceNumber: 28
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 38
+OrderPrice: 82
+InstrumentId: 31458
+OrderId: 51877
+
+HEADER:
+MessageType: a
+SequenceNumber: 29
+
+ANNOUNCEMENT:
+InstrumentId: 33978
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: e
+SequenceNumber: 30
+
+ORDER_EXECUTED:
+PriceAtTrade: 100
+TradeSize: 93
+InstrumentId: 64967
+OrderIdAggressor: 83535
+OrderIdPassive: 6930
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: a
+SequenceNumber: 31
+
+ANNOUNCEMENT:
+InstrumentId: 232252
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: a
+SequenceNumber: 32
+
+ANNOUNCEMENT:
+InstrumentId: 705751
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: o
+SequenceNumber: 33
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 60
+OrderPrice: 3
+InstrumentId: 6177
+OrderId: 15080
+
+HEADER:
+MessageType: c
+SequenceNumber: 34
+
+ORDER_CANCEL:
+InstrumentId: 81149
+OrderId: 80700
+
+HEADER:
+MessageType: m
+SequenceNumber: 35
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 35
+OrderPrice: 34
+InstrumentId: 24746
+OrderId: 36056
+
+HEADER:
+MessageType: e
+SequenceNumber: 36
+
+ORDER_EXECUTED:
+PriceAtTrade: 73
+TradeSize: 67
+InstrumentId: 39400
+OrderIdAggressor: 84494
+OrderIdPassive: 25111
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: o
+SequenceNumber: 37
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 25
+OrderPrice: 80
+InstrumentId: 85360
+OrderId: 40207
+
+HEADER:
+MessageType: c
+SequenceNumber: 38
+
+ORDER_CANCEL:
+InstrumentId: 24633
+OrderId: 37758
+
+HEADER:
+MessageType: a
+SequenceNumber: 39
+
+ANNOUNCEMENT:
+InstrumentId: 597012
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: o
+SequenceNumber: 40
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 72
+OrderPrice: 19
+InstrumentId: 76930
+OrderId: 53224
+
+HEADER:
+MessageType: e
+SequenceNumber: 41
+
+ORDER_EXECUTED:
+PriceAtTrade: 76
+TradeSize: 26
+InstrumentId: 81173
+OrderIdAggressor: 97314
+OrderIdPassive: 85172
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: m
+SequenceNumber: 42
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 67
+OrderPrice: 28
+InstrumentId: 86429
+OrderId: 59807
+
+HEADER:
+MessageType: o
+SequenceNumber: 43
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 96
+OrderPrice: 64
+InstrumentId: 43306
+OrderId: 47053
+
+HEADER:
+MessageType: o
+SequenceNumber: 44
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 5
+OrderPrice: 18
+InstrumentId: 38659
+OrderId: 90672
+
+HEADER:
+MessageType: o
+SequenceNumber: 45
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 3
+OrderPrice: 46
+InstrumentId: 86829
+OrderId: 92441
+
+HEADER:
+MessageType: a
+SequenceNumber: 46
+
+ANNOUNCEMENT:
+InstrumentId: 149222
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: e
+SequenceNumber: 47
+
+ORDER_EXECUTED:
+PriceAtTrade: 10
+TradeSize: 7
+InstrumentId: 65181
+OrderIdAggressor: 60646
+OrderIdPassive: 40226
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: c
+SequenceNumber: 48
+
+ORDER_CANCEL:
+InstrumentId: 42775
+OrderId: 93897
+
+HEADER:
+MessageType: m
+SequenceNumber: 49
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 84
+OrderPrice: 36
+InstrumentId: 31779
+OrderId: 45363
+
+HEADER:
+MessageType: m
+SequenceNumber: 50
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 17
+OrderPrice: 84
+InstrumentId: 46000
+OrderId: 68494
+
+HEADER:
+MessageType: a
+SequenceNumber: 51
+
+ANNOUNCEMENT:
+InstrumentId: 236385
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: a
+SequenceNumber: 52
+
+ANNOUNCEMENT:
+InstrumentId: 92267
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: m
+SequenceNumber: 53
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 69
+OrderPrice: 32
+InstrumentId: 70164
+OrderId: 2051
+
+HEADER:
+MessageType: m
+SequenceNumber: 54
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 48
+OrderPrice: 55
+InstrumentId: 62353
+OrderId: 54027
+
+HEADER:
+MessageType: o
+SequenceNumber: 55
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 83
+OrderPrice: 26
+InstrumentId: 73558
+OrderId: 21610
+
+HEADER:
+MessageType: a
+SequenceNumber: 56
+
+ANNOUNCEMENT:
+InstrumentId: 382570
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: o
+SequenceNumber: 57
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 8
+OrderPrice: 55
+InstrumentId: 32127
+OrderId: 74966
+
+HEADER:
+MessageType: c
+SequenceNumber: 58
+
+ORDER_CANCEL:
+InstrumentId: 55427
+OrderId: 65408
+
+HEADER:
+MessageType: a
+SequenceNumber: 59
+
+ANNOUNCEMENT:
+InstrumentId: 392131
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: o
+SequenceNumber: 60
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 65
+OrderPrice: 93
+InstrumentId: 46574
+OrderId: 87507
+
+HEADER:
+MessageType: m
+SequenceNumber: 61
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 88
+OrderPrice: 98
+InstrumentId: 39104
+OrderId: 15067
+
+HEADER:
+MessageType: e
+SequenceNumber: 62
+
+ORDER_EXECUTED:
+PriceAtTrade: 38
+TradeSize: 34
+InstrumentId: 14479
+OrderIdAggressor: 34225
+OrderIdPassive: 1250
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: c
+SequenceNumber: 63
+
+ORDER_CANCEL:
+InstrumentId: 42865
+OrderId: 94830
+
+HEADER:
+MessageType: m
+SequenceNumber: 64
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 20
+OrderPrice: 17
+InstrumentId: 25886
+OrderId: 3613
+
+HEADER:
+MessageType: m
+SequenceNumber: 65
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 67
+OrderPrice: 99
+InstrumentId: 41304
+OrderId: 79405
+
+HEADER:
+MessageType: a
+SequenceNumber: 66
+
+ANNOUNCEMENT:
+InstrumentId: 639262
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: e
+SequenceNumber: 67
+
+ORDER_EXECUTED:
+PriceAtTrade: 51
+TradeSize: 93
+InstrumentId: 90575
+OrderIdAggressor: 7876
+OrderIdPassive: 11788
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: c
+SequenceNumber: 68
+
+ORDER_CANCEL:
+InstrumentId: 18432
+OrderId: 41094
+
+HEADER:
+MessageType: e
+SequenceNumber: 69
+
+ORDER_EXECUTED:
+PriceAtTrade: 29
+TradeSize: 67
+InstrumentId: 31911
+OrderIdAggressor: 98570
+OrderIdPassive: 76217
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: c
+SequenceNumber: 70
+
+ORDER_CANCEL:
+InstrumentId: 53206
+OrderId: 97174
+
+HEADER:
+MessageType: a
+SequenceNumber: 71
+
+ANNOUNCEMENT:
+InstrumentId: 417267
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: o
+SequenceNumber: 72
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 88
+OrderPrice: 88
+InstrumentId: 25174
+OrderId: 4650
+
+HEADER:
+MessageType: e
+SequenceNumber: 73
+
+ORDER_EXECUTED:
+PriceAtTrade: 44
+TradeSize: 36
+InstrumentId: 2312
+OrderIdAggressor: 30510
+OrderIdPassive: 69733
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: a
+SequenceNumber: 74
+
+ANNOUNCEMENT:
+InstrumentId: 676866
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: c
+SequenceNumber: 75
+
+ORDER_CANCEL:
+InstrumentId: 72343
+OrderId: 39569
+
+HEADER:
+MessageType: c
+SequenceNumber: 76
+
+ORDER_CANCEL:
+InstrumentId: 10025
+OrderId: 89636
+
+HEADER:
+MessageType: e
+SequenceNumber: 77
+
+ORDER_EXECUTED:
+PriceAtTrade: 2
+TradeSize: 57
+InstrumentId: 79262
+OrderIdAggressor: 78586
+OrderIdPassive: 48784
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: a
+SequenceNumber: 78
+
+ANNOUNCEMENT:
+InstrumentId: 655068
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: c
+SequenceNumber: 79
+
+ORDER_CANCEL:
+InstrumentId: 3947
+OrderId: 89790
+
+HEADER:
+MessageType: o
+SequenceNumber: 80
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 14
+OrderPrice: 17
+InstrumentId: 62193
+OrderId: 38698
+
+HEADER:
+MessageType: m
+SequenceNumber: 81
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 75
+OrderPrice: 25
+InstrumentId: 62807
+OrderId: 14662
+
+HEADER:
+MessageType: c
+SequenceNumber: 82
+
+ORDER_CANCEL:
+InstrumentId: 24860
+OrderId: 20593
+
+HEADER:
+MessageType: c
+SequenceNumber: 83
+
+ORDER_CANCEL:
+InstrumentId: 34644
+OrderId: 48093
+
+HEADER:
+MessageType: o
+SequenceNumber: 84
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 36
+OrderPrice: 67
+InstrumentId: 96644
+OrderId: 23659
+
+HEADER:
+MessageType: c
+SequenceNumber: 85
+
+ORDER_CANCEL:
+InstrumentId: 9663
+OrderId: 35472
+
+HEADER:
+MessageType: c
+SequenceNumber: 86
+
+ORDER_CANCEL:
+InstrumentId: 448
+OrderId: 46560
+
+HEADER:
+MessageType: e
+SequenceNumber: 87
+
+ORDER_EXECUTED:
+PriceAtTrade: 19
+TradeSize: 50
+InstrumentId: 44926
+OrderIdAggressor: 42433
+OrderIdPassive: 97105
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: c
+SequenceNumber: 88
+
+ORDER_CANCEL:
+InstrumentId: 83773
+OrderId: 29273
+
+HEADER:
+MessageType: m
+SequenceNumber: 89
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 14
+OrderPrice: 77
+InstrumentId: 26319
+OrderId: 6930
+
+HEADER:
+MessageType: a
+SequenceNumber: 90
+
+ANNOUNCEMENT:
+InstrumentId: 340976
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: a
+SequenceNumber: 91
+
+ANNOUNCEMENT:
+InstrumentId: 840090
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: e
+SequenceNumber: 92
+
+ORDER_EXECUTED:
+PriceAtTrade: 83
+TradeSize: 95
+InstrumentId: 46587
+OrderIdAggressor: 92362
+OrderIdPassive: 31036
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: o
+SequenceNumber: 93
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 73
+OrderPrice: 96
+InstrumentId: 78198
+OrderId: 82702
+
+HEADER:
+MessageType: o
+SequenceNumber: 94
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 31
+OrderPrice: 2
+InstrumentId: 79629
+OrderId: 3363
+
+HEADER:
+MessageType: a
+SequenceNumber: 95
+
+ANNOUNCEMENT:
+InstrumentId: 4824
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: e
+SequenceNumber: 96
+
+ORDER_EXECUTED:
+PriceAtTrade: 81
+TradeSize: 76
+InstrumentId: 65934
+OrderIdAggressor: 64313
+OrderIdPassive: 50872
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: a
+SequenceNumber: 97
+
+ANNOUNCEMENT:
+InstrumentId: 875452
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: e
+SequenceNumber: 98
+
+ORDER_EXECUTED:
+PriceAtTrade: 92
+TradeSize: 83
+InstrumentId: 10462
+OrderIdAggressor: 4416
+OrderIdPassive: 86575
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: a
+SequenceNumber: 99
+
+ANNOUNCEMENT:
+InstrumentId: 400801
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: m
+SequenceNumber: 100
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 81
+OrderPrice: 97
+InstrumentId: 57068
+OrderId: 52911
+
+HEADER:
+MessageType: m
+SequenceNumber: 101
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 70
+OrderPrice: 31
+InstrumentId: 5372
+OrderId: 45484
+
+HEADER:
+MessageType: a
+SequenceNumber: 102
+
+ANNOUNCEMENT:
+InstrumentId: 996685
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: c
+SequenceNumber: 103
+
+ORDER_CANCEL:
+InstrumentId: 15339
+OrderId: 44114
+
+HEADER:
+MessageType: m
+SequenceNumber: 104
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 95
+OrderPrice: 48
+InstrumentId: 99527
+OrderId: 15932
+
+HEADER:
+MessageType: c
+SequenceNumber: 105
+
+ORDER_CANCEL:
+InstrumentId: 61189
+OrderId: 96123
+
+HEADER:
+MessageType: a
+SequenceNumber: 106
+
+ANNOUNCEMENT:
+InstrumentId: 69917
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: o
+SequenceNumber: 107
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 18
+OrderPrice: 88
+InstrumentId: 47604
+OrderId: 72118
+
+HEADER:
+MessageType: a
+SequenceNumber: 108
+
+ANNOUNCEMENT:
+InstrumentId: 190675
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: e
+SequenceNumber: 109
+
+ORDER_EXECUTED:
+PriceAtTrade: 6
+TradeSize: 15
+InstrumentId: 59788
+OrderIdAggressor: 19615
+OrderIdPassive: 95830
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: a
+SequenceNumber: 110
+
+ANNOUNCEMENT:
+InstrumentId: 902369
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: m
+SequenceNumber: 111
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 69
+OrderPrice: 66
+InstrumentId: 36840
+OrderId: 89287
+
+HEADER:
+MessageType: a
+SequenceNumber: 112
+
+ANNOUNCEMENT:
+InstrumentId: 706952
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: e
+SequenceNumber: 113
+
+ORDER_EXECUTED:
+PriceAtTrade: 66
+TradeSize: 2
+InstrumentId: 49373
+OrderIdAggressor: 91251
+OrderIdPassive: 81935
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: o
+SequenceNumber: 114
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 7
+OrderPrice: 8
+InstrumentId: 81625
+OrderId: 70258
+
+HEADER:
+MessageType: a
+SequenceNumber: 115
+
+ANNOUNCEMENT:
+InstrumentId: 345303
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: e
+SequenceNumber: 116
+
+ORDER_EXECUTED:
+PriceAtTrade: 60
+TradeSize: 11
+InstrumentId: 37622
+OrderIdAggressor: 53993
+OrderIdPassive: 30991
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: m
+SequenceNumber: 117
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 70
+OrderPrice: 89
+InstrumentId: 16956
+OrderId: 59333
+
+HEADER:
+MessageType: e
+SequenceNumber: 118
+
+ORDER_EXECUTED:
+PriceAtTrade: 28
+TradeSize: 34
+InstrumentId: 55667
+OrderIdAggressor: 47419
+OrderIdPassive: 41350
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: a
+SequenceNumber: 119
+
+ANNOUNCEMENT:
+InstrumentId: 563788
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: a
+SequenceNumber: 120
+
+ANNOUNCEMENT:
+InstrumentId: 554146
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: m
+SequenceNumber: 121
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 96
+OrderPrice: 77
+InstrumentId: 35325
+OrderId: 94590
+
+HEADER:
+MessageType: c
+SequenceNumber: 122
+
+ORDER_CANCEL:
+InstrumentId: 75373
+OrderId: 75521
+
+HEADER:
+MessageType: c
+SequenceNumber: 123
+
+ORDER_CANCEL:
+InstrumentId: 94655
+OrderId: 99910
+
+HEADER:
+MessageType: o
+SequenceNumber: 124
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 64
+OrderPrice: 28
+InstrumentId: 9936
+OrderId: 69564
+
+HEADER:
+MessageType: o
+SequenceNumber: 125
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 77
+OrderPrice: 27
+InstrumentId: 77479
+OrderId: 23775
+
+HEADER:
+MessageType: e
+SequenceNumber: 126
+
+ORDER_EXECUTED:
+PriceAtTrade: 90
+TradeSize: 23
+InstrumentId: 15055
+OrderIdAggressor: 11789
+OrderIdPassive: 51565
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: a
+SequenceNumber: 127
+
+ANNOUNCEMENT:
+InstrumentId: 702106
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: c
+SequenceNumber: 128
+
+ORDER_CANCEL:
+InstrumentId: 17202
+OrderId: 28994
+
+HEADER:
+MessageType: c
+SequenceNumber: 129
+
+ORDER_CANCEL:
+InstrumentId: 67737
+OrderId: 65983
+
+HEADER:
+MessageType: m
+SequenceNumber: 130
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 77
+OrderPrice: 50
+InstrumentId: 13322
+OrderId: 76294
+
+HEADER:
+MessageType: a
+SequenceNumber: 131
+
+ANNOUNCEMENT:
+InstrumentId: 281285
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: o
+SequenceNumber: 132
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 83
+OrderPrice: 5
+InstrumentId: 5844
+OrderId: 44693
+
+HEADER:
+MessageType: e
+SequenceNumber: 133
+
+ORDER_EXECUTED:
+PriceAtTrade: 91
+TradeSize: 38
+InstrumentId: 36997
+OrderIdAggressor: 77021
+OrderIdPassive: 2445
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: o
+SequenceNumber: 134
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 67
+OrderPrice: 63
+InstrumentId: 53827
+OrderId: 27825
+
+HEADER:
+MessageType: m
+SequenceNumber: 135
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 29
+OrderPrice: 72
+InstrumentId: 15683
+OrderId: 45214
+
+HEADER:
+MessageType: m
+SequenceNumber: 136
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 64
+OrderPrice: 83
+InstrumentId: 5835
+OrderId: 72621
+
+HEADER:
+MessageType: m
+SequenceNumber: 137
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 13
+OrderPrice: 22
+InstrumentId: 54455
+OrderId: 66401
+
+HEADER:
+MessageType: m
+SequenceNumber: 138
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 15
+OrderPrice: 23
+InstrumentId: 97177
+OrderId: 16869
+
+HEADER:
+MessageType: c
+SequenceNumber: 139
+
+ORDER_CANCEL:
+InstrumentId: 61005
+OrderId: 43077
+
+HEADER:
+MessageType: o
+SequenceNumber: 140
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 96
+OrderPrice: 48
+InstrumentId: 85631
+OrderId: 14438
+
+HEADER:
+MessageType: c
+SequenceNumber: 141
+
+ORDER_CANCEL:
+InstrumentId: 13847
+OrderId: 78544
+
+HEADER:
+MessageType: c
+SequenceNumber: 142
+
+ORDER_CANCEL:
+InstrumentId: 12342
+OrderId: 47102
+
+HEADER:
+MessageType: a
+SequenceNumber: 143
+
+ANNOUNCEMENT:
+InstrumentId: 965586
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: a
+SequenceNumber: 144
+
+ANNOUNCEMENT:
+InstrumentId: 820560
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: o
+SequenceNumber: 145
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 91
+OrderPrice: 80
+InstrumentId: 2789
+OrderId: 37726
+
+HEADER:
+MessageType: a
+SequenceNumber: 146
+
+ANNOUNCEMENT:
+InstrumentId: 292231
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: m
+SequenceNumber: 147
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 38
+OrderPrice: 31
+InstrumentId: 29214
+OrderId: 56063
+
+HEADER:
+MessageType: c
+SequenceNumber: 148
+
+ORDER_CANCEL:
+InstrumentId: 16524
+OrderId: 58765
+
+HEADER:
+MessageType: m
+SequenceNumber: 149
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 24
+OrderPrice: 82
+InstrumentId: 5935
+OrderId: 98900
+
+HEADER:
+MessageType: e
+SequenceNumber: 150
+
+ORDER_EXECUTED:
+PriceAtTrade: 88
+TradeSize: 96
+InstrumentId: 56526
+OrderIdAggressor: 7580
+OrderIdPassive: 62478
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: e
+SequenceNumber: 151
+
+ORDER_EXECUTED:
+PriceAtTrade: 15
+TradeSize: 1
+InstrumentId: 9705
+OrderIdAggressor: 37435
+OrderIdPassive: 45933
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: a
+SequenceNumber: 152
+
+ANNOUNCEMENT:
+InstrumentId: 304033
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: a
+SequenceNumber: 153
+
+ANNOUNCEMENT:
+InstrumentId: 929382
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: m
+SequenceNumber: 154
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 38
+OrderPrice: 56
+InstrumentId: 83816
+OrderId: 93691
+
+HEADER:
+MessageType: e
+SequenceNumber: 155
+
+ORDER_EXECUTED:
+PriceAtTrade: 22
+TradeSize: 45
+InstrumentId: 21575
+OrderIdAggressor: 90272
+OrderIdPassive: 94947
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: m
+SequenceNumber: 156
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 51
+OrderPrice: 60
+InstrumentId: 66614
+OrderId: 53911
+
+HEADER:
+MessageType: c
+SequenceNumber: 157
+
+ORDER_CANCEL:
+InstrumentId: 50112
+OrderId: 91710
+
+HEADER:
+MessageType: m
+SequenceNumber: 158
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 85
+OrderPrice: 23
+InstrumentId: 43020
+OrderId: 64378
+
+HEADER:
+MessageType: m
+SequenceNumber: 159
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 11
+OrderPrice: 48
+InstrumentId: 8680
+OrderId: 76536
+
+HEADER:
+MessageType: m
+SequenceNumber: 160
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 59
+OrderPrice: 93
+InstrumentId: 71847
+OrderId: 28517
+
+HEADER:
+MessageType: e
+SequenceNumber: 161
+
+ORDER_EXECUTED:
+PriceAtTrade: 67
+TradeSize: 10
+InstrumentId: 93235
+OrderIdAggressor: 58138
+OrderIdPassive: 49014
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: a
+SequenceNumber: 162
+
+ANNOUNCEMENT:
+InstrumentId: 165863
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: m
+SequenceNumber: 163
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 34
+OrderPrice: 75
+InstrumentId: 57984
+OrderId: 34786
+
+HEADER:
+MessageType: e
+SequenceNumber: 164
+
+ORDER_EXECUTED:
+PriceAtTrade: 11
+TradeSize: 29
+InstrumentId: 3622
+OrderIdAggressor: 77914
+OrderIdPassive: 31533
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: a
+SequenceNumber: 165
+
+ANNOUNCEMENT:
+InstrumentId: 702155
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: m
+SequenceNumber: 166
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 14
+OrderPrice: 15
+InstrumentId: 65631
+OrderId: 31197
+
+HEADER:
+MessageType: c
+SequenceNumber: 167
+
+ORDER_CANCEL:
+InstrumentId: 55888
+OrderId: 70358
+
+HEADER:
+MessageType: e
+SequenceNumber: 168
+
+ORDER_EXECUTED:
+PriceAtTrade: 46
+TradeSize: 30
+InstrumentId: 94184
+OrderIdAggressor: 3183
+OrderIdPassive: 26522
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: m
+SequenceNumber: 169
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 80
+OrderPrice: 70
+InstrumentId: 53945
+OrderId: 40089
+
+HEADER:
+MessageType: e
+SequenceNumber: 170
+
+ORDER_EXECUTED:
+PriceAtTrade: 96
+TradeSize: 52
+InstrumentId: 71280
+OrderIdAggressor: 83571
+OrderIdPassive: 34255
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: o
+SequenceNumber: 171
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 32
+OrderPrice: 33
+InstrumentId: 23681
+OrderId: 52063
+
+HEADER:
+MessageType: o
+SequenceNumber: 172
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 21
+OrderPrice: 63
+InstrumentId: 71135
+OrderId: 19266
+
+HEADER:
+MessageType: c
+SequenceNumber: 173
+
+ORDER_CANCEL:
+InstrumentId: 20311
+OrderId: 25948
+
+HEADER:
+MessageType: e
+SequenceNumber: 174
+
+ORDER_EXECUTED:
+PriceAtTrade: 51
+TradeSize: 59
+InstrumentId: 92574
+OrderIdAggressor: 38111
+OrderIdPassive: 31226
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: a
+SequenceNumber: 175
+
+ANNOUNCEMENT:
+InstrumentId: 81681
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: o
+SequenceNumber: 176
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 37
+OrderPrice: 71
+InstrumentId: 75700
+OrderId: 57788
+
+HEADER:
+MessageType: m
+SequenceNumber: 177
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 50
+OrderPrice: 75
+InstrumentId: 24839
+OrderId: 93073
+
+HEADER:
+MessageType: a
+SequenceNumber: 178
+
+ANNOUNCEMENT:
+InstrumentId: 782274
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: o
+SequenceNumber: 179
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 24
+OrderPrice: 45
+InstrumentId: 77932
+OrderId: 68720
+
+HEADER:
+MessageType: e
+SequenceNumber: 180
+
+ORDER_EXECUTED:
+PriceAtTrade: 90
+TradeSize: 27
+InstrumentId: 25508
+OrderIdAggressor: 33723
+OrderIdPassive: 88723
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: c
+SequenceNumber: 181
+
+ORDER_CANCEL:
+InstrumentId: 89877
+OrderId: 48208
+
+HEADER:
+MessageType: m
+SequenceNumber: 182
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 79
+OrderPrice: 49
+InstrumentId: 74199
+OrderId: 7129
+
+HEADER:
+MessageType: a
+SequenceNumber: 183
+
+ANNOUNCEMENT:
+InstrumentId: 286752
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: c
+SequenceNumber: 184
+
+ORDER_CANCEL:
+InstrumentId: 44172
+OrderId: 4773
+
+HEADER:
+MessageType: o
+SequenceNumber: 185
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 31
+OrderPrice: 48
+InstrumentId: 3886
+OrderId: 80129
+
+HEADER:
+MessageType: e
+SequenceNumber: 186
+
+ORDER_EXECUTED:
+PriceAtTrade: 58
+TradeSize: 11
+InstrumentId: 4552
+OrderIdAggressor: 3828
+OrderIdPassive: 22935
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: c
+SequenceNumber: 187
+
+ORDER_CANCEL:
+InstrumentId: 69426
+OrderId: 55227
+
+HEADER:
+MessageType: e
+SequenceNumber: 188
+
+ORDER_EXECUTED:
+PriceAtTrade: 47
+TradeSize: 17
+InstrumentId: 94377
+OrderIdAggressor: 45815
+OrderIdPassive: 36335
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: o
+SequenceNumber: 189
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 2
+OrderPrice: 56
+InstrumentId: 93344
+OrderId: 92132
+
+HEADER:
+MessageType: a
+SequenceNumber: 190
+
+ANNOUNCEMENT:
+InstrumentId: 813885
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: o
+SequenceNumber: 191
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 70
+OrderPrice: 80
+InstrumentId: 25186
+OrderId: 88145
+
+HEADER:
+MessageType: e
+SequenceNumber: 192
+
+ORDER_EXECUTED:
+PriceAtTrade: 99
+TradeSize: 25
+InstrumentId: 89810
+OrderIdAggressor: 96050
+OrderIdPassive: 8025
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: m
+SequenceNumber: 193
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 83
+OrderPrice: 50
+InstrumentId: 30929
+OrderId: 69405
+
+HEADER:
+MessageType: m
+SequenceNumber: 194
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 97
+OrderPrice: 2
+InstrumentId: 89992
+OrderId: 85116
+
+HEADER:
+MessageType: c
+SequenceNumber: 195
+
+ORDER_CANCEL:
+InstrumentId: 75299
+OrderId: 67011
+
+HEADER:
+MessageType: e
+SequenceNumber: 196
+
+ORDER_EXECUTED:
+PriceAtTrade: 100
+TradeSize: 81
+InstrumentId: 8765
+OrderIdAggressor: 72864
+OrderIdPassive: 6894
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: e
+SequenceNumber: 197
+
+ORDER_EXECUTED:
+PriceAtTrade: 89
+TradeSize: 34
+InstrumentId: 18838
+OrderIdAggressor: 28565
+OrderIdPassive: 37155
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: m
+SequenceNumber: 198
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 73
+OrderPrice: 94
+InstrumentId: 78100
+OrderId: 11088
+
+HEADER:
+MessageType: c
+SequenceNumber: 199
+
+ORDER_CANCEL:
+InstrumentId: 96504
+OrderId: 19665
+
+HEADER:
+MessageType: a
+SequenceNumber: 200
+
+ANNOUNCEMENT:
+InstrumentId: 797240
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: c
+SequenceNumber: 201
+
+ORDER_CANCEL:
+InstrumentId: 58700
+OrderId: 5353
+
+HEADER:
+MessageType: c
+SequenceNumber: 202
+
+ORDER_CANCEL:
+InstrumentId: 49657
+OrderId: 80974
+
+HEADER:
+MessageType: e
+SequenceNumber: 203
+
+ORDER_EXECUTED:
+PriceAtTrade: 6
+TradeSize: 49
+InstrumentId: 97009
+OrderIdAggressor: 26816
+OrderIdPassive: 4800
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: a
+SequenceNumber: 204
+
+ANNOUNCEMENT:
+InstrumentId: 846208
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: o
+SequenceNumber: 205
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 21
+OrderPrice: 71
+InstrumentId: 58390
+OrderId: 17298
+
+HEADER:
+MessageType: m
+SequenceNumber: 206
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 16
+OrderPrice: 24
+InstrumentId: 62373
+OrderId: 61680
+
+HEADER:
+MessageType: c
+SequenceNumber: 207
+
+ORDER_CANCEL:
+InstrumentId: 53355
+OrderId: 31557
+
+HEADER:
+MessageType: m
+SequenceNumber: 208
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 54
+OrderPrice: 6
+InstrumentId: 46571
+OrderId: 88311
+
+HEADER:
+MessageType: m
+SequenceNumber: 209
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 50
+OrderPrice: 97
+InstrumentId: 70232
+OrderId: 76538
+
+HEADER:
+MessageType: c
+SequenceNumber: 210
+
+ORDER_CANCEL:
+InstrumentId: 3477
+OrderId: 35129
+
+HEADER:
+MessageType: a
+SequenceNumber: 211
+
+ANNOUNCEMENT:
+InstrumentId: 382428
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: o
+SequenceNumber: 212
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 4
+OrderPrice: 24
+InstrumentId: 19080
+OrderId: 57708
+
+HEADER:
+MessageType: o
+SequenceNumber: 213
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 68
+OrderPrice: 10
+InstrumentId: 80588
+OrderId: 98734
+
+HEADER:
+MessageType: e
+SequenceNumber: 214
+
+ORDER_EXECUTED:
+PriceAtTrade: 24
+TradeSize: 89
+InstrumentId: 77232
+OrderIdAggressor: 71307
+OrderIdPassive: 22115
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: m
+SequenceNumber: 215
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 81
+OrderPrice: 56
+InstrumentId: 11198
+OrderId: 90984
+
+HEADER:
+MessageType: e
+SequenceNumber: 216
+
+ORDER_EXECUTED:
+PriceAtTrade: 90
+TradeSize: 56
+InstrumentId: 92225
+OrderIdAggressor: 70254
+OrderIdPassive: 16660
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: c
+SequenceNumber: 217
+
+ORDER_CANCEL:
+InstrumentId: 40786
+OrderId: 97595
+
+HEADER:
+MessageType: o
+SequenceNumber: 218
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 73
+OrderPrice: 8
+InstrumentId: 70745
+OrderId: 26599
+
+HEADER:
+MessageType: m
+SequenceNumber: 219
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 46
+OrderPrice: 8
+InstrumentId: 27920
+OrderId: 66467
+
+HEADER:
+MessageType: o
+SequenceNumber: 220
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 78
+OrderPrice: 69
+InstrumentId: 47385
+OrderId: 85979
+
+HEADER:
+MessageType: c
+SequenceNumber: 221
+
+ORDER_CANCEL:
+InstrumentId: 12274
+OrderId: 98274
+
+HEADER:
+MessageType: c
+SequenceNumber: 222
+
+ORDER_CANCEL:
+InstrumentId: 39632
+OrderId: 65779
+
+HEADER:
+MessageType: o
+SequenceNumber: 223
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 25
+OrderPrice: 13
+InstrumentId: 4001
+OrderId: 66818
+
+HEADER:
+MessageType: m
+SequenceNumber: 224
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 28
+OrderPrice: 60
+InstrumentId: 10450
+OrderId: 50669
+
+HEADER:
+MessageType: c
+SequenceNumber: 225
+
+ORDER_CANCEL:
+InstrumentId: 36553
+OrderId: 27593
+
+HEADER:
+MessageType: o
+SequenceNumber: 226
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 46
+OrderPrice: 11
+InstrumentId: 89804
+OrderId: 45315
+
+HEADER:
+MessageType: a
+SequenceNumber: 227
+
+ANNOUNCEMENT:
+InstrumentId: 239864
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: m
+SequenceNumber: 228
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 84
+OrderPrice: 62
+InstrumentId: 35736
+OrderId: 63273
+
+HEADER:
+MessageType: a
+SequenceNumber: 229
+
+ANNOUNCEMENT:
+InstrumentId: 26305
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: e
+SequenceNumber: 230
+
+ORDER_EXECUTED:
+PriceAtTrade: 14
+TradeSize: 85
+InstrumentId: 30521
+OrderIdAggressor: 8654
+OrderIdPassive: 11180
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: o
+SequenceNumber: 231
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 95
+OrderPrice: 6
+InstrumentId: 85961
+OrderId: 56452
+
+HEADER:
+MessageType: a
+SequenceNumber: 232
+
+ANNOUNCEMENT:
+InstrumentId: 768972
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: o
+SequenceNumber: 233
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 25
+OrderPrice: 100
+InstrumentId: 4689
+OrderId: 28878
+
+HEADER:
+MessageType: m
+SequenceNumber: 234
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 17
+OrderPrice: 39
+InstrumentId: 98064
+OrderId: 96239
+
+HEADER:
+MessageType: m
+SequenceNumber: 235
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 78
+OrderPrice: 41
+InstrumentId: 90185
+OrderId: 4959
+
+HEADER:
+MessageType: a
+SequenceNumber: 236
+
+ANNOUNCEMENT:
+InstrumentId: 568606
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: o
+SequenceNumber: 237
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 80
+OrderPrice: 75
+InstrumentId: 66572
+OrderId: 82580
+
+HEADER:
+MessageType: a
+SequenceNumber: 238
+
+ANNOUNCEMENT:
+InstrumentId: 368373
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: o
+SequenceNumber: 239
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 68
+OrderPrice: 46
+InstrumentId: 35531
+OrderId: 62188
+
+HEADER:
+MessageType: c
+SequenceNumber: 240
+
+ORDER_CANCEL:
+InstrumentId: 57515
+OrderId: 41259
+
+HEADER:
+MessageType: a
+SequenceNumber: 241
+
+ANNOUNCEMENT:
+InstrumentId: 450579
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: a
+SequenceNumber: 242
+
+ANNOUNCEMENT:
+InstrumentId: 335727
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: o
+SequenceNumber: 243
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 48
+OrderPrice: 49
+InstrumentId: 47008
+OrderId: 61231
+
+HEADER:
+MessageType: e
+SequenceNumber: 244
+
+ORDER_EXECUTED:
+PriceAtTrade: 87
+TradeSize: 85
+InstrumentId: 58866
+OrderIdAggressor: 77822
+OrderIdPassive: 75198
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: e
+SequenceNumber: 245
+
+ORDER_EXECUTED:
+PriceAtTrade: 22
+TradeSize: 96
+InstrumentId: 29074
+OrderIdAggressor: 59745
+OrderIdPassive: 73966
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: m
+SequenceNumber: 246
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 25
+OrderPrice: 8
+InstrumentId: 24722
+OrderId: 49507
+
+HEADER:
+MessageType: m
+SequenceNumber: 247
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 16
+OrderPrice: 50
+InstrumentId: 21354
+OrderId: 90834
+
+HEADER:
+MessageType: e
+SequenceNumber: 248
+
+ORDER_EXECUTED:
+PriceAtTrade: 18
+TradeSize: 26
+InstrumentId: 97486
+OrderIdAggressor: 8522
+OrderIdPassive: 57609
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: a
+SequenceNumber: 249
+
+ANNOUNCEMENT:
+InstrumentId: 436962
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: e
+SequenceNumber: 250
+
+ORDER_EXECUTED:
+PriceAtTrade: 22
+TradeSize: 22
+InstrumentId: 1832
+OrderIdAggressor: 89485
+OrderIdPassive: 74104
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: m
+SequenceNumber: 251
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 21
+OrderPrice: 22
+InstrumentId: 68231
+OrderId: 41591
+
+HEADER:
+MessageType: o
+SequenceNumber: 252
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 22
+OrderPrice: 85
+InstrumentId: 51290
+OrderId: 34420
+
+HEADER:
+MessageType: e
+SequenceNumber: 253
+
+ORDER_EXECUTED:
+PriceAtTrade: 21
+TradeSize: 51
+InstrumentId: 91183
+OrderIdAggressor: 53679
+OrderIdPassive: 77489
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: c
+SequenceNumber: 254
+
+ORDER_CANCEL:
+InstrumentId: 26158
+OrderId: 35444
+
+HEADER:
+MessageType: m
+SequenceNumber: 255
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 27
+OrderPrice: 65
+InstrumentId: 52718
+OrderId: 73779
+
+HEADER:
+MessageType: c
+SequenceNumber: 256
+
+ORDER_CANCEL:
+InstrumentId: 61797
+OrderId: 52833
+
+HEADER:
+MessageType: e
+SequenceNumber: 257
+
+ORDER_EXECUTED:
+PriceAtTrade: 60
+TradeSize: 67
+InstrumentId: 35135
+OrderIdAggressor: 36724
+OrderIdPassive: 64307
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: e
+SequenceNumber: 258
+
+ORDER_EXECUTED:
+PriceAtTrade: 38
+TradeSize: 42
+InstrumentId: 43647
+OrderIdAggressor: 72891
+OrderIdPassive: 17954
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: o
+SequenceNumber: 259
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 67
+OrderPrice: 83
+InstrumentId: 81320
+OrderId: 57400
+
+HEADER:
+MessageType: o
+SequenceNumber: 260
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 93
+OrderPrice: 10
+InstrumentId: 7265
+OrderId: 54389
+
+HEADER:
+MessageType: m
+SequenceNumber: 261
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 13
+OrderPrice: 61
+InstrumentId: 30690
+OrderId: 5612
+
+HEADER:
+MessageType: a
+SequenceNumber: 262
+
+ANNOUNCEMENT:
+InstrumentId: 547125
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: e
+SequenceNumber: 263
+
+ORDER_EXECUTED:
+PriceAtTrade: 34
+TradeSize: 9
+InstrumentId: 65561
+OrderIdAggressor: 99814
+OrderIdPassive: 44648
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: e
+SequenceNumber: 264
+
+ORDER_EXECUTED:
+PriceAtTrade: 23
+TradeSize: 55
+InstrumentId: 46427
+OrderIdAggressor: 95376
+OrderIdPassive: 51616
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: o
+SequenceNumber: 265
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 96
+OrderPrice: 69
+InstrumentId: 3433
+OrderId: 27132
+
+HEADER:
+MessageType: m
+SequenceNumber: 266
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 62
+OrderPrice: 96
+InstrumentId: 28600
+OrderId: 77449
+
+HEADER:
+MessageType: e
+SequenceNumber: 267
+
+ORDER_EXECUTED:
+PriceAtTrade: 48
+TradeSize: 76
+InstrumentId: 70442
+OrderIdAggressor: 94211
+OrderIdPassive: 10863
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: m
+SequenceNumber: 268
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 100
+OrderPrice: 62
+InstrumentId: 4090
+OrderId: 55335
+
+HEADER:
+MessageType: o
+SequenceNumber: 269
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 81
+OrderPrice: 54
+InstrumentId: 11854
+OrderId: 61309
+
+HEADER:
+MessageType: m
+SequenceNumber: 270
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 35
+OrderPrice: 37
+InstrumentId: 40628
+OrderId: 10895
+
+HEADER:
+MessageType: e
+SequenceNumber: 271
+
+ORDER_EXECUTED:
+PriceAtTrade: 81
+TradeSize: 84
+InstrumentId: 97819
+OrderIdAggressor: 86583
+OrderIdPassive: 62928
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: a
+SequenceNumber: 272
+
+ANNOUNCEMENT:
+InstrumentId: 692788
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: o
+SequenceNumber: 273
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 45
+OrderPrice: 37
+InstrumentId: 20984
+OrderId: 22659
+
+HEADER:
+MessageType: c
+SequenceNumber: 274
+
+ORDER_CANCEL:
+InstrumentId: 50181
+OrderId: 98146
+
+HEADER:
+MessageType: o
+SequenceNumber: 275
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 16
+OrderPrice: 70
+InstrumentId: 29721
+OrderId: 58008
+
+HEADER:
+MessageType: e
+SequenceNumber: 276
+
+ORDER_EXECUTED:
+PriceAtTrade: 30
+TradeSize: 75
+InstrumentId: 97614
+OrderIdAggressor: 92569
+OrderIdPassive: 42406
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: m
+SequenceNumber: 277
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 36
+OrderPrice: 65
+InstrumentId: 47819
+OrderId: 67632
+
+HEADER:
+MessageType: o
+SequenceNumber: 278
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 15
+OrderPrice: 53
+InstrumentId: 39857
+OrderId: 22429
+
+HEADER:
+MessageType: a
+SequenceNumber: 279
+
+ANNOUNCEMENT:
+InstrumentId: 80400
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: e
+SequenceNumber: 280
+
+ORDER_EXECUTED:
+PriceAtTrade: 9
+TradeSize: 17
+InstrumentId: 70219
+OrderIdAggressor: 83157
+OrderIdPassive: 83346
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: o
+SequenceNumber: 281
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 83
+OrderPrice: 38
+InstrumentId: 44847
+OrderId: 71225
+
+HEADER:
+MessageType: e
+SequenceNumber: 282
+
+ORDER_EXECUTED:
+PriceAtTrade: 28
+TradeSize: 56
+InstrumentId: 9535
+OrderIdAggressor: 68997
+OrderIdPassive: 79284
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: e
+SequenceNumber: 283
+
+ORDER_EXECUTED:
+PriceAtTrade: 38
+TradeSize: 78
+InstrumentId: 60674
+OrderIdAggressor: 78321
+OrderIdPassive: 29655
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: o
+SequenceNumber: 284
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 57
+OrderPrice: 54
+InstrumentId: 12543
+OrderId: 52915
+
+HEADER:
+MessageType: a
+SequenceNumber: 285
+
+ANNOUNCEMENT:
+InstrumentId: 602348
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: o
+SequenceNumber: 286
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 8
+OrderPrice: 41
+InstrumentId: 40004
+OrderId: 20441
+
+HEADER:
+MessageType: c
+SequenceNumber: 287
+
+ORDER_CANCEL:
+InstrumentId: 56953
+OrderId: 49403
+
+HEADER:
+MessageType: c
+SequenceNumber: 288
+
+ORDER_CANCEL:
+InstrumentId: 44625
+OrderId: 22805
+
+HEADER:
+MessageType: a
+SequenceNumber: 289
+
+ANNOUNCEMENT:
+InstrumentId: 70200
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: e
+SequenceNumber: 290
+
+ORDER_EXECUTED:
+PriceAtTrade: 9
+TradeSize: 14
+InstrumentId: 33476
+OrderIdAggressor: 40096
+OrderIdPassive: 58025
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: e
+SequenceNumber: 291
+
+ORDER_EXECUTED:
+PriceAtTrade: 100
+TradeSize: 87
+InstrumentId: 50496
+OrderIdAggressor: 74945
+OrderIdPassive: 24335
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: e
+SequenceNumber: 292
+
+ORDER_EXECUTED:
+PriceAtTrade: 73
+TradeSize: 45
+InstrumentId: 21406
+OrderIdAggressor: 22424
+OrderIdPassive: 85916
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: a
+SequenceNumber: 293
+
+ANNOUNCEMENT:
+InstrumentId: 895170
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: m
+SequenceNumber: 294
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 6
+OrderPrice: 15
+InstrumentId: 20312
+OrderId: 49583
+
+HEADER:
+MessageType: c
+SequenceNumber: 295
+
+ORDER_CANCEL:
+InstrumentId: 73499
+OrderId: 14302
+
+HEADER:
+MessageType: e
+SequenceNumber: 296
+
+ORDER_EXECUTED:
+PriceAtTrade: 49
+TradeSize: 74
+InstrumentId: 47984
+OrderIdAggressor: 85821
+OrderIdPassive: 28623
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: c
+SequenceNumber: 297
+
+ORDER_CANCEL:
+InstrumentId: 68224
+OrderId: 57018
+
+HEADER:
+MessageType: o
+SequenceNumber: 298
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 98
+OrderPrice: 98
+InstrumentId: 12383
+OrderId: 62488
+
+HEADER:
+MessageType: c
+SequenceNumber: 299
+
+ORDER_CANCEL:
+InstrumentId: 48477
+OrderId: 11868
+
+HEADER:
+MessageType: o
+SequenceNumber: 300
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 20
+OrderPrice: 50
+InstrumentId: 50520
+OrderId: 91845
+
+HEADER:
+MessageType: c
+SequenceNumber: 301
+
+ORDER_CANCEL:
+InstrumentId: 35664
+OrderId: 94462
+
+HEADER:
+MessageType: o
+SequenceNumber: 302
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 73
+OrderPrice: 14
+InstrumentId: 90904
+OrderId: 33938
+
+HEADER:
+MessageType: o
+SequenceNumber: 303
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 46
+OrderPrice: 24
+InstrumentId: 98486
+OrderId: 97734
+
+HEADER:
+MessageType: e
+SequenceNumber: 304
+
+ORDER_EXECUTED:
+PriceAtTrade: 24
+TradeSize: 89
+InstrumentId: 87862
+OrderIdAggressor: 46738
+OrderIdPassive: 42234
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: c
+SequenceNumber: 305
+
+ORDER_CANCEL:
+InstrumentId: 96644
+OrderId: 44262
+
+HEADER:
+MessageType: e
+SequenceNumber: 306
+
+ORDER_EXECUTED:
+PriceAtTrade: 69
+TradeSize: 90
+InstrumentId: 38645
+OrderIdAggressor: 24927
+OrderIdPassive: 12188
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: c
+SequenceNumber: 307
+
+ORDER_CANCEL:
+InstrumentId: 5639
+OrderId: 59107
+
+HEADER:
+MessageType: o
+SequenceNumber: 308
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 29
+OrderPrice: 4
+InstrumentId: 83358
+OrderId: 75096
+
+HEADER:
+MessageType: o
+SequenceNumber: 309
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 27
+OrderPrice: 85
+InstrumentId: 36080
+OrderId: 73791
+
+HEADER:
+MessageType: a
+SequenceNumber: 310
+
+ANNOUNCEMENT:
+InstrumentId: 150949
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: o
+SequenceNumber: 311
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 70
+OrderPrice: 46
+InstrumentId: 90004
+OrderId: 81457
+
+HEADER:
+MessageType: m
+SequenceNumber: 312
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 97
+OrderPrice: 98
+InstrumentId: 55659
+OrderId: 77007
+
+HEADER:
+MessageType: a
+SequenceNumber: 313
+
+ANNOUNCEMENT:
+InstrumentId: 410703
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: e
+SequenceNumber: 314
+
+ORDER_EXECUTED:
+PriceAtTrade: 53
+TradeSize: 19
+InstrumentId: 66224
+OrderIdAggressor: 19746
+OrderIdPassive: 92702
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: o
+SequenceNumber: 315
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 38
+OrderPrice: 8
+InstrumentId: 85134
+OrderId: 67470
+
+HEADER:
+MessageType: a
+SequenceNumber: 316
+
+ANNOUNCEMENT:
+InstrumentId: 466639
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: m
+SequenceNumber: 317
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 30
+OrderPrice: 27
+InstrumentId: 45595
+OrderId: 40788
+
+HEADER:
+MessageType: m
+SequenceNumber: 318
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 92
+OrderPrice: 41
+InstrumentId: 31645
+OrderId: 6088
+
+HEADER:
+MessageType: a
+SequenceNumber: 319
+
+ANNOUNCEMENT:
+InstrumentId: 776661
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: a
+SequenceNumber: 320
+
+ANNOUNCEMENT:
+InstrumentId: 24523
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: o
+SequenceNumber: 321
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 100
+OrderPrice: 100
+InstrumentId: 33804
+OrderId: 21086
+
+HEADER:
+MessageType: m
+SequenceNumber: 322
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 29
+OrderPrice: 85
+InstrumentId: 70426
+OrderId: 45031
+
+HEADER:
+MessageType: e
+SequenceNumber: 323
+
+ORDER_EXECUTED:
+PriceAtTrade: 86
+TradeSize: 93
+InstrumentId: 16246
+OrderIdAggressor: 34335
+OrderIdPassive: 63136
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: e
+SequenceNumber: 324
+
+ORDER_EXECUTED:
+PriceAtTrade: 22
+TradeSize: 20
+InstrumentId: 15387
+OrderIdAggressor: 67737
+OrderIdPassive: 13614
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: o
+SequenceNumber: 325
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 66
+OrderPrice: 11
+InstrumentId: 33906
+OrderId: 44358
+
+HEADER:
+MessageType: c
+SequenceNumber: 326
+
+ORDER_CANCEL:
+InstrumentId: 8126
+OrderId: 68898
+
+HEADER:
+MessageType: m
+SequenceNumber: 327
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 64
+OrderPrice: 59
+InstrumentId: 16765
+OrderId: 78888
+
+HEADER:
+MessageType: e
+SequenceNumber: 328
+
+ORDER_EXECUTED:
+PriceAtTrade: 14
+TradeSize: 97
+InstrumentId: 78242
+OrderIdAggressor: 76045
+OrderIdPassive: 27593
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: o
+SequenceNumber: 329
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 7
+OrderPrice: 7
+InstrumentId: 55463
+OrderId: 48182
+
+HEADER:
+MessageType: c
+SequenceNumber: 330
+
+ORDER_CANCEL:
+InstrumentId: 11131
+OrderId: 5233
+
+HEADER:
+MessageType: o
+SequenceNumber: 331
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 89
+OrderPrice: 38
+InstrumentId: 53579
+OrderId: 24422
+
+HEADER:
+MessageType: o
+SequenceNumber: 332
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 16
+OrderPrice: 67
+InstrumentId: 12482
+OrderId: 61067
+
+HEADER:
+MessageType: e
+SequenceNumber: 333
+
+ORDER_EXECUTED:
+PriceAtTrade: 87
+TradeSize: 51
+InstrumentId: 79577
+OrderIdAggressor: 8120
+OrderIdPassive: 64957
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: e
+SequenceNumber: 334
+
+ORDER_EXECUTED:
+PriceAtTrade: 81
+TradeSize: 58
+InstrumentId: 11077
+OrderIdAggressor: 48729
+OrderIdPassive: 8696
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: c
+SequenceNumber: 335
+
+ORDER_CANCEL:
+InstrumentId: 80823
+OrderId: 28874
+
+HEADER:
+MessageType: c
+SequenceNumber: 336
+
+ORDER_CANCEL:
+InstrumentId: 43778
+OrderId: 1563
+
+HEADER:
+MessageType: e
+SequenceNumber: 337
+
+ORDER_EXECUTED:
+PriceAtTrade: 61
+TradeSize: 79
+InstrumentId: 72018
+OrderIdAggressor: 57417
+OrderIdPassive: 6229
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: o
+SequenceNumber: 338
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 39
+OrderPrice: 29
+InstrumentId: 26394
+OrderId: 56498
+
+HEADER:
+MessageType: o
+SequenceNumber: 339
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 32
+OrderPrice: 19
+InstrumentId: 27976
+OrderId: 19404
+
+HEADER:
+MessageType: o
+SequenceNumber: 340
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 24
+OrderPrice: 72
+InstrumentId: 37548
+OrderId: 53913
+
+HEADER:
+MessageType: c
+SequenceNumber: 341
+
+ORDER_CANCEL:
+InstrumentId: 5134
+OrderId: 46284
+
+HEADER:
+MessageType: o
+SequenceNumber: 342
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 95
+OrderPrice: 20
+InstrumentId: 84109
+OrderId: 54624
+
+HEADER:
+MessageType: m
+SequenceNumber: 343
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 3
+OrderPrice: 15
+InstrumentId: 59006
+OrderId: 66365
+
+HEADER:
+MessageType: m
+SequenceNumber: 344
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 3
+OrderPrice: 64
+InstrumentId: 95691
+OrderId: 90444
+
+HEADER:
+MessageType: o
+SequenceNumber: 345
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 26
+OrderPrice: 65
+InstrumentId: 9919
+OrderId: 96291
+
+HEADER:
+MessageType: e
+SequenceNumber: 346
+
+ORDER_EXECUTED:
+PriceAtTrade: 36
+TradeSize: 99
+InstrumentId: 91866
+OrderIdAggressor: 43807
+OrderIdPassive: 16400
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: c
+SequenceNumber: 347
+
+ORDER_CANCEL:
+InstrumentId: 40910
+OrderId: 8313
+
+HEADER:
+MessageType: o
+SequenceNumber: 348
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 75
+OrderPrice: 51
+InstrumentId: 59308
+OrderId: 94513
+
+HEADER:
+MessageType: c
+SequenceNumber: 349
+
+ORDER_CANCEL:
+InstrumentId: 3301
+OrderId: 52632
+
+HEADER:
+MessageType: o
+SequenceNumber: 350
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 68
+OrderPrice: 56
+InstrumentId: 30741
+OrderId: 69806
+
+HEADER:
+MessageType: a
+SequenceNumber: 351
+
+ANNOUNCEMENT:
+InstrumentId: 544869
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: m
+SequenceNumber: 352
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 26
+OrderPrice: 37
+InstrumentId: 29789
+OrderId: 76299
+
+HEADER:
+MessageType: c
+SequenceNumber: 353
+
+ORDER_CANCEL:
+InstrumentId: 41860
+OrderId: 48817
+
+HEADER:
+MessageType: e
+SequenceNumber: 354
+
+ORDER_EXECUTED:
+PriceAtTrade: 79
+TradeSize: 39
+InstrumentId: 11461
+OrderIdAggressor: 89737
+OrderIdPassive: 28992
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: o
+SequenceNumber: 355
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 19
+OrderPrice: 7
+InstrumentId: 67606
+OrderId: 91579
+
+HEADER:
+MessageType: m
+SequenceNumber: 356
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 98
+OrderPrice: 78
+InstrumentId: 41592
+OrderId: 3613
+
+HEADER:
+MessageType: e
+SequenceNumber: 357
+
+ORDER_EXECUTED:
+PriceAtTrade: 42
+TradeSize: 11
+InstrumentId: 95357
+OrderIdAggressor: 74844
+OrderIdPassive: 98282
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: o
+SequenceNumber: 358
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 34
+OrderPrice: 58
+InstrumentId: 86441
+OrderId: 67613
+
+HEADER:
+MessageType: c
+SequenceNumber: 359
+
+ORDER_CANCEL:
+InstrumentId: 84707
+OrderId: 35785
+
+HEADER:
+MessageType: m
+SequenceNumber: 360
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 34
+OrderPrice: 36
+InstrumentId: 55449
+OrderId: 54290
+
+HEADER:
+MessageType: a
+SequenceNumber: 361
+
+ANNOUNCEMENT:
+InstrumentId: 775548
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: e
+SequenceNumber: 362
+
+ORDER_EXECUTED:
+PriceAtTrade: 26
+TradeSize: 100
+InstrumentId: 91327
+OrderIdAggressor: 72715
+OrderIdPassive: 57057
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: c
+SequenceNumber: 363
+
+ORDER_CANCEL:
+InstrumentId: 5894
+OrderId: 89561
+
+HEADER:
+MessageType: o
+SequenceNumber: 364
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 95
+OrderPrice: 53
+InstrumentId: 71822
+OrderId: 8407
+
+HEADER:
+MessageType: o
+SequenceNumber: 365
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 23
+OrderPrice: 50
+InstrumentId: 56585
+OrderId: 40460
+
+HEADER:
+MessageType: c
+SequenceNumber: 366
+
+ORDER_CANCEL:
+InstrumentId: 23321
+OrderId: 19459
+
+HEADER:
+MessageType: m
+SequenceNumber: 367
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 88
+OrderPrice: 3
+InstrumentId: 57563
+OrderId: 50616
+
+HEADER:
+MessageType: a
+SequenceNumber: 368
+
+ANNOUNCEMENT:
+InstrumentId: 473899
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: a
+SequenceNumber: 369
+
+ANNOUNCEMENT:
+InstrumentId: 495280
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: m
+SequenceNumber: 370
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 55
+OrderPrice: 2
+InstrumentId: 37051
+OrderId: 59220
+
+HEADER:
+MessageType: o
+SequenceNumber: 371
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 88
+OrderPrice: 66
+InstrumentId: 36206
+OrderId: 20382
+
+HEADER:
+MessageType: e
+SequenceNumber: 372
+
+ORDER_EXECUTED:
+PriceAtTrade: 1
+TradeSize: 68
+InstrumentId: 83558
+OrderIdAggressor: 48286
+OrderIdPassive: 93270
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: c
+SequenceNumber: 373
+
+ORDER_CANCEL:
+InstrumentId: 25579
+OrderId: 87228
+
+HEADER:
+MessageType: e
+SequenceNumber: 374
+
+ORDER_EXECUTED:
+PriceAtTrade: 70
+TradeSize: 42
+InstrumentId: 84146
+OrderIdAggressor: 81693
+OrderIdPassive: 74511
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: a
+SequenceNumber: 375
+
+ANNOUNCEMENT:
+InstrumentId: 620579
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: m
+SequenceNumber: 376
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 45
+OrderPrice: 55
+InstrumentId: 6710
+OrderId: 21484
+
+HEADER:
+MessageType: c
+SequenceNumber: 377
+
+ORDER_CANCEL:
+InstrumentId: 98144
+OrderId: 2117
+
+HEADER:
+MessageType: o
+SequenceNumber: 378
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 29
+OrderPrice: 21
+InstrumentId: 26515
+OrderId: 69866
+
+HEADER:
+MessageType: a
+SequenceNumber: 379
+
+ANNOUNCEMENT:
+InstrumentId: 87939
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: a
+SequenceNumber: 380
+
+ANNOUNCEMENT:
+InstrumentId: 271852
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: a
+SequenceNumber: 381
+
+ANNOUNCEMENT:
+InstrumentId: 55462
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: m
+SequenceNumber: 382
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 52
+OrderPrice: 15
+InstrumentId: 94129
+OrderId: 13865
+
+HEADER:
+MessageType: e
+SequenceNumber: 383
+
+ORDER_EXECUTED:
+PriceAtTrade: 89
+TradeSize: 79
+InstrumentId: 66748
+OrderIdAggressor: 51758
+OrderIdPassive: 91527
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: e
+SequenceNumber: 384
+
+ORDER_EXECUTED:
+PriceAtTrade: 21
+TradeSize: 92
+InstrumentId: 61957
+OrderIdAggressor: 31427
+OrderIdPassive: 57642
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: c
+SequenceNumber: 385
+
+ORDER_CANCEL:
+InstrumentId: 29063
+OrderId: 32148
+
+HEADER:
+MessageType: a
+SequenceNumber: 386
+
+ANNOUNCEMENT:
+InstrumentId: 425680
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: c
+SequenceNumber: 387
+
+ORDER_CANCEL:
+InstrumentId: 90044
+OrderId: 4709
+
+HEADER:
+MessageType: m
+SequenceNumber: 388
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 9
+OrderPrice: 16
+InstrumentId: 95367
+OrderId: 27705
+
+HEADER:
+MessageType: m
+SequenceNumber: 389
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 68
+OrderPrice: 10
+InstrumentId: 10008
+OrderId: 67793
+
+HEADER:
+MessageType: a
+SequenceNumber: 390
+
+ANNOUNCEMENT:
+InstrumentId: 342436
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: m
+SequenceNumber: 391
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 72
+OrderPrice: 86
+InstrumentId: 87324
+OrderId: 76301
+
+HEADER:
+MessageType: m
+SequenceNumber: 392
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 15
+OrderPrice: 74
+InstrumentId: 24210
+OrderId: 83638
+
+HEADER:
+MessageType: m
+SequenceNumber: 393
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 59
+OrderPrice: 96
+InstrumentId: 96739
+OrderId: 31586
+
+HEADER:
+MessageType: m
+SequenceNumber: 394
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 84
+OrderPrice: 72
+InstrumentId: 16127
+OrderId: 37575
+
+HEADER:
+MessageType: c
+SequenceNumber: 395
+
+ORDER_CANCEL:
+InstrumentId: 66504
+OrderId: 78915
+
+HEADER:
+MessageType: o
+SequenceNumber: 396
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 81
+OrderPrice: 92
+InstrumentId: 72621
+OrderId: 56432
+
+HEADER:
+MessageType: a
+SequenceNumber: 397
+
+ANNOUNCEMENT:
+InstrumentId: 856661
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: e
+SequenceNumber: 398
+
+ORDER_EXECUTED:
+PriceAtTrade: 26
+TradeSize: 16
+InstrumentId: 55884
+OrderIdAggressor: 87755
+OrderIdPassive: 20904
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: m
+SequenceNumber: 399
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 59
+OrderPrice: 46
+InstrumentId: 17064
+OrderId: 68561
+
+HEADER:
+MessageType: e
+SequenceNumber: 400
+
+ORDER_EXECUTED:
+PriceAtTrade: 41
+TradeSize: 67
+InstrumentId: 30114
+OrderIdAggressor: 14696
+OrderIdPassive: 74248
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: e
+SequenceNumber: 401
+
+ORDER_EXECUTED:
+PriceAtTrade: 74
+TradeSize: 16
+InstrumentId: 35701
+OrderIdAggressor: 40559
+OrderIdPassive: 12070
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: m
+SequenceNumber: 402
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 44
+OrderPrice: 79
+InstrumentId: 91479
+OrderId: 41887
+
+HEADER:
+MessageType: c
+SequenceNumber: 403
+
+ORDER_CANCEL:
+InstrumentId: 67673
+OrderId: 84013
+
+HEADER:
+MessageType: a
+SequenceNumber: 404
+
+ANNOUNCEMENT:
+InstrumentId: 924632
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: a
+SequenceNumber: 405
+
+ANNOUNCEMENT:
+InstrumentId: 42067
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: o
+SequenceNumber: 406
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 52
+OrderPrice: 95
+InstrumentId: 53880
+OrderId: 57994
+
+HEADER:
+MessageType: e
+SequenceNumber: 407
+
+ORDER_EXECUTED:
+PriceAtTrade: 38
+TradeSize: 79
+InstrumentId: 6124
+OrderIdAggressor: 65902
+OrderIdPassive: 50630
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: o
+SequenceNumber: 408
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 77
+OrderPrice: 90
+InstrumentId: 6111
+OrderId: 53265
+
+HEADER:
+MessageType: c
+SequenceNumber: 409
+
+ORDER_CANCEL:
+InstrumentId: 10335
+OrderId: 55399
+
+HEADER:
+MessageType: c
+SequenceNumber: 410
+
+ORDER_CANCEL:
+InstrumentId: 19316
+OrderId: 52454
+
+HEADER:
+MessageType: m
+SequenceNumber: 411
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 21
+OrderPrice: 93
+InstrumentId: 75397
+OrderId: 35455
+
+HEADER:
+MessageType: e
+SequenceNumber: 412
+
+ORDER_EXECUTED:
+PriceAtTrade: 35
+TradeSize: 42
+InstrumentId: 42582
+OrderIdAggressor: 97159
+OrderIdPassive: 60945
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: m
+SequenceNumber: 413
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 33
+OrderPrice: 66
+InstrumentId: 82492
+OrderId: 93824
+
+HEADER:
+MessageType: e
+SequenceNumber: 414
+
+ORDER_EXECUTED:
+PriceAtTrade: 85
+TradeSize: 78
+InstrumentId: 84288
+OrderIdAggressor: 72943
+OrderIdPassive: 53818
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: o
+SequenceNumber: 415
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 25
+OrderPrice: 35
+InstrumentId: 63209
+OrderId: 38442
+
+HEADER:
+MessageType: m
+SequenceNumber: 416
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 59
+OrderPrice: 91
+InstrumentId: 13077
+OrderId: 15160
+
+HEADER:
+MessageType: o
+SequenceNumber: 417
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 5
+OrderPrice: 48
+InstrumentId: 4902
+OrderId: 31232
+
+HEADER:
+MessageType: e
+SequenceNumber: 418
+
+ORDER_EXECUTED:
+PriceAtTrade: 77
+TradeSize: 88
+InstrumentId: 7436
+OrderIdAggressor: 93026
+OrderIdPassive: 56015
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: o
+SequenceNumber: 419
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 95
+OrderPrice: 89
+InstrumentId: 42875
+OrderId: 3409
+
+HEADER:
+MessageType: m
+SequenceNumber: 420
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 51
+OrderPrice: 64
+InstrumentId: 49502
+OrderId: 65674
+
+HEADER:
+MessageType: m
+SequenceNumber: 421
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 63
+OrderPrice: 11
+InstrumentId: 96302
+OrderId: 20350
+
+HEADER:
+MessageType: a
+SequenceNumber: 422
+
+ANNOUNCEMENT:
+InstrumentId: 457826
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: m
+SequenceNumber: 423
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 44
+OrderPrice: 52
+InstrumentId: 29075
+OrderId: 6303
+
+HEADER:
+MessageType: m
+SequenceNumber: 424
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 30
+OrderPrice: 22
+InstrumentId: 31568
+OrderId: 49604
+
+HEADER:
+MessageType: c
+SequenceNumber: 425
+
+ORDER_CANCEL:
+InstrumentId: 46036
+OrderId: 29762
+
+HEADER:
+MessageType: o
+SequenceNumber: 426
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 14
+OrderPrice: 13
+InstrumentId: 91057
+OrderId: 46625
+
+HEADER:
+MessageType: a
+SequenceNumber: 427
+
+ANNOUNCEMENT:
+InstrumentId: 581254
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: m
+SequenceNumber: 428
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 90
+OrderPrice: 77
+InstrumentId: 94926
+OrderId: 48205
+
+HEADER:
+MessageType: o
+SequenceNumber: 429
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 99
+OrderPrice: 82
+InstrumentId: 29549
+OrderId: 61881
+
+HEADER:
+MessageType: e
+SequenceNumber: 430
+
+ORDER_EXECUTED:
+PriceAtTrade: 65
+TradeSize: 68
+InstrumentId: 35621
+OrderIdAggressor: 40649
+OrderIdPassive: 63645
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: o
+SequenceNumber: 431
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 52
+OrderPrice: 92
+InstrumentId: 61338
+OrderId: 93526
+
+HEADER:
+MessageType: o
+SequenceNumber: 432
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 27
+OrderPrice: 91
+InstrumentId: 67270
+OrderId: 52640
+
+HEADER:
+MessageType: o
+SequenceNumber: 433
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 46
+OrderPrice: 13
+InstrumentId: 18675
+OrderId: 89822
+
+HEADER:
+MessageType: e
+SequenceNumber: 434
+
+ORDER_EXECUTED:
+PriceAtTrade: 58
+TradeSize: 15
+InstrumentId: 34312
+OrderIdAggressor: 7053
+OrderIdPassive: 13722
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: c
+SequenceNumber: 435
+
+ORDER_CANCEL:
+InstrumentId: 2350
+OrderId: 65139
+
+HEADER:
+MessageType: c
+SequenceNumber: 436
+
+ORDER_CANCEL:
+InstrumentId: 38402
+OrderId: 10820
+
+HEADER:
+MessageType: o
+SequenceNumber: 437
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 32
+OrderPrice: 17
+InstrumentId: 70511
+OrderId: 58597
+
+HEADER:
+MessageType: a
+SequenceNumber: 438
+
+ANNOUNCEMENT:
+InstrumentId: 253855
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: a
+SequenceNumber: 439
+
+ANNOUNCEMENT:
+InstrumentId: 881609
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: e
+SequenceNumber: 440
+
+ORDER_EXECUTED:
+PriceAtTrade: 72
+TradeSize: 12
+InstrumentId: 48930
+OrderIdAggressor: 11847
+OrderIdPassive: 18942
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: a
+SequenceNumber: 441
+
+ANNOUNCEMENT:
+InstrumentId: 93431
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: a
+SequenceNumber: 442
+
+ANNOUNCEMENT:
+InstrumentId: 257506
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: e
+SequenceNumber: 443
+
+ORDER_EXECUTED:
+PriceAtTrade: 21
+TradeSize: 42
+InstrumentId: 88332
+OrderIdAggressor: 69293
+OrderIdPassive: 31279
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: c
+SequenceNumber: 444
+
+ORDER_CANCEL:
+InstrumentId: 47723
+OrderId: 89553
+
+HEADER:
+MessageType: o
+SequenceNumber: 445
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 53
+OrderPrice: 91
+InstrumentId: 89267
+OrderId: 10090
+
+HEADER:
+MessageType: m
+SequenceNumber: 446
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 29
+OrderPrice: 69
+InstrumentId: 62795
+OrderId: 60115
+
+HEADER:
+MessageType: o
+SequenceNumber: 447
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 24
+OrderPrice: 84
+InstrumentId: 34881
+OrderId: 41487
+
+HEADER:
+MessageType: c
+SequenceNumber: 448
+
+ORDER_CANCEL:
+InstrumentId: 63883
+OrderId: 60309
+
+HEADER:
+MessageType: c
+SequenceNumber: 449
+
+ORDER_CANCEL:
+InstrumentId: 290
+OrderId: 92802
+
+HEADER:
+MessageType: m
+SequenceNumber: 450
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 38
+OrderPrice: 46
+InstrumentId: 39005
+OrderId: 49439
+
+HEADER:
+MessageType: o
+SequenceNumber: 451
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 27
+OrderPrice: 77
+InstrumentId: 32608
+OrderId: 33451
+
+HEADER:
+MessageType: e
+SequenceNumber: 452
+
+ORDER_EXECUTED:
+PriceAtTrade: 30
+TradeSize: 10
+InstrumentId: 90215
+OrderIdAggressor: 96472
+OrderIdPassive: 88083
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: o
+SequenceNumber: 453
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 69
+OrderPrice: 50
+InstrumentId: 71709
+OrderId: 84606
+
+HEADER:
+MessageType: m
+SequenceNumber: 454
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 83
+OrderPrice: 5
+InstrumentId: 34816
+OrderId: 54237
+
+HEADER:
+MessageType: m
+SequenceNumber: 455
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 29
+OrderPrice: 5
+InstrumentId: 72451
+OrderId: 7335
+
+HEADER:
+MessageType: e
+SequenceNumber: 456
+
+ORDER_EXECUTED:
+PriceAtTrade: 78
+TradeSize: 96
+InstrumentId: 23743
+OrderIdAggressor: 34539
+OrderIdPassive: 12144
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: a
+SequenceNumber: 457
+
+ANNOUNCEMENT:
+InstrumentId: 130572
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: m
+SequenceNumber: 458
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 4
+OrderPrice: 35
+InstrumentId: 70301
+OrderId: 41872
+
+HEADER:
+MessageType: e
+SequenceNumber: 459
+
+ORDER_EXECUTED:
+PriceAtTrade: 71
+TradeSize: 72
+InstrumentId: 80994
+OrderIdAggressor: 44675
+OrderIdPassive: 35732
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: a
+SequenceNumber: 460
+
+ANNOUNCEMENT:
+InstrumentId: 300863
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: a
+SequenceNumber: 461
+
+ANNOUNCEMENT:
+InstrumentId: 500320
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: a
+SequenceNumber: 462
+
+ANNOUNCEMENT:
+InstrumentId: 711641
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: e
+SequenceNumber: 463
+
+ORDER_EXECUTED:
+PriceAtTrade: 82
+TradeSize: 99
+InstrumentId: 69727
+OrderIdAggressor: 37898
+OrderIdPassive: 42473
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: e
+SequenceNumber: 464
+
+ORDER_EXECUTED:
+PriceAtTrade: 38
+TradeSize: 1
+InstrumentId: 19762
+OrderIdAggressor: 3367
+OrderIdPassive: 78609
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: o
+SequenceNumber: 465
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 89
+OrderPrice: 49
+InstrumentId: 64011
+OrderId: 26297
+
+HEADER:
+MessageType: m
+SequenceNumber: 466
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 4
+OrderPrice: 43
+InstrumentId: 49722
+OrderId: 82175
+
+HEADER:
+MessageType: a
+SequenceNumber: 467
+
+ANNOUNCEMENT:
+InstrumentId: 799449
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: e
+SequenceNumber: 468
+
+ORDER_EXECUTED:
+PriceAtTrade: 75
+TradeSize: 32
+InstrumentId: 79965
+OrderIdAggressor: 84012
+OrderIdPassive: 25667
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: m
+SequenceNumber: 469
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 81
+OrderPrice: 7
+InstrumentId: 2876
+OrderId: 43715
+
+HEADER:
+MessageType: a
+SequenceNumber: 470
+
+ANNOUNCEMENT:
+InstrumentId: 644896
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: a
+SequenceNumber: 471
+
+ANNOUNCEMENT:
+InstrumentId: 725389
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: c
+SequenceNumber: 472
+
+ORDER_CANCEL:
+InstrumentId: 73487
+OrderId: 29512
+
+HEADER:
+MessageType: o
+SequenceNumber: 473
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 78
+OrderPrice: 35
+InstrumentId: 97730
+OrderId: 73911
+
+HEADER:
+MessageType: m
+SequenceNumber: 474
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 11
+OrderPrice: 51
+InstrumentId: 5814
+OrderId: 37153
+
+HEADER:
+MessageType: m
+SequenceNumber: 475
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 80
+OrderPrice: 49
+InstrumentId: 96493
+OrderId: 71148
+
+HEADER:
+MessageType: m
+SequenceNumber: 476
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 4
+OrderPrice: 33
+InstrumentId: 15367
+OrderId: 11144
+
+HEADER:
+MessageType: e
+SequenceNumber: 477
+
+ORDER_EXECUTED:
+PriceAtTrade: 28
+TradeSize: 6
+InstrumentId: 75478
+OrderIdAggressor: 31290
+OrderIdPassive: 11080
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: o
+SequenceNumber: 478
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 7
+OrderPrice: 28
+InstrumentId: 26887
+OrderId: 14409
+
+HEADER:
+MessageType: c
+SequenceNumber: 479
+
+ORDER_CANCEL:
+InstrumentId: 17828
+OrderId: 66513
+
+HEADER:
+MessageType: o
+SequenceNumber: 480
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 56
+OrderPrice: 40
+InstrumentId: 27595
+OrderId: 48768
+
+HEADER:
+MessageType: o
+SequenceNumber: 481
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 62
+OrderPrice: 98
+InstrumentId: 32500
+OrderId: 30304
+
+HEADER:
+MessageType: m
+SequenceNumber: 482
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 34
+OrderPrice: 11
+InstrumentId: 60537
+OrderId: 5943
+
+HEADER:
+MessageType: o
+SequenceNumber: 483
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 29
+OrderPrice: 54
+InstrumentId: 46612
+OrderId: 20584
+
+HEADER:
+MessageType: o
+SequenceNumber: 484
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 55
+OrderPrice: 100
+InstrumentId: 91303
+OrderId: 96980
+
+HEADER:
+MessageType: e
+SequenceNumber: 485
+
+ORDER_EXECUTED:
+PriceAtTrade: 51
+TradeSize: 89
+InstrumentId: 92147
+OrderIdAggressor: 10645
+OrderIdPassive: 24116
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: a
+SequenceNumber: 486
+
+ANNOUNCEMENT:
+InstrumentId: 79842
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: o
+SequenceNumber: 487
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 84
+OrderPrice: 85
+InstrumentId: 61002
+OrderId: 45140
+
+HEADER:
+MessageType: e
+SequenceNumber: 488
+
+ORDER_EXECUTED:
+PriceAtTrade: 60
+TradeSize: 59
+InstrumentId: 46228
+OrderIdAggressor: 27952
+OrderIdPassive: 25961
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: m
+SequenceNumber: 489
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 5
+OrderPrice: 94
+InstrumentId: 18295
+OrderId: 16726
+
+HEADER:
+MessageType: c
+SequenceNumber: 490
+
+ORDER_CANCEL:
+InstrumentId: 87212
+OrderId: 46618
+
+HEADER:
+MessageType: c
+SequenceNumber: 491
+
+ORDER_CANCEL:
+InstrumentId: 29619
+OrderId: 52805
+
+HEADER:
+MessageType: e
+SequenceNumber: 492
+
+ORDER_EXECUTED:
+PriceAtTrade: 97
+TradeSize: 38
+InstrumentId: 40627
+OrderIdAggressor: 66282
+OrderIdPassive: 85906
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: o
+SequenceNumber: 493
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 3
+OrderPrice: 88
+InstrumentId: 65301
+OrderId: 39694
+
+HEADER:
+MessageType: o
+SequenceNumber: 494
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 68
+OrderPrice: 49
+InstrumentId: 5755
+OrderId: 45919
+
+HEADER:
+MessageType: o
+SequenceNumber: 495
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 22
+OrderPrice: 58
+InstrumentId: 81480
+OrderId: 97049
+
+HEADER:
+MessageType: e
+SequenceNumber: 496
+
+ORDER_EXECUTED:
+PriceAtTrade: 30
+TradeSize: 69
+InstrumentId: 97609
+OrderIdAggressor: 67963
+OrderIdPassive: 17117
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: m
+SequenceNumber: 497
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 6
+OrderPrice: 91
+InstrumentId: 58955
+OrderId: 94535
+
+HEADER:
+MessageType: e
+SequenceNumber: 498
+
+ORDER_EXECUTED:
+PriceAtTrade: 19
+TradeSize: 47
+InstrumentId: 81238
+OrderIdAggressor: 89151
+OrderIdPassive: 68679
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: o
+SequenceNumber: 499
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 71
+OrderPrice: 30
+InstrumentId: 71783
+OrderId: 52583
+
+HEADER:
+MessageType: a
+SequenceNumber: 500
+
+ANNOUNCEMENT:
+InstrumentId: 666217
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: m
+SequenceNumber: 501
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 87
+OrderPrice: 29
+InstrumentId: 63873
+OrderId: 96593
+
+HEADER:
+MessageType: c
+SequenceNumber: 502
+
+ORDER_CANCEL:
+InstrumentId: 19279
+OrderId: 90111
+
+HEADER:
+MessageType: a
+SequenceNumber: 503
+
+ANNOUNCEMENT:
+InstrumentId: 693783
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: m
+SequenceNumber: 504
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 88
+OrderPrice: 16
+InstrumentId: 69683
+OrderId: 10265
+
+HEADER:
+MessageType: e
+SequenceNumber: 505
+
+ORDER_EXECUTED:
+PriceAtTrade: 69
+TradeSize: 41
+InstrumentId: 12805
+OrderIdAggressor: 59010
+OrderIdPassive: 86653
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: m
+SequenceNumber: 506
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 51
+OrderPrice: 38
+InstrumentId: 90324
+OrderId: 83584
+
+HEADER:
+MessageType: m
+SequenceNumber: 507
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 76
+OrderPrice: 52
+InstrumentId: 47915
+OrderId: 55735
+
+HEADER:
+MessageType: o
+SequenceNumber: 508
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 25
+OrderPrice: 31
+InstrumentId: 41447
+OrderId: 45335
+
+HEADER:
+MessageType: c
+SequenceNumber: 509
+
+ORDER_CANCEL:
+InstrumentId: 4586
+OrderId: 62610
+
+HEADER:
+MessageType: o
+SequenceNumber: 510
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 54
+OrderPrice: 99
+InstrumentId: 61634
+OrderId: 56105
+
+HEADER:
+MessageType: e
+SequenceNumber: 511
+
+ORDER_EXECUTED:
+PriceAtTrade: 91
+TradeSize: 29
+InstrumentId: 24045
+OrderIdAggressor: 27946
+OrderIdPassive: 26147
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: c
+SequenceNumber: 512
+
+ORDER_CANCEL:
+InstrumentId: 22249
+OrderId: 22743
+
+HEADER:
+MessageType: e
+SequenceNumber: 513
+
+ORDER_EXECUTED:
+PriceAtTrade: 47
+TradeSize: 40
+InstrumentId: 15339
+OrderIdAggressor: 60321
+OrderIdPassive: 55493
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: o
+SequenceNumber: 514
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 48
+OrderPrice: 91
+InstrumentId: 7458
+OrderId: 36025
+
+HEADER:
+MessageType: c
+SequenceNumber: 515
+
+ORDER_CANCEL:
+InstrumentId: 87087
+OrderId: 59737
+
+HEADER:
+MessageType: m
+SequenceNumber: 516
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 76
+OrderPrice: 37
+InstrumentId: 19580
+OrderId: 21165
+
+HEADER:
+MessageType: m
+SequenceNumber: 517
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 10
+OrderPrice: 79
+InstrumentId: 62337
+OrderId: 26498
+
+HEADER:
+MessageType: e
+SequenceNumber: 518
+
+ORDER_EXECUTED:
+PriceAtTrade: 98
+TradeSize: 17
+InstrumentId: 8975
+OrderIdAggressor: 41037
+OrderIdPassive: 86129
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: o
+SequenceNumber: 519
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 93
+OrderPrice: 99
+InstrumentId: 55619
+OrderId: 14081
+
+HEADER:
+MessageType: c
+SequenceNumber: 520
+
+ORDER_CANCEL:
+InstrumentId: 82165
+OrderId: 50905
+
+HEADER:
+MessageType: e
+SequenceNumber: 521
+
+ORDER_EXECUTED:
+PriceAtTrade: 82
+TradeSize: 51
+InstrumentId: 97855
+OrderIdAggressor: 86479
+OrderIdPassive: 63058
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: c
+SequenceNumber: 522
+
+ORDER_CANCEL:
+InstrumentId: 91759
+OrderId: 62640
+
+HEADER:
+MessageType: o
+SequenceNumber: 523
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 47
+OrderPrice: 85
+InstrumentId: 9712
+OrderId: 54974
+
+HEADER:
+MessageType: c
+SequenceNumber: 524
+
+ORDER_CANCEL:
+InstrumentId: 83778
+OrderId: 47481
+
+HEADER:
+MessageType: m
+SequenceNumber: 525
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 57
+OrderPrice: 10
+InstrumentId: 35557
+OrderId: 26452
+
+HEADER:
+MessageType: a
+SequenceNumber: 526
+
+ANNOUNCEMENT:
+InstrumentId: 925024
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: e
+SequenceNumber: 527
+
+ORDER_EXECUTED:
+PriceAtTrade: 84
+TradeSize: 45
+InstrumentId: 49941
+OrderIdAggressor: 82415
+OrderIdPassive: 59217
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: a
+SequenceNumber: 528
+
+ANNOUNCEMENT:
+InstrumentId: 665052
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: m
+SequenceNumber: 529
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 28
+OrderPrice: 30
+InstrumentId: 60921
+OrderId: 46238
+
+HEADER:
+MessageType: a
+SequenceNumber: 530
+
+ANNOUNCEMENT:
+InstrumentId: 987734
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: e
+SequenceNumber: 531
+
+ORDER_EXECUTED:
+PriceAtTrade: 68
+TradeSize: 29
+InstrumentId: 2881
+OrderIdAggressor: 58952
+OrderIdPassive: 15841
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: c
+SequenceNumber: 532
+
+ORDER_CANCEL:
+InstrumentId: 9849
+OrderId: 21503
+
+HEADER:
+MessageType: e
+SequenceNumber: 533
+
+ORDER_EXECUTED:
+PriceAtTrade: 51
+TradeSize: 44
+InstrumentId: 55405
+OrderIdAggressor: 5809
+OrderIdPassive: 62846
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: o
+SequenceNumber: 534
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 8
+OrderPrice: 71
+InstrumentId: 77946
+OrderId: 54420
+
+HEADER:
+MessageType: e
+SequenceNumber: 535
+
+ORDER_EXECUTED:
+PriceAtTrade: 6
+TradeSize: 75
+InstrumentId: 8602
+OrderIdAggressor: 55880
+OrderIdPassive: 68986
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: a
+SequenceNumber: 536
+
+ANNOUNCEMENT:
+InstrumentId: 900731
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: c
+SequenceNumber: 537
+
+ORDER_CANCEL:
+InstrumentId: 82985
+OrderId: 51490
+
+HEADER:
+MessageType: e
+SequenceNumber: 538
+
+ORDER_EXECUTED:
+PriceAtTrade: 62
+TradeSize: 3
+InstrumentId: 24156
+OrderIdAggressor: 31156
+OrderIdPassive: 62003
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: a
+SequenceNumber: 539
+
+ANNOUNCEMENT:
+InstrumentId: 46920
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: c
+SequenceNumber: 540
+
+ORDER_CANCEL:
+InstrumentId: 22950
+OrderId: 9405
+
+HEADER:
+MessageType: o
+SequenceNumber: 541
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 85
+OrderPrice: 28
+InstrumentId: 24099
+OrderId: 19352
+
+HEADER:
+MessageType: e
+SequenceNumber: 542
+
+ORDER_EXECUTED:
+PriceAtTrade: 49
+TradeSize: 9
+InstrumentId: 79091
+OrderIdAggressor: 43638
+OrderIdPassive: 50059
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: m
+SequenceNumber: 543
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 53
+OrderPrice: 49
+InstrumentId: 86422
+OrderId: 4420
+
+HEADER:
+MessageType: a
+SequenceNumber: 544
+
+ANNOUNCEMENT:
+InstrumentId: 572683
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: m
+SequenceNumber: 545
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 65
+OrderPrice: 17
+InstrumentId: 62724
+OrderId: 75803
+
+HEADER:
+MessageType: a
+SequenceNumber: 546
+
+ANNOUNCEMENT:
+InstrumentId: 43524
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: c
+SequenceNumber: 547
+
+ORDER_CANCEL:
+InstrumentId: 32463
+OrderId: 75052
+
+HEADER:
+MessageType: c
+SequenceNumber: 548
+
+ORDER_CANCEL:
+InstrumentId: 35566
+OrderId: 27375
+
+HEADER:
+MessageType: o
+SequenceNumber: 549
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 44
+OrderPrice: 70
+InstrumentId: 19291
+OrderId: 58521
+
+HEADER:
+MessageType: o
+SequenceNumber: 550
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 18
+OrderPrice: 44
+InstrumentId: 84433
+OrderId: 45643
+
+HEADER:
+MessageType: o
+SequenceNumber: 551
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 63
+OrderPrice: 19
+InstrumentId: 59619
+OrderId: 6170
+
+HEADER:
+MessageType: a
+SequenceNumber: 552
+
+ANNOUNCEMENT:
+InstrumentId: 600800
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: c
+SequenceNumber: 553
+
+ORDER_CANCEL:
+InstrumentId: 94605
+OrderId: 6999
+
+HEADER:
+MessageType: e
+SequenceNumber: 554
+
+ORDER_EXECUTED:
+PriceAtTrade: 5
+TradeSize: 27
+InstrumentId: 77330
+OrderIdAggressor: 65765
+OrderIdPassive: 71246
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: e
+SequenceNumber: 555
+
+ORDER_EXECUTED:
+PriceAtTrade: 20
+TradeSize: 51
+InstrumentId: 50762
+OrderIdAggressor: 49818
+OrderIdPassive: 29443
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: a
+SequenceNumber: 556
+
+ANNOUNCEMENT:
+InstrumentId: 770669
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: o
+SequenceNumber: 557
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 52
+OrderPrice: 80
+InstrumentId: 95532
+OrderId: 22546
+
+HEADER:
+MessageType: o
+SequenceNumber: 558
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 6
+OrderPrice: 61
+InstrumentId: 76975
+OrderId: 35204
+
+HEADER:
+MessageType: c
+SequenceNumber: 559
+
+ORDER_CANCEL:
+InstrumentId: 24082
+OrderId: 60459
+
+HEADER:
+MessageType: c
+SequenceNumber: 560
+
+ORDER_CANCEL:
+InstrumentId: 69308
+OrderId: 42771
+
+HEADER:
+MessageType: c
+SequenceNumber: 561
+
+ORDER_CANCEL:
+InstrumentId: 66307
+OrderId: 71984
+
+HEADER:
+MessageType: a
+SequenceNumber: 562
+
+ANNOUNCEMENT:
+InstrumentId: 333622
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: o
+SequenceNumber: 563
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 16
+OrderPrice: 62
+InstrumentId: 53957
+OrderId: 95123
+
+HEADER:
+MessageType: m
+SequenceNumber: 564
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 53
+OrderPrice: 10
+InstrumentId: 39546
+OrderId: 4439
+
+HEADER:
+MessageType: c
+SequenceNumber: 565
+
+ORDER_CANCEL:
+InstrumentId: 36355
+OrderId: 43840
+
+HEADER:
+MessageType: o
+SequenceNumber: 566
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 40
+OrderPrice: 63
+InstrumentId: 71595
+OrderId: 50289
+
+HEADER:
+MessageType: o
+SequenceNumber: 567
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 69
+OrderPrice: 15
+InstrumentId: 52945
+OrderId: 41925
+
+HEADER:
+MessageType: c
+SequenceNumber: 568
+
+ORDER_CANCEL:
+InstrumentId: 69392
+OrderId: 57056
+
+HEADER:
+MessageType: c
+SequenceNumber: 569
+
+ORDER_CANCEL:
+InstrumentId: 73436
+OrderId: 9440
+
+HEADER:
+MessageType: o
+SequenceNumber: 570
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 69
+OrderPrice: 78
+InstrumentId: 86698
+OrderId: 26237
+
+HEADER:
+MessageType: m
+SequenceNumber: 571
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 35
+OrderPrice: 2
+InstrumentId: 58330
+OrderId: 66574
+
+HEADER:
+MessageType: m
+SequenceNumber: 572
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 100
+OrderPrice: 9
+InstrumentId: 3240
+OrderId: 79171
+
+HEADER:
+MessageType: a
+SequenceNumber: 573
+
+ANNOUNCEMENT:
+InstrumentId: 218558
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: m
+SequenceNumber: 574
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 76
+OrderPrice: 62
+InstrumentId: 20666
+OrderId: 45393
+
+HEADER:
+MessageType: a
+SequenceNumber: 575
+
+ANNOUNCEMENT:
+InstrumentId: 381679
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: a
+SequenceNumber: 576
+
+ANNOUNCEMENT:
+InstrumentId: 959072
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: m
+SequenceNumber: 577
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 7
+OrderPrice: 77
+InstrumentId: 5253
+OrderId: 78947
+
+HEADER:
+MessageType: m
+SequenceNumber: 578
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 95
+OrderPrice: 75
+InstrumentId: 86413
+OrderId: 43139
+
+HEADER:
+MessageType: o
+SequenceNumber: 579
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 18
+OrderPrice: 30
+InstrumentId: 26154
+OrderId: 45710
+
+HEADER:
+MessageType: c
+SequenceNumber: 580
+
+ORDER_CANCEL:
+InstrumentId: 43245
+OrderId: 95449
+
+HEADER:
+MessageType: a
+SequenceNumber: 581
+
+ANNOUNCEMENT:
+InstrumentId: 838271
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: c
+SequenceNumber: 582
+
+ORDER_CANCEL:
+InstrumentId: 67243
+OrderId: 86266
+
+HEADER:
+MessageType: a
+SequenceNumber: 583
+
+ANNOUNCEMENT:
+InstrumentId: 59662
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: e
+SequenceNumber: 584
+
+ORDER_EXECUTED:
+PriceAtTrade: 27
+TradeSize: 56
+InstrumentId: 64516
+OrderIdAggressor: 33758
+OrderIdPassive: 73863
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: o
+SequenceNumber: 585
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 8
+OrderPrice: 32
+InstrumentId: 39537
+OrderId: 32429
+
+HEADER:
+MessageType: a
+SequenceNumber: 586
+
+ANNOUNCEMENT:
+InstrumentId: 837414
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: c
+SequenceNumber: 587
+
+ORDER_CANCEL:
+InstrumentId: 84457
+OrderId: 52930
+
+HEADER:
+MessageType: e
+SequenceNumber: 588
+
+ORDER_EXECUTED:
+PriceAtTrade: 55
+TradeSize: 73
+InstrumentId: 28774
+OrderIdAggressor: 16012
+OrderIdPassive: 50360
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: o
+SequenceNumber: 589
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 49
+OrderPrice: 42
+InstrumentId: 4546
+OrderId: 88519
+
+HEADER:
+MessageType: m
+SequenceNumber: 590
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 22
+OrderPrice: 13
+InstrumentId: 19016
+OrderId: 39555
+
+HEADER:
+MessageType: e
+SequenceNumber: 591
+
+ORDER_EXECUTED:
+PriceAtTrade: 83
+TradeSize: 21
+InstrumentId: 11605
+OrderIdAggressor: 70466
+OrderIdPassive: 60489
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: e
+SequenceNumber: 592
+
+ORDER_EXECUTED:
+PriceAtTrade: 74
+TradeSize: 27
+InstrumentId: 16643
+OrderIdAggressor: 97254
+OrderIdPassive: 19309
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: c
+SequenceNumber: 593
+
+ORDER_CANCEL:
+InstrumentId: 35710
+OrderId: 77481
+
+HEADER:
+MessageType: e
+SequenceNumber: 594
+
+ORDER_EXECUTED:
+PriceAtTrade: 11
+TradeSize: 94
+InstrumentId: 23910
+OrderIdAggressor: 90025
+OrderIdPassive: 66372
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: e
+SequenceNumber: 595
+
+ORDER_EXECUTED:
+PriceAtTrade: 45
+TradeSize: 18
+InstrumentId: 18700
+OrderIdAggressor: 4366
+OrderIdPassive: 53548
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: c
+SequenceNumber: 596
+
+ORDER_CANCEL:
+InstrumentId: 782
+OrderId: 8257
+
+HEADER:
+MessageType: c
+SequenceNumber: 597
+
+ORDER_CANCEL:
+InstrumentId: 10012
+OrderId: 21631
+
+HEADER:
+MessageType: o
+SequenceNumber: 598
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 56
+OrderPrice: 50
+InstrumentId: 25381
+OrderId: 65228
+
+HEADER:
+MessageType: e
+SequenceNumber: 599
+
+ORDER_EXECUTED:
+PriceAtTrade: 84
+TradeSize: 65
+InstrumentId: 95096
+OrderIdAggressor: 53303
+OrderIdPassive: 61844
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: o
+SequenceNumber: 600
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 48
+OrderPrice: 47
+InstrumentId: 97410
+OrderId: 96025
+
+HEADER:
+MessageType: e
+SequenceNumber: 601
+
+ORDER_EXECUTED:
+PriceAtTrade: 14
+TradeSize: 26
+InstrumentId: 17794
+OrderIdAggressor: 91042
+OrderIdPassive: 93157
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: c
+SequenceNumber: 602
+
+ORDER_CANCEL:
+InstrumentId: 71541
+OrderId: 30000
+
+HEADER:
+MessageType: m
+SequenceNumber: 603
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 73
+OrderPrice: 29
+InstrumentId: 11355
+OrderId: 99295
+
+HEADER:
+MessageType: o
+SequenceNumber: 604
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 93
+OrderPrice: 100
+InstrumentId: 5398
+OrderId: 95931
+
+HEADER:
+MessageType: e
+SequenceNumber: 605
+
+ORDER_EXECUTED:
+PriceAtTrade: 90
+TradeSize: 12
+InstrumentId: 20030
+OrderIdAggressor: 12132
+OrderIdPassive: 17478
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: a
+SequenceNumber: 606
+
+ANNOUNCEMENT:
+InstrumentId: 816050
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: a
+SequenceNumber: 607
+
+ANNOUNCEMENT:
+InstrumentId: 323444
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: m
+SequenceNumber: 608
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 48
+OrderPrice: 56
+InstrumentId: 76808
+OrderId: 3371
+
+HEADER:
+MessageType: a
+SequenceNumber: 609
+
+ANNOUNCEMENT:
+InstrumentId: 512393
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: a
+SequenceNumber: 610
+
+ANNOUNCEMENT:
+InstrumentId: 570940
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: o
+SequenceNumber: 611
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 34
+OrderPrice: 58
+InstrumentId: 75219
+OrderId: 99336
+
+HEADER:
+MessageType: c
+SequenceNumber: 612
+
+ORDER_CANCEL:
+InstrumentId: 94061
+OrderId: 75146
+
+HEADER:
+MessageType: c
+SequenceNumber: 613
+
+ORDER_CANCEL:
+InstrumentId: 99386
+OrderId: 81817
+
+HEADER:
+MessageType: o
+SequenceNumber: 614
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 80
+OrderPrice: 28
+InstrumentId: 3297
+OrderId: 51188
+
+HEADER:
+MessageType: a
+SequenceNumber: 615
+
+ANNOUNCEMENT:
+InstrumentId: 795911
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: m
+SequenceNumber: 616
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 25
+OrderPrice: 8
+InstrumentId: 42319
+OrderId: 12731
+
+HEADER:
+MessageType: e
+SequenceNumber: 617
+
+ORDER_EXECUTED:
+PriceAtTrade: 79
+TradeSize: 97
+InstrumentId: 22308
+OrderIdAggressor: 75649
+OrderIdPassive: 78806
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: e
+SequenceNumber: 618
+
+ORDER_EXECUTED:
+PriceAtTrade: 70
+TradeSize: 88
+InstrumentId: 13930
+OrderIdAggressor: 12242
+OrderIdPassive: 40227
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: o
+SequenceNumber: 619
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 55
+OrderPrice: 15
+InstrumentId: 14596
+OrderId: 66998
+
+HEADER:
+MessageType: o
+SequenceNumber: 620
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 63
+OrderPrice: 14
+InstrumentId: 46804
+OrderId: 14124
+
+HEADER:
+MessageType: m
+SequenceNumber: 621
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 59
+OrderPrice: 72
+InstrumentId: 28029
+OrderId: 57099
+
+HEADER:
+MessageType: m
+SequenceNumber: 622
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 4
+OrderPrice: 10
+InstrumentId: 23478
+OrderId: 66691
+
+HEADER:
+MessageType: m
+SequenceNumber: 623
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 31
+OrderPrice: 84
+InstrumentId: 27410
+OrderId: 76886
+
+HEADER:
+MessageType: m
+SequenceNumber: 624
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 46
+OrderPrice: 70
+InstrumentId: 40162
+OrderId: 4822
+
+HEADER:
+MessageType: m
+SequenceNumber: 625
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 19
+OrderPrice: 67
+InstrumentId: 13050
+OrderId: 18003
+
+HEADER:
+MessageType: o
+SequenceNumber: 626
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 52
+OrderPrice: 38
+InstrumentId: 89164
+OrderId: 49721
+
+HEADER:
+MessageType: e
+SequenceNumber: 627
+
+ORDER_EXECUTED:
+PriceAtTrade: 12
+TradeSize: 19
+InstrumentId: 8940
+OrderIdAggressor: 60174
+OrderIdPassive: 55633
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: e
+SequenceNumber: 628
+
+ORDER_EXECUTED:
+PriceAtTrade: 26
+TradeSize: 72
+InstrumentId: 2016
+OrderIdAggressor: 17300
+OrderIdPassive: 17989
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: o
+SequenceNumber: 629
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 23
+OrderPrice: 68
+InstrumentId: 18621
+OrderId: 54721
+
+HEADER:
+MessageType: e
+SequenceNumber: 630
+
+ORDER_EXECUTED:
+PriceAtTrade: 56
+TradeSize: 23
+InstrumentId: 41982
+OrderIdAggressor: 36461
+OrderIdPassive: 53414
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: a
+SequenceNumber: 631
+
+ANNOUNCEMENT:
+InstrumentId: 537657
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: e
+SequenceNumber: 632
+
+ORDER_EXECUTED:
+PriceAtTrade: 82
+TradeSize: 53
+InstrumentId: 3952
+OrderIdAggressor: 26731
+OrderIdPassive: 17785
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: c
+SequenceNumber: 633
+
+ORDER_CANCEL:
+InstrumentId: 76608
+OrderId: 95917
+
+HEADER:
+MessageType: m
+SequenceNumber: 634
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 99
+OrderPrice: 34
+InstrumentId: 53699
+OrderId: 73178
+
+HEADER:
+MessageType: o
+SequenceNumber: 635
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 41
+OrderPrice: 85
+InstrumentId: 14500
+OrderId: 15678
+
+HEADER:
+MessageType: o
+SequenceNumber: 636
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 1
+OrderPrice: 90
+InstrumentId: 62002
+OrderId: 67955
+
+HEADER:
+MessageType: c
+SequenceNumber: 637
+
+ORDER_CANCEL:
+InstrumentId: 59975
+OrderId: 21265
+
+HEADER:
+MessageType: m
+SequenceNumber: 638
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 33
+OrderPrice: 66
+InstrumentId: 20524
+OrderId: 36036
+
+HEADER:
+MessageType: o
+SequenceNumber: 639
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 54
+OrderPrice: 89
+InstrumentId: 76732
+OrderId: 13209
+
+HEADER:
+MessageType: c
+SequenceNumber: 640
+
+ORDER_CANCEL:
+InstrumentId: 64384
+OrderId: 46963
+
+HEADER:
+MessageType: c
+SequenceNumber: 641
+
+ORDER_CANCEL:
+InstrumentId: 58233
+OrderId: 23636
+
+HEADER:
+MessageType: o
+SequenceNumber: 642
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 82
+OrderPrice: 14
+InstrumentId: 26707
+OrderId: 92002
+
+HEADER:
+MessageType: o
+SequenceNumber: 643
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 18
+OrderPrice: 56
+InstrumentId: 44480
+OrderId: 66098
+
+HEADER:
+MessageType: c
+SequenceNumber: 644
+
+ORDER_CANCEL:
+InstrumentId: 2171
+OrderId: 95724
+
+HEADER:
+MessageType: a
+SequenceNumber: 645
+
+ANNOUNCEMENT:
+InstrumentId: 886059
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: a
+SequenceNumber: 646
+
+ANNOUNCEMENT:
+InstrumentId: 121198
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: o
+SequenceNumber: 647
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 30
+OrderPrice: 86
+InstrumentId: 59993
+OrderId: 9512
+
+HEADER:
+MessageType: m
+SequenceNumber: 648
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 95
+OrderPrice: 26
+InstrumentId: 66158
+OrderId: 29664
+
+HEADER:
+MessageType: e
+SequenceNumber: 649
+
+ORDER_EXECUTED:
+PriceAtTrade: 36
+TradeSize: 64
+InstrumentId: 26374
+OrderIdAggressor: 5557
+OrderIdPassive: 11124
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: m
+SequenceNumber: 650
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 50
+OrderPrice: 9
+InstrumentId: 1605
+OrderId: 56036
+
+HEADER:
+MessageType: m
+SequenceNumber: 651
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 67
+OrderPrice: 39
+InstrumentId: 58091
+OrderId: 45194
+
+HEADER:
+MessageType: m
+SequenceNumber: 652
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 33
+OrderPrice: 33
+InstrumentId: 78922
+OrderId: 67338
+
+HEADER:
+MessageType: c
+SequenceNumber: 653
+
+ORDER_CANCEL:
+InstrumentId: 45626
+OrderId: 45865
+
+HEADER:
+MessageType: c
+SequenceNumber: 654
+
+ORDER_CANCEL:
+InstrumentId: 6812
+OrderId: 30287
+
+HEADER:
+MessageType: o
+SequenceNumber: 655
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 45
+OrderPrice: 87
+InstrumentId: 59143
+OrderId: 89853
+
+HEADER:
+MessageType: m
+SequenceNumber: 656
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 90
+OrderPrice: 71
+InstrumentId: 38346
+OrderId: 28174
+
+HEADER:
+MessageType: e
+SequenceNumber: 657
+
+ORDER_EXECUTED:
+PriceAtTrade: 96
+TradeSize: 24
+InstrumentId: 52786
+OrderIdAggressor: 57175
+OrderIdPassive: 91586
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: m
+SequenceNumber: 658
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 42
+OrderPrice: 27
+InstrumentId: 25555
+OrderId: 46253
+
+HEADER:
+MessageType: c
+SequenceNumber: 659
+
+ORDER_CANCEL:
+InstrumentId: 71606
+OrderId: 32018
+
+HEADER:
+MessageType: c
+SequenceNumber: 660
+
+ORDER_CANCEL:
+InstrumentId: 49144
+OrderId: 64705
+
+HEADER:
+MessageType: a
+SequenceNumber: 661
+
+ANNOUNCEMENT:
+InstrumentId: 822917
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: e
+SequenceNumber: 662
+
+ORDER_EXECUTED:
+PriceAtTrade: 90
+TradeSize: 37
+InstrumentId: 30016
+OrderIdAggressor: 86532
+OrderIdPassive: 64511
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: e
+SequenceNumber: 663
+
+ORDER_EXECUTED:
+PriceAtTrade: 30
+TradeSize: 21
+InstrumentId: 48723
+OrderIdAggressor: 91643
+OrderIdPassive: 37567
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: a
+SequenceNumber: 664
+
+ANNOUNCEMENT:
+InstrumentId: 130036
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: c
+SequenceNumber: 665
+
+ORDER_CANCEL:
+InstrumentId: 83544
+OrderId: 56826
+
+HEADER:
+MessageType: m
+SequenceNumber: 666
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 84
+OrderPrice: 22
+InstrumentId: 97350
+OrderId: 56599
+
+HEADER:
+MessageType: o
+SequenceNumber: 667
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 61
+OrderPrice: 57
+InstrumentId: 12093
+OrderId: 24672
+
+HEADER:
+MessageType: c
+SequenceNumber: 668
+
+ORDER_CANCEL:
+InstrumentId: 4711
+OrderId: 86827
+
+HEADER:
+MessageType: c
+SequenceNumber: 669
+
+ORDER_CANCEL:
+InstrumentId: 23832
+OrderId: 92487
+
+HEADER:
+MessageType: m
+SequenceNumber: 670
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 80
+OrderPrice: 95
+InstrumentId: 3032
+OrderId: 50693
+
+HEADER:
+MessageType: c
+SequenceNumber: 671
+
+ORDER_CANCEL:
+InstrumentId: 8199
+OrderId: 54158
+
+HEADER:
+MessageType: a
+SequenceNumber: 672
+
+ANNOUNCEMENT:
+InstrumentId: 973261
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: m
+SequenceNumber: 673
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 79
+OrderPrice: 71
+InstrumentId: 24566
+OrderId: 32791
+
+HEADER:
+MessageType: e
+SequenceNumber: 674
+
+ORDER_EXECUTED:
+PriceAtTrade: 87
+TradeSize: 14
+InstrumentId: 68514
+OrderIdAggressor: 51996
+OrderIdPassive: 73852
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: c
+SequenceNumber: 675
+
+ORDER_CANCEL:
+InstrumentId: 53307
+OrderId: 23995
+
+HEADER:
+MessageType: m
+SequenceNumber: 676
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 18
+OrderPrice: 79
+InstrumentId: 5445
+OrderId: 65735
+
+HEADER:
+MessageType: o
+SequenceNumber: 677
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 81
+OrderPrice: 20
+InstrumentId: 43027
+OrderId: 68443
+
+HEADER:
+MessageType: a
+SequenceNumber: 678
+
+ANNOUNCEMENT:
+InstrumentId: 639543
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: o
+SequenceNumber: 679
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 14
+OrderPrice: 98
+InstrumentId: 82136
+OrderId: 57929
+
+HEADER:
+MessageType: m
+SequenceNumber: 680
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 83
+OrderPrice: 19
+InstrumentId: 63438
+OrderId: 62310
+
+HEADER:
+MessageType: e
+SequenceNumber: 681
+
+ORDER_EXECUTED:
+PriceAtTrade: 33
+TradeSize: 88
+InstrumentId: 25125
+OrderIdAggressor: 20226
+OrderIdPassive: 4334
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: a
+SequenceNumber: 682
+
+ANNOUNCEMENT:
+InstrumentId: 983566
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: c
+SequenceNumber: 683
+
+ORDER_CANCEL:
+InstrumentId: 65134
+OrderId: 15435
+
+HEADER:
+MessageType: o
+SequenceNumber: 684
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 66
+OrderPrice: 85
+InstrumentId: 13339
+OrderId: 90011
+
+HEADER:
+MessageType: o
+SequenceNumber: 685
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 99
+OrderPrice: 39
+InstrumentId: 25810
+OrderId: 64033
+
+HEADER:
+MessageType: a
+SequenceNumber: 686
+
+ANNOUNCEMENT:
+InstrumentId: 361513
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: c
+SequenceNumber: 687
+
+ORDER_CANCEL:
+InstrumentId: 90241
+OrderId: 15100
+
+HEADER:
+MessageType: m
+SequenceNumber: 688
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 12
+OrderPrice: 79
+InstrumentId: 18520
+OrderId: 8420
+
+HEADER:
+MessageType: e
+SequenceNumber: 689
+
+ORDER_EXECUTED:
+PriceAtTrade: 70
+TradeSize: 79
+InstrumentId: 90234
+OrderIdAggressor: 94511
+OrderIdPassive: 1132
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: m
+SequenceNumber: 690
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 52
+OrderPrice: 7
+InstrumentId: 26744
+OrderId: 31351
+
+HEADER:
+MessageType: a
+SequenceNumber: 691
+
+ANNOUNCEMENT:
+InstrumentId: 706191
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: a
+SequenceNumber: 692
+
+ANNOUNCEMENT:
+InstrumentId: 398760
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: a
+SequenceNumber: 693
+
+ANNOUNCEMENT:
+InstrumentId: 798661
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: m
+SequenceNumber: 694
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 12
+OrderPrice: 12
+InstrumentId: 20235
+OrderId: 4389
+
+HEADER:
+MessageType: m
+SequenceNumber: 695
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 27
+OrderPrice: 97
+InstrumentId: 2646
+OrderId: 28236
+
+HEADER:
+MessageType: a
+SequenceNumber: 696
+
+ANNOUNCEMENT:
+InstrumentId: 177300
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: m
+SequenceNumber: 697
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 85
+OrderPrice: 38
+InstrumentId: 83113
+OrderId: 28669
+
+HEADER:
+MessageType: e
+SequenceNumber: 698
+
+ORDER_EXECUTED:
+PriceAtTrade: 71
+TradeSize: 23
+InstrumentId: 14371
+OrderIdAggressor: 34676
+OrderIdPassive: 80661
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: c
+SequenceNumber: 699
+
+ORDER_CANCEL:
+InstrumentId: 73786
+OrderId: 25814
+
+HEADER:
+MessageType: e
+SequenceNumber: 700
+
+ORDER_EXECUTED:
+PriceAtTrade: 59
+TradeSize: 57
+InstrumentId: 68095
+OrderIdAggressor: 2520
+OrderIdPassive: 39585
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: a
+SequenceNumber: 701
+
+ANNOUNCEMENT:
+InstrumentId: 44129
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: m
+SequenceNumber: 702
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 61
+OrderPrice: 83
+InstrumentId: 1506
+OrderId: 34263
+
+HEADER:
+MessageType: e
+SequenceNumber: 703
+
+ORDER_EXECUTED:
+PriceAtTrade: 19
+TradeSize: 98
+InstrumentId: 5036
+OrderIdAggressor: 43992
+OrderIdPassive: 55883
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: c
+SequenceNumber: 704
+
+ORDER_CANCEL:
+InstrumentId: 87525
+OrderId: 36791
+
+HEADER:
+MessageType: m
+SequenceNumber: 705
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 95
+OrderPrice: 67
+InstrumentId: 46272
+OrderId: 71243
+
+HEADER:
+MessageType: a
+SequenceNumber: 706
+
+ANNOUNCEMENT:
+InstrumentId: 743709
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: c
+SequenceNumber: 707
+
+ORDER_CANCEL:
+InstrumentId: 10792
+OrderId: 92401
+
+HEADER:
+MessageType: c
+SequenceNumber: 708
+
+ORDER_CANCEL:
+InstrumentId: 69367
+OrderId: 15808
+
+HEADER:
+MessageType: m
+SequenceNumber: 709
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 43
+OrderPrice: 80
+InstrumentId: 40376
+OrderId: 71085
+
+HEADER:
+MessageType: c
+SequenceNumber: 710
+
+ORDER_CANCEL:
+InstrumentId: 29639
+OrderId: 29503
+
+HEADER:
+MessageType: m
+SequenceNumber: 711
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 8
+OrderPrice: 69
+InstrumentId: 58214
+OrderId: 54035
+
+HEADER:
+MessageType: m
+SequenceNumber: 712
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 87
+OrderPrice: 73
+InstrumentId: 15520
+OrderId: 8756
+
+HEADER:
+MessageType: c
+SequenceNumber: 713
+
+ORDER_CANCEL:
+InstrumentId: 66495
+OrderId: 7949
+
+HEADER:
+MessageType: m
+SequenceNumber: 714
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 14
+OrderPrice: 68
+InstrumentId: 50229
+OrderId: 29806
+
+HEADER:
+MessageType: c
+SequenceNumber: 715
+
+ORDER_CANCEL:
+InstrumentId: 21470
+OrderId: 65427
+
+HEADER:
+MessageType: e
+SequenceNumber: 716
+
+ORDER_EXECUTED:
+PriceAtTrade: 20
+TradeSize: 47
+InstrumentId: 73834
+OrderIdAggressor: 79661
+OrderIdPassive: 61522
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: c
+SequenceNumber: 717
+
+ORDER_CANCEL:
+InstrumentId: 50321
+OrderId: 63870
+
+HEADER:
+MessageType: o
+SequenceNumber: 718
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 40
+OrderPrice: 33
+InstrumentId: 40381
+OrderId: 32640
+
+HEADER:
+MessageType: m
+SequenceNumber: 719
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 85
+OrderPrice: 71
+InstrumentId: 30526
+OrderId: 37299
+
+HEADER:
+MessageType: c
+SequenceNumber: 720
+
+ORDER_CANCEL:
+InstrumentId: 95130
+OrderId: 33096
+
+HEADER:
+MessageType: c
+SequenceNumber: 721
+
+ORDER_CANCEL:
+InstrumentId: 55563
+OrderId: 51852
+
+HEADER:
+MessageType: o
+SequenceNumber: 722
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 6
+OrderPrice: 47
+InstrumentId: 45235
+OrderId: 40931
+
+HEADER:
+MessageType: m
+SequenceNumber: 723
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 11
+OrderPrice: 52
+InstrumentId: 27373
+OrderId: 84471
+
+HEADER:
+MessageType: o
+SequenceNumber: 724
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 7
+OrderPrice: 93
+InstrumentId: 60511
+OrderId: 14568
+
+HEADER:
+MessageType: o
+SequenceNumber: 725
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 66
+OrderPrice: 37
+InstrumentId: 83624
+OrderId: 72663
+
+HEADER:
+MessageType: a
+SequenceNumber: 726
+
+ANNOUNCEMENT:
+InstrumentId: 242914
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: e
+SequenceNumber: 727
+
+ORDER_EXECUTED:
+PriceAtTrade: 15
+TradeSize: 28
+InstrumentId: 64782
+OrderIdAggressor: 11143
+OrderIdPassive: 38959
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: o
+SequenceNumber: 728
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 68
+OrderPrice: 14
+InstrumentId: 62800
+OrderId: 74136
+
+HEADER:
+MessageType: o
+SequenceNumber: 729
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 51
+OrderPrice: 92
+InstrumentId: 4682
+OrderId: 14513
+
+HEADER:
+MessageType: o
+SequenceNumber: 730
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 61
+OrderPrice: 57
+InstrumentId: 45731
+OrderId: 78909
+
+HEADER:
+MessageType: c
+SequenceNumber: 731
+
+ORDER_CANCEL:
+InstrumentId: 44192
+OrderId: 58727
+
+HEADER:
+MessageType: o
+SequenceNumber: 732
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 7
+OrderPrice: 46
+InstrumentId: 1920
+OrderId: 14365
+
+HEADER:
+MessageType: e
+SequenceNumber: 733
+
+ORDER_EXECUTED:
+PriceAtTrade: 20
+TradeSize: 95
+InstrumentId: 38548
+OrderIdAggressor: 27665
+OrderIdPassive: 32028
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: c
+SequenceNumber: 734
+
+ORDER_CANCEL:
+InstrumentId: 9814
+OrderId: 75241
+
+HEADER:
+MessageType: a
+SequenceNumber: 735
+
+ANNOUNCEMENT:
+InstrumentId: 449397
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: c
+SequenceNumber: 736
+
+ORDER_CANCEL:
+InstrumentId: 55222
+OrderId: 60914
+
+HEADER:
+MessageType: m
+SequenceNumber: 737
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 66
+OrderPrice: 37
+InstrumentId: 8335
+OrderId: 96849
+
+HEADER:
+MessageType: m
+SequenceNumber: 738
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 50
+OrderPrice: 78
+InstrumentId: 71288
+OrderId: 68993
+
+HEADER:
+MessageType: c
+SequenceNumber: 739
+
+ORDER_CANCEL:
+InstrumentId: 71685
+OrderId: 87880
+
+HEADER:
+MessageType: c
+SequenceNumber: 740
+
+ORDER_CANCEL:
+InstrumentId: 72198
+OrderId: 71861
+
+HEADER:
+MessageType: e
+SequenceNumber: 741
+
+ORDER_EXECUTED:
+PriceAtTrade: 57
+TradeSize: 18
+InstrumentId: 42210
+OrderIdAggressor: 37831
+OrderIdPassive: 88192
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: m
+SequenceNumber: 742
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 8
+OrderPrice: 25
+InstrumentId: 26691
+OrderId: 26198
+
+HEADER:
+MessageType: c
+SequenceNumber: 743
+
+ORDER_CANCEL:
+InstrumentId: 8911
+OrderId: 11788
+
+HEADER:
+MessageType: e
+SequenceNumber: 744
+
+ORDER_EXECUTED:
+PriceAtTrade: 2
+TradeSize: 6
+InstrumentId: 71749
+OrderIdAggressor: 57863
+OrderIdPassive: 76127
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: o
+SequenceNumber: 745
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 42
+OrderPrice: 59
+InstrumentId: 74971
+OrderId: 85748
+
+HEADER:
+MessageType: a
+SequenceNumber: 746
+
+ANNOUNCEMENT:
+InstrumentId: 987971
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: m
+SequenceNumber: 747
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 70
+OrderPrice: 35
+InstrumentId: 44670
+OrderId: 17228
+
+HEADER:
+MessageType: o
+SequenceNumber: 748
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 16
+OrderPrice: 42
+InstrumentId: 69806
+OrderId: 5592
+
+HEADER:
+MessageType: m
+SequenceNumber: 749
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 90
+OrderPrice: 78
+InstrumentId: 49294
+OrderId: 15169
+
+HEADER:
+MessageType: a
+SequenceNumber: 750
+
+ANNOUNCEMENT:
+InstrumentId: 482290
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: m
+SequenceNumber: 751
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 81
+OrderPrice: 53
+InstrumentId: 57170
+OrderId: 65988
+
+HEADER:
+MessageType: o
+SequenceNumber: 752
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 84
+OrderPrice: 70
+InstrumentId: 66236
+OrderId: 14404
+
+HEADER:
+MessageType: o
+SequenceNumber: 753
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 2
+OrderPrice: 100
+InstrumentId: 81907
+OrderId: 92208
+
+HEADER:
+MessageType: o
+SequenceNumber: 754
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 1
+OrderPrice: 57
+InstrumentId: 78678
+OrderId: 31820
+
+HEADER:
+MessageType: a
+SequenceNumber: 755
+
+ANNOUNCEMENT:
+InstrumentId: 382311
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: o
+SequenceNumber: 756
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 76
+OrderPrice: 39
+InstrumentId: 21584
+OrderId: 51635
+
+HEADER:
+MessageType: m
+SequenceNumber: 757
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 30
+OrderPrice: 90
+InstrumentId: 52620
+OrderId: 34602
+
+HEADER:
+MessageType: e
+SequenceNumber: 758
+
+ORDER_EXECUTED:
+PriceAtTrade: 21
+TradeSize: 30
+InstrumentId: 79069
+OrderIdAggressor: 91972
+OrderIdPassive: 62349
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: m
+SequenceNumber: 759
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 50
+OrderPrice: 78
+InstrumentId: 35579
+OrderId: 26597
+
+HEADER:
+MessageType: e
+SequenceNumber: 760
+
+ORDER_EXECUTED:
+PriceAtTrade: 90
+TradeSize: 45
+InstrumentId: 33438
+OrderIdAggressor: 84975
+OrderIdPassive: 86959
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: o
+SequenceNumber: 761
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 38
+OrderPrice: 76
+InstrumentId: 93302
+OrderId: 96424
+
+HEADER:
+MessageType: a
+SequenceNumber: 762
+
+ANNOUNCEMENT:
+InstrumentId: 167304
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: c
+SequenceNumber: 763
+
+ORDER_CANCEL:
+InstrumentId: 69104
+OrderId: 91477
+
+HEADER:
+MessageType: m
+SequenceNumber: 764
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 45
+OrderPrice: 97
+InstrumentId: 85913
+OrderId: 25325
+
+HEADER:
+MessageType: a
+SequenceNumber: 765
+
+ANNOUNCEMENT:
+InstrumentId: 822545
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: c
+SequenceNumber: 766
+
+ORDER_CANCEL:
+InstrumentId: 90295
+OrderId: 41133
+
+HEADER:
+MessageType: m
+SequenceNumber: 767
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 58
+OrderPrice: 36
+InstrumentId: 54896
+OrderId: 5683
+
+HEADER:
+MessageType: o
+SequenceNumber: 768
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 42
+OrderPrice: 100
+InstrumentId: 80100
+OrderId: 54442
+
+HEADER:
+MessageType: e
+SequenceNumber: 769
+
+ORDER_EXECUTED:
+PriceAtTrade: 86
+TradeSize: 79
+InstrumentId: 7880
+OrderIdAggressor: 18881
+OrderIdPassive: 93679
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: a
+SequenceNumber: 770
+
+ANNOUNCEMENT:
+InstrumentId: 982678
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: o
+SequenceNumber: 771
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 89
+OrderPrice: 55
+InstrumentId: 68454
+OrderId: 31322
+
+HEADER:
+MessageType: o
+SequenceNumber: 772
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 40
+OrderPrice: 82
+InstrumentId: 21095
+OrderId: 97044
+
+HEADER:
+MessageType: c
+SequenceNumber: 773
+
+ORDER_CANCEL:
+InstrumentId: 17696
+OrderId: 41041
+
+HEADER:
+MessageType: e
+SequenceNumber: 774
+
+ORDER_EXECUTED:
+PriceAtTrade: 34
+TradeSize: 87
+InstrumentId: 3026
+OrderIdAggressor: 92694
+OrderIdPassive: 74996
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: c
+SequenceNumber: 775
+
+ORDER_CANCEL:
+InstrumentId: 4559
+OrderId: 32365
+
+HEADER:
+MessageType: c
+SequenceNumber: 776
+
+ORDER_CANCEL:
+InstrumentId: 44334
+OrderId: 63671
+
+HEADER:
+MessageType: c
+SequenceNumber: 777
+
+ORDER_CANCEL:
+InstrumentId: 5738
+OrderId: 82442
+
+HEADER:
+MessageType: e
+SequenceNumber: 778
+
+ORDER_EXECUTED:
+PriceAtTrade: 84
+TradeSize: 70
+InstrumentId: 28088
+OrderIdAggressor: 38478
+OrderIdPassive: 99146
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: c
+SequenceNumber: 779
+
+ORDER_CANCEL:
+InstrumentId: 90865
+OrderId: 77016
+
+HEADER:
+MessageType: m
+SequenceNumber: 780
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 28
+OrderPrice: 100
+InstrumentId: 9821
+OrderId: 71649
+
+HEADER:
+MessageType: e
+SequenceNumber: 781
+
+ORDER_EXECUTED:
+PriceAtTrade: 29
+TradeSize: 2
+InstrumentId: 13442
+OrderIdAggressor: 71451
+OrderIdPassive: 73052
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: c
+SequenceNumber: 782
+
+ORDER_CANCEL:
+InstrumentId: 85539
+OrderId: 85324
+
+HEADER:
+MessageType: e
+SequenceNumber: 783
+
+ORDER_EXECUTED:
+PriceAtTrade: 79
+TradeSize: 74
+InstrumentId: 18906
+OrderIdAggressor: 27067
+OrderIdPassive: 65642
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: o
+SequenceNumber: 784
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 19
+OrderPrice: 24
+InstrumentId: 25595
+OrderId: 20771
+
+HEADER:
+MessageType: o
+SequenceNumber: 785
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 87
+OrderPrice: 1
+InstrumentId: 68421
+OrderId: 84168
+
+HEADER:
+MessageType: e
+SequenceNumber: 786
+
+ORDER_EXECUTED:
+PriceAtTrade: 31
+TradeSize: 98
+InstrumentId: 19836
+OrderIdAggressor: 97279
+OrderIdPassive: 2670
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: c
+SequenceNumber: 787
+
+ORDER_CANCEL:
+InstrumentId: 48483
+OrderId: 20273
+
+HEADER:
+MessageType: e
+SequenceNumber: 788
+
+ORDER_EXECUTED:
+PriceAtTrade: 77
+TradeSize: 64
+InstrumentId: 39059
+OrderIdAggressor: 3539
+OrderIdPassive: 61289
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: e
+SequenceNumber: 789
+
+ORDER_EXECUTED:
+PriceAtTrade: 61
+TradeSize: 62
+InstrumentId: 26895
+OrderIdAggressor: 69248
+OrderIdPassive: 66347
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: o
+SequenceNumber: 790
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 1
+OrderPrice: 82
+InstrumentId: 69484
+OrderId: 98366
+
+HEADER:
+MessageType: m
+SequenceNumber: 791
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 73
+OrderPrice: 61
+InstrumentId: 56692
+OrderId: 84655
+
+HEADER:
+MessageType: a
+SequenceNumber: 792
+
+ANNOUNCEMENT:
+InstrumentId: 705786
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: a
+SequenceNumber: 793
+
+ANNOUNCEMENT:
+InstrumentId: 666801
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: a
+SequenceNumber: 794
+
+ANNOUNCEMENT:
+InstrumentId: 251145
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: e
+SequenceNumber: 795
+
+ORDER_EXECUTED:
+PriceAtTrade: 85
+TradeSize: 19
+InstrumentId: 93509
+OrderIdAggressor: 90599
+OrderIdPassive: 27017
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: m
+SequenceNumber: 796
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 19
+OrderPrice: 32
+InstrumentId: 17197
+OrderId: 25553
+
+HEADER:
+MessageType: c
+SequenceNumber: 797
+
+ORDER_CANCEL:
+InstrumentId: 57645
+OrderId: 7541
+
+HEADER:
+MessageType: c
+SequenceNumber: 798
+
+ORDER_CANCEL:
+InstrumentId: 61032
+OrderId: 80221
+
+HEADER:
+MessageType: m
+SequenceNumber: 799
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 75
+OrderPrice: 49
+InstrumentId: 65712
+OrderId: 48649
+
+HEADER:
+MessageType: c
+SequenceNumber: 800
+
+ORDER_CANCEL:
+InstrumentId: 84984
+OrderId: 92616
+
+HEADER:
+MessageType: o
+SequenceNumber: 801
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 28
+OrderPrice: 28
+InstrumentId: 47098
+OrderId: 79762
+
+HEADER:
+MessageType: e
+SequenceNumber: 802
+
+ORDER_EXECUTED:
+PriceAtTrade: 90
+TradeSize: 6
+InstrumentId: 45095
+OrderIdAggressor: 92547
+OrderIdPassive: 19054
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: e
+SequenceNumber: 803
+
+ORDER_EXECUTED:
+PriceAtTrade: 13
+TradeSize: 2
+InstrumentId: 37452
+OrderIdAggressor: 32896
+OrderIdPassive: 17003
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: e
+SequenceNumber: 804
+
+ORDER_EXECUTED:
+PriceAtTrade: 82
+TradeSize: 20
+InstrumentId: 3398
+OrderIdAggressor: 75785
+OrderIdPassive: 80588
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: a
+SequenceNumber: 805
+
+ANNOUNCEMENT:
+InstrumentId: 339550
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: a
+SequenceNumber: 806
+
+ANNOUNCEMENT:
+InstrumentId: 629106
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: a
+SequenceNumber: 807
+
+ANNOUNCEMENT:
+InstrumentId: 848120
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: c
+SequenceNumber: 808
+
+ORDER_CANCEL:
+InstrumentId: 93816
+OrderId: 4857
+
+HEADER:
+MessageType: o
+SequenceNumber: 809
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 48
+OrderPrice: 65
+InstrumentId: 44925
+OrderId: 20816
+
+HEADER:
+MessageType: c
+SequenceNumber: 810
+
+ORDER_CANCEL:
+InstrumentId: 16790
+OrderId: 67647
+
+HEADER:
+MessageType: m
+SequenceNumber: 811
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 85
+OrderPrice: 46
+InstrumentId: 60336
+OrderId: 75785
+
+HEADER:
+MessageType: o
+SequenceNumber: 812
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 18
+OrderPrice: 20
+InstrumentId: 73704
+OrderId: 4866
+
+HEADER:
+MessageType: e
+SequenceNumber: 813
+
+ORDER_EXECUTED:
+PriceAtTrade: 70
+TradeSize: 18
+InstrumentId: 18075
+OrderIdAggressor: 65752
+OrderIdPassive: 7062
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: a
+SequenceNumber: 814
+
+ANNOUNCEMENT:
+InstrumentId: 585981
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: m
+SequenceNumber: 815
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 13
+OrderPrice: 76
+InstrumentId: 47562
+OrderId: 59901
+
+HEADER:
+MessageType: a
+SequenceNumber: 816
+
+ANNOUNCEMENT:
+InstrumentId: 621114
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: o
+SequenceNumber: 817
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 81
+OrderPrice: 70
+InstrumentId: 51532
+OrderId: 25309
+
+HEADER:
+MessageType: m
+SequenceNumber: 818
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 36
+OrderPrice: 58
+InstrumentId: 91217
+OrderId: 43552
+
+HEADER:
+MessageType: m
+SequenceNumber: 819
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 35
+OrderPrice: 14
+InstrumentId: 3012
+OrderId: 38557
+
+HEADER:
+MessageType: a
+SequenceNumber: 820
+
+ANNOUNCEMENT:
+InstrumentId: 176302
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: o
+SequenceNumber: 821
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 53
+OrderPrice: 17
+InstrumentId: 49547
+OrderId: 26076
+
+HEADER:
+MessageType: a
+SequenceNumber: 822
+
+ANNOUNCEMENT:
+InstrumentId: 744298
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: m
+SequenceNumber: 823
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 80
+OrderPrice: 30
+InstrumentId: 39448
+OrderId: 6980
+
+HEADER:
+MessageType: o
+SequenceNumber: 824
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 53
+OrderPrice: 4
+InstrumentId: 39015
+OrderId: 66082
+
+HEADER:
+MessageType: a
+SequenceNumber: 825
+
+ANNOUNCEMENT:
+InstrumentId: 235548
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: m
+SequenceNumber: 826
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 74
+OrderPrice: 88
+InstrumentId: 49949
+OrderId: 26322
+
+HEADER:
+MessageType: m
+SequenceNumber: 827
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 68
+OrderPrice: 42
+InstrumentId: 83786
+OrderId: 76819
+
+HEADER:
+MessageType: o
+SequenceNumber: 828
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 82
+OrderPrice: 77
+InstrumentId: 53811
+OrderId: 12193
+
+HEADER:
+MessageType: o
+SequenceNumber: 829
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 41
+OrderPrice: 50
+InstrumentId: 42136
+OrderId: 73587
+
+HEADER:
+MessageType: m
+SequenceNumber: 830
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 14
+OrderPrice: 22
+InstrumentId: 45231
+OrderId: 9981
+
+HEADER:
+MessageType: a
+SequenceNumber: 831
+
+ANNOUNCEMENT:
+InstrumentId: 80287
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: m
+SequenceNumber: 832
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 69
+OrderPrice: 42
+InstrumentId: 1060
+OrderId: 37165
+
+HEADER:
+MessageType: o
+SequenceNumber: 833
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 12
+OrderPrice: 25
+InstrumentId: 26315
+OrderId: 90043
+
+HEADER:
+MessageType: a
+SequenceNumber: 834
+
+ANNOUNCEMENT:
+InstrumentId: 901946
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: e
+SequenceNumber: 835
+
+ORDER_EXECUTED:
+PriceAtTrade: 14
+TradeSize: 98
+InstrumentId: 51334
+OrderIdAggressor: 9683
+OrderIdPassive: 21543
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: e
+SequenceNumber: 836
+
+ORDER_EXECUTED:
+PriceAtTrade: 46
+TradeSize: 22
+InstrumentId: 41104
+OrderIdAggressor: 79337
+OrderIdPassive: 47561
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: e
+SequenceNumber: 837
+
+ORDER_EXECUTED:
+PriceAtTrade: 5
+TradeSize: 69
+InstrumentId: 8701
+OrderIdAggressor: 83715
+OrderIdPassive: 72109
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: a
+SequenceNumber: 838
+
+ANNOUNCEMENT:
+InstrumentId: 772994
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: o
+SequenceNumber: 839
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 96
+OrderPrice: 32
+InstrumentId: 16427
+OrderId: 34176
+
+HEADER:
+MessageType: m
+SequenceNumber: 840
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 14
+OrderPrice: 30
+InstrumentId: 48068
+OrderId: 11781
+
+HEADER:
+MessageType: c
+SequenceNumber: 841
+
+ORDER_CANCEL:
+InstrumentId: 62820
+OrderId: 76891
+
+HEADER:
+MessageType: m
+SequenceNumber: 842
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 31
+OrderPrice: 53
+InstrumentId: 62129
+OrderId: 30660
+
+HEADER:
+MessageType: a
+SequenceNumber: 843
+
+ANNOUNCEMENT:
+InstrumentId: 205854
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: a
+SequenceNumber: 844
+
+ANNOUNCEMENT:
+InstrumentId: 191024
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: c
+SequenceNumber: 845
+
+ORDER_CANCEL:
+InstrumentId: 55186
+OrderId: 38105
+
+HEADER:
+MessageType: o
+SequenceNumber: 846
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 45
+OrderPrice: 69
+InstrumentId: 41858
+OrderId: 67911
+
+HEADER:
+MessageType: o
+SequenceNumber: 847
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 10
+OrderPrice: 55
+InstrumentId: 60649
+OrderId: 95568
+
+HEADER:
+MessageType: e
+SequenceNumber: 848
+
+ORDER_EXECUTED:
+PriceAtTrade: 18
+TradeSize: 10
+InstrumentId: 61257
+OrderIdAggressor: 47678
+OrderIdPassive: 42891
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: m
+SequenceNumber: 849
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 78
+OrderPrice: 77
+InstrumentId: 5591
+OrderId: 19580
+
+HEADER:
+MessageType: m
+SequenceNumber: 850
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 42
+OrderPrice: 71
+InstrumentId: 53298
+OrderId: 53613
+
+HEADER:
+MessageType: a
+SequenceNumber: 851
+
+ANNOUNCEMENT:
+InstrumentId: 252650
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: o
+SequenceNumber: 852
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 49
+OrderPrice: 46
+InstrumentId: 74866
+OrderId: 60717
+
+HEADER:
+MessageType: a
+SequenceNumber: 853
+
+ANNOUNCEMENT:
+InstrumentId: 509080
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: c
+SequenceNumber: 854
+
+ORDER_CANCEL:
+InstrumentId: 67352
+OrderId: 40569
+
+HEADER:
+MessageType: c
+SequenceNumber: 855
+
+ORDER_CANCEL:
+InstrumentId: 21484
+OrderId: 42431
+
+HEADER:
+MessageType: c
+SequenceNumber: 856
+
+ORDER_CANCEL:
+InstrumentId: 9071
+OrderId: 96305
+
+HEADER:
+MessageType: a
+SequenceNumber: 857
+
+ANNOUNCEMENT:
+InstrumentId: 423443
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: e
+SequenceNumber: 858
+
+ORDER_EXECUTED:
+PriceAtTrade: 33
+TradeSize: 2
+InstrumentId: 22314
+OrderIdAggressor: 97562
+OrderIdPassive: 62316
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: a
+SequenceNumber: 859
+
+ANNOUNCEMENT:
+InstrumentId: 654656
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: m
+SequenceNumber: 860
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 21
+OrderPrice: 5
+InstrumentId: 25176
+OrderId: 26353
+
+HEADER:
+MessageType: c
+SequenceNumber: 861
+
+ORDER_CANCEL:
+InstrumentId: 2844
+OrderId: 71161
+
+HEADER:
+MessageType: m
+SequenceNumber: 862
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 24
+OrderPrice: 86
+InstrumentId: 81039
+OrderId: 1900
+
+HEADER:
+MessageType: o
+SequenceNumber: 863
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 67
+OrderPrice: 17
+InstrumentId: 79427
+OrderId: 16560
+
+HEADER:
+MessageType: o
+SequenceNumber: 864
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 93
+OrderPrice: 26
+InstrumentId: 1197
+OrderId: 98958
+
+HEADER:
+MessageType: e
+SequenceNumber: 865
+
+ORDER_EXECUTED:
+PriceAtTrade: 27
+TradeSize: 78
+InstrumentId: 94754
+OrderIdAggressor: 88263
+OrderIdPassive: 11350
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: m
+SequenceNumber: 866
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 58
+OrderPrice: 54
+InstrumentId: 65412
+OrderId: 44091
+
+HEADER:
+MessageType: o
+SequenceNumber: 867
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 89
+OrderPrice: 88
+InstrumentId: 26910
+OrderId: 75247
+
+HEADER:
+MessageType: a
+SequenceNumber: 868
+
+ANNOUNCEMENT:
+InstrumentId: 81250
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: c
+SequenceNumber: 869
+
+ORDER_CANCEL:
+InstrumentId: 33757
+OrderId: 91988
+
+HEADER:
+MessageType: c
+SequenceNumber: 870
+
+ORDER_CANCEL:
+InstrumentId: 52143
+OrderId: 41382
+
+HEADER:
+MessageType: e
+SequenceNumber: 871
+
+ORDER_EXECUTED:
+PriceAtTrade: 42
+TradeSize: 42
+InstrumentId: 77501
+OrderIdAggressor: 69454
+OrderIdPassive: 16451
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: o
+SequenceNumber: 872
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 42
+OrderPrice: 72
+InstrumentId: 77463
+OrderId: 6696
+
+HEADER:
+MessageType: c
+SequenceNumber: 873
+
+ORDER_CANCEL:
+InstrumentId: 22310
+OrderId: 13795
+
+HEADER:
+MessageType: e
+SequenceNumber: 874
+
+ORDER_EXECUTED:
+PriceAtTrade: 47
+TradeSize: 84
+InstrumentId: 75993
+OrderIdAggressor: 7929
+OrderIdPassive: 54157
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: c
+SequenceNumber: 875
+
+ORDER_CANCEL:
+InstrumentId: 25071
+OrderId: 25931
+
+HEADER:
+MessageType: m
+SequenceNumber: 876
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 90
+OrderPrice: 89
+InstrumentId: 51886
+OrderId: 46182
+
+HEADER:
+MessageType: a
+SequenceNumber: 877
+
+ANNOUNCEMENT:
+InstrumentId: 251544
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: a
+SequenceNumber: 878
+
+ANNOUNCEMENT:
+InstrumentId: 716694
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: a
+SequenceNumber: 879
+
+ANNOUNCEMENT:
+InstrumentId: 122933
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: a
+SequenceNumber: 880
+
+ANNOUNCEMENT:
+InstrumentId: 998033
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: e
+SequenceNumber: 881
+
+ORDER_EXECUTED:
+PriceAtTrade: 66
+TradeSize: 58
+InstrumentId: 12765
+OrderIdAggressor: 21373
+OrderIdPassive: 63342
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: e
+SequenceNumber: 882
+
+ORDER_EXECUTED:
+PriceAtTrade: 73
+TradeSize: 65
+InstrumentId: 21564
+OrderIdAggressor: 40810
+OrderIdPassive: 70588
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: o
+SequenceNumber: 883
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 36
+OrderPrice: 30
+InstrumentId: 70126
+OrderId: 71239
+
+HEADER:
+MessageType: e
+SequenceNumber: 884
+
+ORDER_EXECUTED:
+PriceAtTrade: 5
+TradeSize: 17
+InstrumentId: 71521
+OrderIdAggressor: 36572
+OrderIdPassive: 18623
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: a
+SequenceNumber: 885
+
+ANNOUNCEMENT:
+InstrumentId: 75419
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: c
+SequenceNumber: 886
+
+ORDER_CANCEL:
+InstrumentId: 60849
+OrderId: 88997
+
+HEADER:
+MessageType: m
+SequenceNumber: 887
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 44
+OrderPrice: 29
+InstrumentId: 83241
+OrderId: 84044
+
+HEADER:
+MessageType: o
+SequenceNumber: 888
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 99
+OrderPrice: 60
+InstrumentId: 48990
+OrderId: 55871
+
+HEADER:
+MessageType: c
+SequenceNumber: 889
+
+ORDER_CANCEL:
+InstrumentId: 50398
+OrderId: 90992
+
+HEADER:
+MessageType: e
+SequenceNumber: 890
+
+ORDER_EXECUTED:
+PriceAtTrade: 53
+TradeSize: 19
+InstrumentId: 49588
+OrderIdAggressor: 76935
+OrderIdPassive: 51867
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: m
+SequenceNumber: 891
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 45
+OrderPrice: 29
+InstrumentId: 84454
+OrderId: 21200
+
+HEADER:
+MessageType: m
+SequenceNumber: 892
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 60
+OrderPrice: 25
+InstrumentId: 90738
+OrderId: 76791
+
+HEADER:
+MessageType: e
+SequenceNumber: 893
+
+ORDER_EXECUTED:
+PriceAtTrade: 10
+TradeSize: 65
+InstrumentId: 3278
+OrderIdAggressor: 95635
+OrderIdPassive: 54993
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: m
+SequenceNumber: 894
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 99
+OrderPrice: 48
+InstrumentId: 48278
+OrderId: 14371
+
+HEADER:
+MessageType: o
+SequenceNumber: 895
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 98
+OrderPrice: 23
+InstrumentId: 8253
+OrderId: 93571
+
+HEADER:
+MessageType: m
+SequenceNumber: 896
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 17
+OrderPrice: 42
+InstrumentId: 53035
+OrderId: 16236
+
+HEADER:
+MessageType: m
+SequenceNumber: 897
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 62
+OrderPrice: 1
+InstrumentId: 47227
+OrderId: 22789
+
+HEADER:
+MessageType: m
+SequenceNumber: 898
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 47
+OrderPrice: 67
+InstrumentId: 66455
+OrderId: 57277
+
+HEADER:
+MessageType: e
+SequenceNumber: 899
+
+ORDER_EXECUTED:
+PriceAtTrade: 33
+TradeSize: 57
+InstrumentId: 68125
+OrderIdAggressor: 83639
+OrderIdPassive: 88997
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: m
+SequenceNumber: 900
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 50
+OrderPrice: 69
+InstrumentId: 59178
+OrderId: 63181
+
+HEADER:
+MessageType: e
+SequenceNumber: 901
+
+ORDER_EXECUTED:
+PriceAtTrade: 38
+TradeSize: 33
+InstrumentId: 81457
+OrderIdAggressor: 22009
+OrderIdPassive: 60112
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: a
+SequenceNumber: 902
+
+ANNOUNCEMENT:
+InstrumentId: 59562
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: o
+SequenceNumber: 903
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 93
+OrderPrice: 61
+InstrumentId: 64447
+OrderId: 13786
+
+HEADER:
+MessageType: o
+SequenceNumber: 904
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 55
+OrderPrice: 37
+InstrumentId: 57415
+OrderId: 28195
+
+HEADER:
+MessageType: o
+SequenceNumber: 905
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 3
+OrderPrice: 8
+InstrumentId: 84788
+OrderId: 19842
+
+HEADER:
+MessageType: c
+SequenceNumber: 906
+
+ORDER_CANCEL:
+InstrumentId: 69360
+OrderId: 92874
+
+HEADER:
+MessageType: o
+SequenceNumber: 907
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 76
+OrderPrice: 11
+InstrumentId: 72388
+OrderId: 49009
+
+HEADER:
+MessageType: a
+SequenceNumber: 908
+
+ANNOUNCEMENT:
+InstrumentId: 447958
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: e
+SequenceNumber: 909
+
+ORDER_EXECUTED:
+PriceAtTrade: 96
+TradeSize: 51
+InstrumentId: 85426
+OrderIdAggressor: 43671
+OrderIdPassive: 45382
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: e
+SequenceNumber: 910
+
+ORDER_EXECUTED:
+PriceAtTrade: 35
+TradeSize: 56
+InstrumentId: 11871
+OrderIdAggressor: 52200
+OrderIdPassive: 97993
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: o
+SequenceNumber: 911
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 32
+OrderPrice: 18
+InstrumentId: 92191
+OrderId: 37574
+
+HEADER:
+MessageType: e
+SequenceNumber: 912
+
+ORDER_EXECUTED:
+PriceAtTrade: 15
+TradeSize: 60
+InstrumentId: 57691
+OrderIdAggressor: 48523
+OrderIdPassive: 28665
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: o
+SequenceNumber: 913
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 71
+OrderPrice: 12
+InstrumentId: 47348
+OrderId: 15056
+
+HEADER:
+MessageType: e
+SequenceNumber: 914
+
+ORDER_EXECUTED:
+PriceAtTrade: 65
+TradeSize: 46
+InstrumentId: 81524
+OrderIdAggressor: 32918
+OrderIdPassive: 39238
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: o
+SequenceNumber: 915
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 41
+OrderPrice: 36
+InstrumentId: 33310
+OrderId: 21272
+
+HEADER:
+MessageType: a
+SequenceNumber: 916
+
+ANNOUNCEMENT:
+InstrumentId: 695299
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: a
+SequenceNumber: 917
+
+ANNOUNCEMENT:
+InstrumentId: 239299
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: a
+SequenceNumber: 918
+
+ANNOUNCEMENT:
+InstrumentId: 195973
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: e
+SequenceNumber: 919
+
+ORDER_EXECUTED:
+PriceAtTrade: 25
+TradeSize: 9
+InstrumentId: 38306
+OrderIdAggressor: 29489
+OrderIdPassive: 24744
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: e
+SequenceNumber: 920
+
+ORDER_EXECUTED:
+PriceAtTrade: 55
+TradeSize: 89
+InstrumentId: 30597
+OrderIdAggressor: 43536
+OrderIdPassive: 66518
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: e
+SequenceNumber: 921
+
+ORDER_EXECUTED:
+PriceAtTrade: 46
+TradeSize: 8
+InstrumentId: 70597
+OrderIdAggressor: 32395
+OrderIdPassive: 65610
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: m
+SequenceNumber: 922
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 55
+OrderPrice: 47
+InstrumentId: 50636
+OrderId: 52836
+
+HEADER:
+MessageType: a
+SequenceNumber: 923
+
+ANNOUNCEMENT:
+InstrumentId: 534544
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: e
+SequenceNumber: 924
+
+ORDER_EXECUTED:
+PriceAtTrade: 73
+TradeSize: 50
+InstrumentId: 26288
+OrderIdAggressor: 47317
+OrderIdPassive: 91734
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: m
+SequenceNumber: 925
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 51
+OrderPrice: 89
+InstrumentId: 38183
+OrderId: 8301
+
+HEADER:
+MessageType: o
+SequenceNumber: 926
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 61
+OrderPrice: 4
+InstrumentId: 38651
+OrderId: 40617
+
+HEADER:
+MessageType: o
+SequenceNumber: 927
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 41
+OrderPrice: 19
+InstrumentId: 77289
+OrderId: 23702
+
+HEADER:
+MessageType: c
+SequenceNumber: 928
+
+ORDER_CANCEL:
+InstrumentId: 26145
+OrderId: 41513
+
+HEADER:
+MessageType: a
+SequenceNumber: 929
+
+ANNOUNCEMENT:
+InstrumentId: 440023
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: o
+SequenceNumber: 930
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 15
+OrderPrice: 36
+InstrumentId: 76543
+OrderId: 77849
+
+HEADER:
+MessageType: m
+SequenceNumber: 931
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 93
+OrderPrice: 2
+InstrumentId: 97431
+OrderId: 41350
+
+HEADER:
+MessageType: o
+SequenceNumber: 932
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 8
+OrderPrice: 1
+InstrumentId: 71303
+OrderId: 25598
+
+HEADER:
+MessageType: c
+SequenceNumber: 933
+
+ORDER_CANCEL:
+InstrumentId: 61165
+OrderId: 38064
+
+HEADER:
+MessageType: o
+SequenceNumber: 934
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 25
+OrderPrice: 98
+InstrumentId: 54072
+OrderId: 70417
+
+HEADER:
+MessageType: m
+SequenceNumber: 935
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 31
+OrderPrice: 83
+InstrumentId: 57949
+OrderId: 42475
+
+HEADER:
+MessageType: o
+SequenceNumber: 936
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 52
+OrderPrice: 39
+InstrumentId: 96116
+OrderId: 88768
+
+HEADER:
+MessageType: e
+SequenceNumber: 937
+
+ORDER_EXECUTED:
+PriceAtTrade: 28
+TradeSize: 73
+InstrumentId: 88320
+OrderIdAggressor: 81997
+OrderIdPassive: 96701
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: e
+SequenceNumber: 938
+
+ORDER_EXECUTED:
+PriceAtTrade: 13
+TradeSize: 97
+InstrumentId: 7192
+OrderIdAggressor: 52842
+OrderIdPassive: 69882
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: c
+SequenceNumber: 939
+
+ORDER_CANCEL:
+InstrumentId: 25641
+OrderId: 55071
+
+HEADER:
+MessageType: m
+SequenceNumber: 940
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 80
+OrderPrice: 5
+InstrumentId: 5113
+OrderId: 34094
+
+HEADER:
+MessageType: e
+SequenceNumber: 941
+
+ORDER_EXECUTED:
+PriceAtTrade: 55
+TradeSize: 50
+InstrumentId: 62525
+OrderIdAggressor: 61611
+OrderIdPassive: 72114
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: e
+SequenceNumber: 942
+
+ORDER_EXECUTED:
+PriceAtTrade: 17
+TradeSize: 79
+InstrumentId: 83761
+OrderIdAggressor: 54187
+OrderIdPassive: 23049
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: a
+SequenceNumber: 943
+
+ANNOUNCEMENT:
+InstrumentId: 871317
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: a
+SequenceNumber: 944
+
+ANNOUNCEMENT:
+InstrumentId: 966011
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: m
+SequenceNumber: 945
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 8
+OrderPrice: 97
+InstrumentId: 25600
+OrderId: 75794
+
+HEADER:
+MessageType: e
+SequenceNumber: 946
+
+ORDER_EXECUTED:
+PriceAtTrade: 82
+TradeSize: 85
+InstrumentId: 13357
+OrderIdAggressor: 26534
+OrderIdPassive: 71470
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: o
+SequenceNumber: 947
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 20
+OrderPrice: 49
+InstrumentId: 21530
+OrderId: 41222
+
+HEADER:
+MessageType: a
+SequenceNumber: 948
+
+ANNOUNCEMENT:
+InstrumentId: 133384
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: o
+SequenceNumber: 949
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 6
+OrderPrice: 22
+InstrumentId: 59798
+OrderId: 61384
+
+HEADER:
+MessageType: e
+SequenceNumber: 950
+
+ORDER_EXECUTED:
+PriceAtTrade: 55
+TradeSize: 53
+InstrumentId: 27779
+OrderIdAggressor: 40118
+OrderIdPassive: 76907
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: a
+SequenceNumber: 951
+
+ANNOUNCEMENT:
+InstrumentId: 916060
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: a
+SequenceNumber: 952
+
+ANNOUNCEMENT:
+InstrumentId: 547012
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: e
+SequenceNumber: 953
+
+ORDER_EXECUTED:
+PriceAtTrade: 62
+TradeSize: 50
+InstrumentId: 83261
+OrderIdAggressor: 78242
+OrderIdPassive: 50338
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: e
+SequenceNumber: 954
+
+ORDER_EXECUTED:
+PriceAtTrade: 66
+TradeSize: 63
+InstrumentId: 61610
+OrderIdAggressor: 83446
+OrderIdPassive: 17232
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: a
+SequenceNumber: 955
+
+ANNOUNCEMENT:
+InstrumentId: 332839
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: a
+SequenceNumber: 956
+
+ANNOUNCEMENT:
+InstrumentId: 169922
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: c
+SequenceNumber: 957
+
+ORDER_CANCEL:
+InstrumentId: 72828
+OrderId: 88444
+
+HEADER:
+MessageType: e
+SequenceNumber: 958
+
+ORDER_EXECUTED:
+PriceAtTrade: 70
+TradeSize: 32
+InstrumentId: 73719
+OrderIdAggressor: 16670
+OrderIdPassive: 37359
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: m
+SequenceNumber: 959
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 62
+OrderPrice: 3
+InstrumentId: 17068
+OrderId: 27943
+
+HEADER:
+MessageType: e
+SequenceNumber: 960
+
+ORDER_EXECUTED:
+PriceAtTrade: 36
+TradeSize: 12
+InstrumentId: 83605
+OrderIdAggressor: 30623
+OrderIdPassive: 3739
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: m
+SequenceNumber: 961
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 83
+OrderPrice: 98
+InstrumentId: 87535
+OrderId: 22741
+
+HEADER:
+MessageType: e
+SequenceNumber: 962
+
+ORDER_EXECUTED:
+PriceAtTrade: 92
+TradeSize: 33
+InstrumentId: 8389
+OrderIdAggressor: 70370
+OrderIdPassive: 92413
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: e
+SequenceNumber: 963
+
+ORDER_EXECUTED:
+PriceAtTrade: 71
+TradeSize: 20
+InstrumentId: 27609
+OrderIdAggressor: 25845
+OrderIdPassive: 16352
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: o
+SequenceNumber: 964
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 4
+OrderPrice: 96
+InstrumentId: 39123
+OrderId: 24476
+
+HEADER:
+MessageType: c
+SequenceNumber: 965
+
+ORDER_CANCEL:
+InstrumentId: 47508
+OrderId: 51180
+
+HEADER:
+MessageType: c
+SequenceNumber: 966
+
+ORDER_CANCEL:
+InstrumentId: 1260
+OrderId: 18181
+
+HEADER:
+MessageType: m
+SequenceNumber: 967
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 16
+OrderPrice: 70
+InstrumentId: 59618
+OrderId: 94533
+
+HEADER:
+MessageType: c
+SequenceNumber: 968
+
+ORDER_CANCEL:
+InstrumentId: 14566
+OrderId: 24321
+
+HEADER:
+MessageType: o
+SequenceNumber: 969
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 44
+OrderPrice: 69
+InstrumentId: 33572
+OrderId: 35506
+
+HEADER:
+MessageType: c
+SequenceNumber: 970
+
+ORDER_CANCEL:
+InstrumentId: 953
+OrderId: 26867
+
+HEADER:
+MessageType: o
+SequenceNumber: 971
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 95
+OrderPrice: 60
+InstrumentId: 57607
+OrderId: 44219
+
+HEADER:
+MessageType: o
+SequenceNumber: 972
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 65
+OrderPrice: 91
+InstrumentId: 19647
+OrderId: 41068
+
+HEADER:
+MessageType: e
+SequenceNumber: 973
+
+ORDER_EXECUTED:
+PriceAtTrade: 66
+TradeSize: 70
+InstrumentId: 57079
+OrderIdAggressor: 32678
+OrderIdPassive: 9040
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: o
+SequenceNumber: 974
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 4
+OrderPrice: 36
+InstrumentId: 98325
+OrderId: 5476
+
+HEADER:
+MessageType: c
+SequenceNumber: 975
+
+ORDER_CANCEL:
+InstrumentId: 28648
+OrderId: 43425
+
+HEADER:
+MessageType: o
+SequenceNumber: 976
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 21
+OrderPrice: 9
+InstrumentId: 21744
+OrderId: 27580
+
+HEADER:
+MessageType: e
+SequenceNumber: 977
+
+ORDER_EXECUTED:
+PriceAtTrade: 40
+TradeSize: 50
+InstrumentId: 60972
+OrderIdAggressor: 38435
+OrderIdPassive: 7835
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: m
+SequenceNumber: 978
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 17
+OrderPrice: 45
+InstrumentId: 27110
+OrderId: 87355
+
+HEADER:
+MessageType: o
+SequenceNumber: 979
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 71
+OrderPrice: 41
+InstrumentId: 53099
+OrderId: 84995
+
+HEADER:
+MessageType: c
+SequenceNumber: 980
+
+ORDER_CANCEL:
+InstrumentId: 67020
+OrderId: 12450
+
+HEADER:
+MessageType: c
+SequenceNumber: 981
+
+ORDER_CANCEL:
+InstrumentId: 49277
+OrderId: 41307
+
+HEADER:
+MessageType: e
+SequenceNumber: 982
+
+ORDER_EXECUTED:
+PriceAtTrade: 88
+TradeSize: 28
+InstrumentId: 59665
+OrderIdAggressor: 76947
+OrderIdPassive: 9153
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: o
+SequenceNumber: 983
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 19
+OrderPrice: 87
+InstrumentId: 6347
+OrderId: 42638
+
+HEADER:
+MessageType: a
+SequenceNumber: 984
+
+ANNOUNCEMENT:
+InstrumentId: 328164
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: c
+SequenceNumber: 985
+
+ORDER_CANCEL:
+InstrumentId: 84806
+OrderId: 38923
+
+HEADER:
+MessageType: c
+SequenceNumber: 986
+
+ORDER_CANCEL:
+InstrumentId: 2222
+OrderId: 80991
+
+HEADER:
+MessageType: c
+SequenceNumber: 987
+
+ORDER_CANCEL:
+InstrumentId: 55232
+OrderId: 63522
+
+HEADER:
+MessageType: e
+SequenceNumber: 988
+
+ORDER_EXECUTED:
+PriceAtTrade: 36
+TradeSize: 86
+InstrumentId: 60504
+OrderIdAggressor: 59485
+OrderIdPassive: 49691
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: o
+SequenceNumber: 989
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 40
+OrderPrice: 32
+InstrumentId: 52038
+OrderId: 50500
+
+HEADER:
+MessageType: a
+SequenceNumber: 990
+
+ANNOUNCEMENT:
+InstrumentId: 878827
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: e
+SequenceNumber: 991
+
+ORDER_EXECUTED:
+PriceAtTrade: 40
+TradeSize: 35
+InstrumentId: 60025
+OrderIdAggressor: 53506
+OrderIdPassive: 27811
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: a
+SequenceNumber: 992
+
+ANNOUNCEMENT:
+InstrumentId: 67877
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: m
+SequenceNumber: 993
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 64
+OrderPrice: 89
+InstrumentId: 61713
+OrderId: 76744
+
+HEADER:
+MessageType: o
+SequenceNumber: 994
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 45
+OrderPrice: 14
+InstrumentId: 58031
+OrderId: 13597
+
+HEADER:
+MessageType: o
+SequenceNumber: 995
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 4
+OrderPrice: 22
+InstrumentId: 45487
+OrderId: 38062
+
+HEADER:
+MessageType: o
+SequenceNumber: 996
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 7
+OrderPrice: 44
+InstrumentId: 14732
+OrderId: 15623
+
+HEADER:
+MessageType: m
+SequenceNumber: 997
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 36
+OrderPrice: 30
+InstrumentId: 22890
+OrderId: 99211
+
+HEADER:
+MessageType: e
+SequenceNumber: 998
+
+ORDER_EXECUTED:
+PriceAtTrade: 15
+TradeSize: 91
+InstrumentId: 9410
+OrderIdAggressor: 81982
+OrderIdPassive: 3250
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: m
+SequenceNumber: 999
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 66
+OrderPrice: 52
+InstrumentId: 40619
+OrderId: 92310
+
+HEADER:
+MessageType: a
+SequenceNumber: 1000
+
+ANNOUNCEMENT:
+InstrumentId: 480004
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: c
+SequenceNumber: 1001
+
+ORDER_CANCEL:
+InstrumentId: 31978
+OrderId: 22184
+
+HEADER:
+MessageType: o
+SequenceNumber: 1002
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 85
+OrderPrice: 16
+InstrumentId: 75225
+OrderId: 69774
+
+HEADER:
+MessageType: m
+SequenceNumber: 1003
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 60
+OrderPrice: 76
+InstrumentId: 89973
+OrderId: 70683
+
+HEADER:
+MessageType: o
+SequenceNumber: 1004
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 65
+OrderPrice: 28
+InstrumentId: 83768
+OrderId: 52439
+
+HEADER:
+MessageType: a
+SequenceNumber: 1005
+
+ANNOUNCEMENT:
+InstrumentId: 792640
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: o
+SequenceNumber: 1006
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 64
+OrderPrice: 7
+InstrumentId: 44091
+OrderId: 91893
+
+HEADER:
+MessageType: a
+SequenceNumber: 1007
+
+ANNOUNCEMENT:
+InstrumentId: 665292
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: o
+SequenceNumber: 1008
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 65
+OrderPrice: 72
+InstrumentId: 32752
+OrderId: 80808
+
+HEADER:
+MessageType: a
+SequenceNumber: 1009
+
+ANNOUNCEMENT:
+InstrumentId: 677447
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: o
+SequenceNumber: 1010
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 85
+OrderPrice: 83
+InstrumentId: 98081
+OrderId: 45691
+
+HEADER:
+MessageType: m
+SequenceNumber: 1011
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 4
+OrderPrice: 5
+InstrumentId: 37454
+OrderId: 12389
+
+HEADER:
+MessageType: o
+SequenceNumber: 1012
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 11
+OrderPrice: 35
+InstrumentId: 11771
+OrderId: 48602
+
+HEADER:
+MessageType: c
+SequenceNumber: 1013
+
+ORDER_CANCEL:
+InstrumentId: 56935
+OrderId: 61043
+
+HEADER:
+MessageType: e
+SequenceNumber: 1014
+
+ORDER_EXECUTED:
+PriceAtTrade: 96
+TradeSize: 88
+InstrumentId: 21207
+OrderIdAggressor: 66170
+OrderIdPassive: 24922
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: o
+SequenceNumber: 1015
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 19
+OrderPrice: 2
+InstrumentId: 24674
+OrderId: 64850
+
+HEADER:
+MessageType: e
+SequenceNumber: 1016
+
+ORDER_EXECUTED:
+PriceAtTrade: 77
+TradeSize: 26
+InstrumentId: 85299
+OrderIdAggressor: 52420
+OrderIdPassive: 42175
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: o
+SequenceNumber: 1017
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 42
+OrderPrice: 65
+InstrumentId: 6307
+OrderId: 1435
+
+HEADER:
+MessageType: c
+SequenceNumber: 1018
+
+ORDER_CANCEL:
+InstrumentId: 92401
+OrderId: 74632
+
+HEADER:
+MessageType: a
+SequenceNumber: 1019
+
+ANNOUNCEMENT:
+InstrumentId: 247486
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: a
+SequenceNumber: 1020
+
+ANNOUNCEMENT:
+InstrumentId: 37036
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: o
+SequenceNumber: 1021
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 20
+OrderPrice: 98
+InstrumentId: 53287
+OrderId: 33315
+
+HEADER:
+MessageType: m
+SequenceNumber: 1022
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 84
+OrderPrice: 55
+InstrumentId: 98293
+OrderId: 44110
+
+HEADER:
+MessageType: a
+SequenceNumber: 1023
+
+ANNOUNCEMENT:
+InstrumentId: 330669
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: m
+SequenceNumber: 1024
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 33
+OrderPrice: 55
+InstrumentId: 51157
+OrderId: 17616
+
+HEADER:
+MessageType: a
+SequenceNumber: 1025
+
+ANNOUNCEMENT:
+InstrumentId: 458999
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: e
+SequenceNumber: 1026
+
+ORDER_EXECUTED:
+PriceAtTrade: 89
+TradeSize: 77
+InstrumentId: 73731
+OrderIdAggressor: 9251
+OrderIdPassive: 66222
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: c
+SequenceNumber: 1027
+
+ORDER_CANCEL:
+InstrumentId: 77625
+OrderId: 54676
+
+HEADER:
+MessageType: e
+SequenceNumber: 1028
+
+ORDER_EXECUTED:
+PriceAtTrade: 94
+TradeSize: 45
+InstrumentId: 65399
+OrderIdAggressor: 18293
+OrderIdPassive: 66772
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: c
+SequenceNumber: 1029
+
+ORDER_CANCEL:
+InstrumentId: 7832
+OrderId: 34829
+
+HEADER:
+MessageType: a
+SequenceNumber: 1030
+
+ANNOUNCEMENT:
+InstrumentId: 382540
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: e
+SequenceNumber: 1031
+
+ORDER_EXECUTED:
+PriceAtTrade: 89
+TradeSize: 79
+InstrumentId: 43591
+OrderIdAggressor: 19276
+OrderIdPassive: 19359
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: c
+SequenceNumber: 1032
+
+ORDER_CANCEL:
+InstrumentId: 10099
+OrderId: 11281
+
+HEADER:
+MessageType: e
+SequenceNumber: 1033
+
+ORDER_EXECUTED:
+PriceAtTrade: 47
+TradeSize: 84
+InstrumentId: 60017
+OrderIdAggressor: 70791
+OrderIdPassive: 74137
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: o
+SequenceNumber: 1034
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 52
+OrderPrice: 37
+InstrumentId: 23132
+OrderId: 51491
+
+HEADER:
+MessageType: o
+SequenceNumber: 1035
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 1
+OrderPrice: 36
+InstrumentId: 57823
+OrderId: 47789
+
+HEADER:
+MessageType: m
+SequenceNumber: 1036
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 17
+OrderPrice: 48
+InstrumentId: 66192
+OrderId: 60660
+
+HEADER:
+MessageType: c
+SequenceNumber: 1037
+
+ORDER_CANCEL:
+InstrumentId: 85871
+OrderId: 34083
+
+HEADER:
+MessageType: e
+SequenceNumber: 1038
+
+ORDER_EXECUTED:
+PriceAtTrade: 2
+TradeSize: 92
+InstrumentId: 95417
+OrderIdAggressor: 8269
+OrderIdPassive: 53239
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: o
+SequenceNumber: 1039
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 87
+OrderPrice: 18
+InstrumentId: 1654
+OrderId: 99517
+
+HEADER:
+MessageType: o
+SequenceNumber: 1040
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 61
+OrderPrice: 25
+InstrumentId: 78764
+OrderId: 86637
+
+HEADER:
+MessageType: a
+SequenceNumber: 1041
+
+ANNOUNCEMENT:
+InstrumentId: 89494
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: e
+SequenceNumber: 1042
+
+ORDER_EXECUTED:
+PriceAtTrade: 65
+TradeSize: 39
+InstrumentId: 72920
+OrderIdAggressor: 79524
+OrderIdPassive: 74791
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: o
+SequenceNumber: 1043
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 81
+OrderPrice: 21
+InstrumentId: 54918
+OrderId: 15694
+
+HEADER:
+MessageType: e
+SequenceNumber: 1044
+
+ORDER_EXECUTED:
+PriceAtTrade: 95
+TradeSize: 57
+InstrumentId: 36467
+OrderIdAggressor: 65980
+OrderIdPassive: 92749
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: m
+SequenceNumber: 1045
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 46
+OrderPrice: 1
+InstrumentId: 38405
+OrderId: 76620
+
+HEADER:
+MessageType: a
+SequenceNumber: 1046
+
+ANNOUNCEMENT:
+InstrumentId: 328576
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: m
+SequenceNumber: 1047
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 67
+OrderPrice: 60
+InstrumentId: 2408
+OrderId: 45714
+
+HEADER:
+MessageType: c
+SequenceNumber: 1048
+
+ORDER_CANCEL:
+InstrumentId: 99820
+OrderId: 99411
+
+HEADER:
+MessageType: a
+SequenceNumber: 1049
+
+ANNOUNCEMENT:
+InstrumentId: 855710
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: e
+SequenceNumber: 1050
+
+ORDER_EXECUTED:
+PriceAtTrade: 5
+TradeSize: 32
+InstrumentId: 70018
+OrderIdAggressor: 85637
+OrderIdPassive: 17367
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: m
+SequenceNumber: 1051
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 73
+OrderPrice: 55
+InstrumentId: 46823
+OrderId: 69713
+
+HEADER:
+MessageType: e
+SequenceNumber: 1052
+
+ORDER_EXECUTED:
+PriceAtTrade: 16
+TradeSize: 79
+InstrumentId: 32300
+OrderIdAggressor: 86775
+OrderIdPassive: 94168
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: a
+SequenceNumber: 1053
+
+ANNOUNCEMENT:
+InstrumentId: 870867
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: m
+SequenceNumber: 1054
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 74
+OrderPrice: 78
+InstrumentId: 46384
+OrderId: 52072
+
+HEADER:
+MessageType: m
+SequenceNumber: 1055
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 46
+OrderPrice: 54
+InstrumentId: 61343
+OrderId: 57880
+
+HEADER:
+MessageType: m
+SequenceNumber: 1056
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 100
+OrderPrice: 97
+InstrumentId: 57214
+OrderId: 75607
+
+HEADER:
+MessageType: e
+SequenceNumber: 1057
+
+ORDER_EXECUTED:
+PriceAtTrade: 44
+TradeSize: 69
+InstrumentId: 21059
+OrderIdAggressor: 3321
+OrderIdPassive: 19538
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: c
+SequenceNumber: 1058
+
+ORDER_CANCEL:
+InstrumentId: 47855
+OrderId: 28386
+
+HEADER:
+MessageType: e
+SequenceNumber: 1059
+
+ORDER_EXECUTED:
+PriceAtTrade: 53
+TradeSize: 63
+InstrumentId: 86054
+OrderIdAggressor: 26267
+OrderIdPassive: 91400
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: o
+SequenceNumber: 1060
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 14
+OrderPrice: 41
+InstrumentId: 3638
+OrderId: 37974
+
+HEADER:
+MessageType: a
+SequenceNumber: 1061
+
+ANNOUNCEMENT:
+InstrumentId: 424673
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: e
+SequenceNumber: 1062
+
+ORDER_EXECUTED:
+PriceAtTrade: 72
+TradeSize: 52
+InstrumentId: 55815
+OrderIdAggressor: 83430
+OrderIdPassive: 99773
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: o
+SequenceNumber: 1063
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 26
+OrderPrice: 21
+InstrumentId: 54315
+OrderId: 48385
+
+HEADER:
+MessageType: o
+SequenceNumber: 1064
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 6
+OrderPrice: 31
+InstrumentId: 18085
+OrderId: 34151
+
+HEADER:
+MessageType: c
+SequenceNumber: 1065
+
+ORDER_CANCEL:
+InstrumentId: 63508
+OrderId: 77166
+
+HEADER:
+MessageType: a
+SequenceNumber: 1066
+
+ANNOUNCEMENT:
+InstrumentId: 844873
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: c
+SequenceNumber: 1067
+
+ORDER_CANCEL:
+InstrumentId: 10027
+OrderId: 85223
+
+HEADER:
+MessageType: c
+SequenceNumber: 1068
+
+ORDER_CANCEL:
+InstrumentId: 2739
+OrderId: 71751
+
+HEADER:
+MessageType: e
+SequenceNumber: 1069
+
+ORDER_EXECUTED:
+PriceAtTrade: 67
+TradeSize: 30
+InstrumentId: 69683
+OrderIdAggressor: 16561
+OrderIdPassive: 3961
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: c
+SequenceNumber: 1070
+
+ORDER_CANCEL:
+InstrumentId: 54590
+OrderId: 39702
+
+HEADER:
+MessageType: e
+SequenceNumber: 1071
+
+ORDER_EXECUTED:
+PriceAtTrade: 91
+TradeSize: 63
+InstrumentId: 28145
+OrderIdAggressor: 67941
+OrderIdPassive: 88027
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: e
+SequenceNumber: 1072
+
+ORDER_EXECUTED:
+PriceAtTrade: 38
+TradeSize: 53
+InstrumentId: 27206
+OrderIdAggressor: 79067
+OrderIdPassive: 66075
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: c
+SequenceNumber: 1073
+
+ORDER_CANCEL:
+InstrumentId: 35070
+OrderId: 79597
+
+HEADER:
+MessageType: a
+SequenceNumber: 1074
+
+ANNOUNCEMENT:
+InstrumentId: 518445
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: c
+SequenceNumber: 1075
+
+ORDER_CANCEL:
+InstrumentId: 97997
+OrderId: 33071
+
+HEADER:
+MessageType: m
+SequenceNumber: 1076
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 28
+OrderPrice: 45
+InstrumentId: 8234
+OrderId: 6875
+
+HEADER:
+MessageType: e
+SequenceNumber: 1077
+
+ORDER_EXECUTED:
+PriceAtTrade: 72
+TradeSize: 71
+InstrumentId: 87037
+OrderIdAggressor: 55021
+OrderIdPassive: 51631
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: e
+SequenceNumber: 1078
+
+ORDER_EXECUTED:
+PriceAtTrade: 80
+TradeSize: 95
+InstrumentId: 17824
+OrderIdAggressor: 41509
+OrderIdPassive: 23022
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: c
+SequenceNumber: 1079
+
+ORDER_CANCEL:
+InstrumentId: 93561
+OrderId: 15065
+
+HEADER:
+MessageType: a
+SequenceNumber: 1080
+
+ANNOUNCEMENT:
+InstrumentId: 296517
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: e
+SequenceNumber: 1081
+
+ORDER_EXECUTED:
+PriceAtTrade: 91
+TradeSize: 43
+InstrumentId: 33201
+OrderIdAggressor: 54354
+OrderIdPassive: 14480
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: o
+SequenceNumber: 1082
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 18
+OrderPrice: 46
+InstrumentId: 62088
+OrderId: 13054
+
+HEADER:
+MessageType: a
+SequenceNumber: 1083
+
+ANNOUNCEMENT:
+InstrumentId: 713913
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: c
+SequenceNumber: 1084
+
+ORDER_CANCEL:
+InstrumentId: 51515
+OrderId: 16330
+
+HEADER:
+MessageType: m
+SequenceNumber: 1085
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 93
+OrderPrice: 57
+InstrumentId: 93066
+OrderId: 88154
+
+HEADER:
+MessageType: c
+SequenceNumber: 1086
+
+ORDER_CANCEL:
+InstrumentId: 63719
+OrderId: 59112
+
+HEADER:
+MessageType: o
+SequenceNumber: 1087
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 3
+OrderPrice: 41
+InstrumentId: 58022
+OrderId: 43900
+
+HEADER:
+MessageType: m
+SequenceNumber: 1088
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 66
+OrderPrice: 21
+InstrumentId: 16693
+OrderId: 54442
+
+HEADER:
+MessageType: o
+SequenceNumber: 1089
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 98
+OrderPrice: 85
+InstrumentId: 77316
+OrderId: 75695
+
+HEADER:
+MessageType: o
+SequenceNumber: 1090
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 9
+OrderPrice: 61
+InstrumentId: 7001
+OrderId: 1012
+
+HEADER:
+MessageType: c
+SequenceNumber: 1091
+
+ORDER_CANCEL:
+InstrumentId: 63802
+OrderId: 92779
+
+HEADER:
+MessageType: e
+SequenceNumber: 1092
+
+ORDER_EXECUTED:
+PriceAtTrade: 28
+TradeSize: 29
+InstrumentId: 28686
+OrderIdAggressor: 9758
+OrderIdPassive: 63095
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: o
+SequenceNumber: 1093
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 5
+OrderPrice: 44
+InstrumentId: 64885
+OrderId: 28558
+
+HEADER:
+MessageType: o
+SequenceNumber: 1094
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 61
+OrderPrice: 45
+InstrumentId: 59039
+OrderId: 77064
+
+HEADER:
+MessageType: o
+SequenceNumber: 1095
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 93
+OrderPrice: 79
+InstrumentId: 48552
+OrderId: 67412
+
+HEADER:
+MessageType: e
+SequenceNumber: 1096
+
+ORDER_EXECUTED:
+PriceAtTrade: 51
+TradeSize: 34
+InstrumentId: 69193
+OrderIdAggressor: 4934
+OrderIdPassive: 57029
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: c
+SequenceNumber: 1097
+
+ORDER_CANCEL:
+InstrumentId: 84115
+OrderId: 63720
+
+HEADER:
+MessageType: c
+SequenceNumber: 1098
+
+ORDER_CANCEL:
+InstrumentId: 41114
+OrderId: 43850
+
+HEADER:
+MessageType: o
+SequenceNumber: 1099
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 89
+OrderPrice: 35
+InstrumentId: 35107
+OrderId: 50774
+
+HEADER:
+MessageType: m
+SequenceNumber: 1100
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 33
+OrderPrice: 86
+InstrumentId: 45252
+OrderId: 10655
+
+HEADER:
+MessageType: m
+SequenceNumber: 1101
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 69
+OrderPrice: 37
+InstrumentId: 16644
+OrderId: 57536
+
+HEADER:
+MessageType: e
+SequenceNumber: 1102
+
+ORDER_EXECUTED:
+PriceAtTrade: 86
+TradeSize: 56
+InstrumentId: 66681
+OrderIdAggressor: 91113
+OrderIdPassive: 71686
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: o
+SequenceNumber: 1103
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 54
+OrderPrice: 62
+InstrumentId: 33341
+OrderId: 59395
+
+HEADER:
+MessageType: m
+SequenceNumber: 1104
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 91
+OrderPrice: 3
+InstrumentId: 77330
+OrderId: 83476
+
+HEADER:
+MessageType: e
+SequenceNumber: 1105
+
+ORDER_EXECUTED:
+PriceAtTrade: 16
+TradeSize: 43
+InstrumentId: 27968
+OrderIdAggressor: 56222
+OrderIdPassive: 6042
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: o
+SequenceNumber: 1106
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 88
+OrderPrice: 9
+InstrumentId: 43923
+OrderId: 40092
+
+HEADER:
+MessageType: e
+SequenceNumber: 1107
+
+ORDER_EXECUTED:
+PriceAtTrade: 14
+TradeSize: 41
+InstrumentId: 19225
+OrderIdAggressor: 31622
+OrderIdPassive: 73193
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: o
+SequenceNumber: 1108
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 68
+OrderPrice: 51
+InstrumentId: 50667
+OrderId: 31350
+
+HEADER:
+MessageType: c
+SequenceNumber: 1109
+
+ORDER_CANCEL:
+InstrumentId: 21467
+OrderId: 55118
+
+HEADER:
+MessageType: c
+SequenceNumber: 1110
+
+ORDER_CANCEL:
+InstrumentId: 94013
+OrderId: 97058
+
+HEADER:
+MessageType: m
+SequenceNumber: 1111
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 72
+OrderPrice: 34
+InstrumentId: 8134
+OrderId: 99225
+
+HEADER:
+MessageType: c
+SequenceNumber: 1112
+
+ORDER_CANCEL:
+InstrumentId: 96808
+OrderId: 47886
+
+HEADER:
+MessageType: a
+SequenceNumber: 1113
+
+ANNOUNCEMENT:
+InstrumentId: 684197
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: o
+SequenceNumber: 1114
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 88
+OrderPrice: 62
+InstrumentId: 42638
+OrderId: 52561
+
+HEADER:
+MessageType: c
+SequenceNumber: 1115
+
+ORDER_CANCEL:
+InstrumentId: 47921
+OrderId: 43460
+
+HEADER:
+MessageType: a
+SequenceNumber: 1116
+
+ANNOUNCEMENT:
+InstrumentId: 791216
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: m
+SequenceNumber: 1117
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 54
+OrderPrice: 17
+InstrumentId: 28091
+OrderId: 99957
+
+HEADER:
+MessageType: e
+SequenceNumber: 1118
+
+ORDER_EXECUTED:
+PriceAtTrade: 33
+TradeSize: 22
+InstrumentId: 60805
+OrderIdAggressor: 4839
+OrderIdPassive: 98531
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: e
+SequenceNumber: 1119
+
+ORDER_EXECUTED:
+PriceAtTrade: 10
+TradeSize: 32
+InstrumentId: 1821
+OrderIdAggressor: 96056
+OrderIdPassive: 99245
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: m
+SequenceNumber: 1120
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 86
+OrderPrice: 96
+InstrumentId: 11401
+OrderId: 79989
+
+HEADER:
+MessageType: m
+SequenceNumber: 1121
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 73
+OrderPrice: 36
+InstrumentId: 47642
+OrderId: 12188
+
+HEADER:
+MessageType: o
+SequenceNumber: 1122
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 35
+OrderPrice: 26
+InstrumentId: 25557
+OrderId: 75008
+
+HEADER:
+MessageType: a
+SequenceNumber: 1123
+
+ANNOUNCEMENT:
+InstrumentId: 803493
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: c
+SequenceNumber: 1124
+
+ORDER_CANCEL:
+InstrumentId: 11808
+OrderId: 89346
+
+HEADER:
+MessageType: a
+SequenceNumber: 1125
+
+ANNOUNCEMENT:
+InstrumentId: 454617
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: e
+SequenceNumber: 1126
+
+ORDER_EXECUTED:
+PriceAtTrade: 93
+TradeSize: 14
+InstrumentId: 8025
+OrderIdAggressor: 92574
+OrderIdPassive: 70123
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: c
+SequenceNumber: 1127
+
+ORDER_CANCEL:
+InstrumentId: 26699
+OrderId: 7772
+
+HEADER:
+MessageType: m
+SequenceNumber: 1128
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 15
+OrderPrice: 17
+InstrumentId: 7249
+OrderId: 67292
+
+HEADER:
+MessageType: c
+SequenceNumber: 1129
+
+ORDER_CANCEL:
+InstrumentId: 76987
+OrderId: 40837
+
+HEADER:
+MessageType: m
+SequenceNumber: 1130
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 33
+OrderPrice: 99
+InstrumentId: 21668
+OrderId: 8364
+
+HEADER:
+MessageType: c
+SequenceNumber: 1131
+
+ORDER_CANCEL:
+InstrumentId: 71789
+OrderId: 91061
+
+HEADER:
+MessageType: a
+SequenceNumber: 1132
+
+ANNOUNCEMENT:
+InstrumentId: 638835
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: c
+SequenceNumber: 1133
+
+ORDER_CANCEL:
+InstrumentId: 6380
+OrderId: 23251
+
+HEADER:
+MessageType: e
+SequenceNumber: 1134
+
+ORDER_EXECUTED:
+PriceAtTrade: 3
+TradeSize: 90
+InstrumentId: 86290
+OrderIdAggressor: 27157
+OrderIdPassive: 86507
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: a
+SequenceNumber: 1135
+
+ANNOUNCEMENT:
+InstrumentId: 343766
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: m
+SequenceNumber: 1136
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 36
+OrderPrice: 67
+InstrumentId: 56951
+OrderId: 97555
+
+HEADER:
+MessageType: e
+SequenceNumber: 1137
+
+ORDER_EXECUTED:
+PriceAtTrade: 82
+TradeSize: 63
+InstrumentId: 39705
+OrderIdAggressor: 99091
+OrderIdPassive: 16098
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: m
+SequenceNumber: 1138
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 15
+OrderPrice: 76
+InstrumentId: 44716
+OrderId: 11016
+
+HEADER:
+MessageType: m
+SequenceNumber: 1139
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 64
+OrderPrice: 11
+InstrumentId: 71872
+OrderId: 98391
+
+HEADER:
+MessageType: m
+SequenceNumber: 1140
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 22
+OrderPrice: 52
+InstrumentId: 35272
+OrderId: 46067
+
+HEADER:
+MessageType: e
+SequenceNumber: 1141
+
+ORDER_EXECUTED:
+PriceAtTrade: 24
+TradeSize: 24
+InstrumentId: 5160
+OrderIdAggressor: 6396
+OrderIdPassive: 50751
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: e
+SequenceNumber: 1142
+
+ORDER_EXECUTED:
+PriceAtTrade: 30
+TradeSize: 62
+InstrumentId: 1550
+OrderIdAggressor: 72935
+OrderIdPassive: 91715
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: o
+SequenceNumber: 1143
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 70
+OrderPrice: 14
+InstrumentId: 21926
+OrderId: 39006
+
+HEADER:
+MessageType: e
+SequenceNumber: 1144
+
+ORDER_EXECUTED:
+PriceAtTrade: 40
+TradeSize: 11
+InstrumentId: 37763
+OrderIdAggressor: 34066
+OrderIdPassive: 13708
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: a
+SequenceNumber: 1145
+
+ANNOUNCEMENT:
+InstrumentId: 569003
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: o
+SequenceNumber: 1146
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 7
+OrderPrice: 46
+InstrumentId: 45594
+OrderId: 49264
+
+HEADER:
+MessageType: a
+SequenceNumber: 1147
+
+ANNOUNCEMENT:
+InstrumentId: 140634
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: o
+SequenceNumber: 1148
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 15
+OrderPrice: 16
+InstrumentId: 85514
+OrderId: 82097
+
+HEADER:
+MessageType: a
+SequenceNumber: 1149
+
+ANNOUNCEMENT:
+InstrumentId: 123892
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: a
+SequenceNumber: 1150
+
+ANNOUNCEMENT:
+InstrumentId: 184763
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: e
+SequenceNumber: 1151
+
+ORDER_EXECUTED:
+PriceAtTrade: 56
+TradeSize: 5
+InstrumentId: 33788
+OrderIdAggressor: 69072
+OrderIdPassive: 47916
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: c
+SequenceNumber: 1152
+
+ORDER_CANCEL:
+InstrumentId: 81591
+OrderId: 2712
+
+HEADER:
+MessageType: a
+SequenceNumber: 1153
+
+ANNOUNCEMENT:
+InstrumentId: 241089
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: m
+SequenceNumber: 1154
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 61
+OrderPrice: 72
+InstrumentId: 58979
+OrderId: 28591
+
+HEADER:
+MessageType: o
+SequenceNumber: 1155
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 66
+OrderPrice: 22
+InstrumentId: 15130
+OrderId: 8688
+
+HEADER:
+MessageType: c
+SequenceNumber: 1156
+
+ORDER_CANCEL:
+InstrumentId: 41011
+OrderId: 79621
+
+HEADER:
+MessageType: o
+SequenceNumber: 1157
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 14
+OrderPrice: 21
+InstrumentId: 27775
+OrderId: 41070
+
+HEADER:
+MessageType: c
+SequenceNumber: 1158
+
+ORDER_CANCEL:
+InstrumentId: 56685
+OrderId: 50320
+
+HEADER:
+MessageType: a
+SequenceNumber: 1159
+
+ANNOUNCEMENT:
+InstrumentId: 811683
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: e
+SequenceNumber: 1160
+
+ORDER_EXECUTED:
+PriceAtTrade: 44
+TradeSize: 2
+InstrumentId: 46800
+OrderIdAggressor: 82391
+OrderIdPassive: 15398
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: o
+SequenceNumber: 1161
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 58
+OrderPrice: 55
+InstrumentId: 52969
+OrderId: 48501
+
+HEADER:
+MessageType: o
+SequenceNumber: 1162
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 11
+OrderPrice: 28
+InstrumentId: 53591
+OrderId: 91660
+
+HEADER:
+MessageType: e
+SequenceNumber: 1163
+
+ORDER_EXECUTED:
+PriceAtTrade: 78
+TradeSize: 77
+InstrumentId: 78923
+OrderIdAggressor: 85166
+OrderIdPassive: 1923
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: m
+SequenceNumber: 1164
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 19
+OrderPrice: 52
+InstrumentId: 92184
+OrderId: 52833
+
+HEADER:
+MessageType: a
+SequenceNumber: 1165
+
+ANNOUNCEMENT:
+InstrumentId: 884411
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: e
+SequenceNumber: 1166
+
+ORDER_EXECUTED:
+PriceAtTrade: 72
+TradeSize: 37
+InstrumentId: 1244
+OrderIdAggressor: 2539
+OrderIdPassive: 30428
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: m
+SequenceNumber: 1167
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 63
+OrderPrice: 92
+InstrumentId: 93817
+OrderId: 37889
+
+HEADER:
+MessageType: c
+SequenceNumber: 1168
+
+ORDER_CANCEL:
+InstrumentId: 42474
+OrderId: 96082
+
+HEADER:
+MessageType: c
+SequenceNumber: 1169
+
+ORDER_CANCEL:
+InstrumentId: 35868
+OrderId: 82768
+
+HEADER:
+MessageType: o
+SequenceNumber: 1170
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 90
+OrderPrice: 64
+InstrumentId: 70832
+OrderId: 62212
+
+HEADER:
+MessageType: o
+SequenceNumber: 1171
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 78
+OrderPrice: 31
+InstrumentId: 18844
+OrderId: 56839
+
+HEADER:
+MessageType: o
+SequenceNumber: 1172
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 100
+OrderPrice: 71
+InstrumentId: 5840
+OrderId: 50622
+
+HEADER:
+MessageType: m
+SequenceNumber: 1173
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 93
+OrderPrice: 59
+InstrumentId: 28330
+OrderId: 89594
+
+HEADER:
+MessageType: c
+SequenceNumber: 1174
+
+ORDER_CANCEL:
+InstrumentId: 8557
+OrderId: 49174
+
+HEADER:
+MessageType: c
+SequenceNumber: 1175
+
+ORDER_CANCEL:
+InstrumentId: 81111
+OrderId: 24516
+
+HEADER:
+MessageType: m
+SequenceNumber: 1176
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 9
+OrderPrice: 90
+InstrumentId: 32094
+OrderId: 26451
+
+HEADER:
+MessageType: e
+SequenceNumber: 1177
+
+ORDER_EXECUTED:
+PriceAtTrade: 3
+TradeSize: 74
+InstrumentId: 9333
+OrderIdAggressor: 62817
+OrderIdPassive: 50946
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: m
+SequenceNumber: 1178
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 34
+OrderPrice: 78
+InstrumentId: 47664
+OrderId: 24863
+
+HEADER:
+MessageType: o
+SequenceNumber: 1179
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 2
+OrderPrice: 21
+InstrumentId: 71671
+OrderId: 95551
+
+HEADER:
+MessageType: e
+SequenceNumber: 1180
+
+ORDER_EXECUTED:
+PriceAtTrade: 31
+TradeSize: 22
+InstrumentId: 27940
+OrderIdAggressor: 20081
+OrderIdPassive: 81178
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: a
+SequenceNumber: 1181
+
+ANNOUNCEMENT:
+InstrumentId: 390649
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: c
+SequenceNumber: 1182
+
+ORDER_CANCEL:
+InstrumentId: 75115
+OrderId: 92759
+
+HEADER:
+MessageType: m
+SequenceNumber: 1183
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 69
+OrderPrice: 86
+InstrumentId: 63394
+OrderId: 28156
+
+HEADER:
+MessageType: e
+SequenceNumber: 1184
+
+ORDER_EXECUTED:
+PriceAtTrade: 72
+TradeSize: 77
+InstrumentId: 59795
+OrderIdAggressor: 37087
+OrderIdPassive: 18579
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: e
+SequenceNumber: 1185
+
+ORDER_EXECUTED:
+PriceAtTrade: 24
+TradeSize: 33
+InstrumentId: 88650
+OrderIdAggressor: 47701
+OrderIdPassive: 13431
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: e
+SequenceNumber: 1186
+
+ORDER_EXECUTED:
+PriceAtTrade: 76
+TradeSize: 34
+InstrumentId: 96282
+OrderIdAggressor: 9261
+OrderIdPassive: 89754
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: o
+SequenceNumber: 1187
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 78
+OrderPrice: 100
+InstrumentId: 40489
+OrderId: 62030
+
+HEADER:
+MessageType: c
+SequenceNumber: 1188
+
+ORDER_CANCEL:
+InstrumentId: 6094
+OrderId: 21446
+
+HEADER:
+MessageType: a
+SequenceNumber: 1189
+
+ANNOUNCEMENT:
+InstrumentId: 336922
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: e
+SequenceNumber: 1190
+
+ORDER_EXECUTED:
+PriceAtTrade: 20
+TradeSize: 35
+InstrumentId: 20235
+OrderIdAggressor: 69223
+OrderIdPassive: 95755
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: o
+SequenceNumber: 1191
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 12
+OrderPrice: 45
+InstrumentId: 11012
+OrderId: 8935
+
+HEADER:
+MessageType: o
+SequenceNumber: 1192
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 48
+OrderPrice: 28
+InstrumentId: 50857
+OrderId: 36545
+
+HEADER:
+MessageType: o
+SequenceNumber: 1193
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 59
+OrderPrice: 78
+InstrumentId: 81622
+OrderId: 67316
+
+HEADER:
+MessageType: o
+SequenceNumber: 1194
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 33
+OrderPrice: 61
+InstrumentId: 3560
+OrderId: 10188
+
+HEADER:
+MessageType: a
+SequenceNumber: 1195
+
+ANNOUNCEMENT:
+InstrumentId: 452908
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: c
+SequenceNumber: 1196
+
+ORDER_CANCEL:
+InstrumentId: 97430
+OrderId: 5439
+
+HEADER:
+MessageType: o
+SequenceNumber: 1197
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 41
+OrderPrice: 100
+InstrumentId: 15135
+OrderId: 51655
+
+HEADER:
+MessageType: c
+SequenceNumber: 1198
+
+ORDER_CANCEL:
+InstrumentId: 59066
+OrderId: 35585
+
+HEADER:
+MessageType: m
+SequenceNumber: 1199
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 5
+OrderPrice: 99
+InstrumentId: 26633
+OrderId: 54923
+
+HEADER:
+MessageType: m
+SequenceNumber: 1200
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 28
+OrderPrice: 93
+InstrumentId: 16402
+OrderId: 70385
+
+HEADER:
+MessageType: c
+SequenceNumber: 1201
+
+ORDER_CANCEL:
+InstrumentId: 76621
+OrderId: 50250
+
+HEADER:
+MessageType: m
+SequenceNumber: 1202
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 90
+OrderPrice: 44
+InstrumentId: 3773
+OrderId: 73422
+
+HEADER:
+MessageType: c
+SequenceNumber: 1203
+
+ORDER_CANCEL:
+InstrumentId: 26709
+OrderId: 90377
+
+HEADER:
+MessageType: e
+SequenceNumber: 1204
+
+ORDER_EXECUTED:
+PriceAtTrade: 31
+TradeSize: 63
+InstrumentId: 46896
+OrderIdAggressor: 79007
+OrderIdPassive: 84877
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: m
+SequenceNumber: 1205
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 37
+OrderPrice: 91
+InstrumentId: 43044
+OrderId: 90455
+
+HEADER:
+MessageType: m
+SequenceNumber: 1206
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 95
+OrderPrice: 40
+InstrumentId: 92929
+OrderId: 20519
+
+HEADER:
+MessageType: m
+SequenceNumber: 1207
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 20
+OrderPrice: 38
+InstrumentId: 55486
+OrderId: 53481
+
+HEADER:
+MessageType: e
+SequenceNumber: 1208
+
+ORDER_EXECUTED:
+PriceAtTrade: 33
+TradeSize: 78
+InstrumentId: 72701
+OrderIdAggressor: 61748
+OrderIdPassive: 32779
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: a
+SequenceNumber: 1209
+
+ANNOUNCEMENT:
+InstrumentId: 214771
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: e
+SequenceNumber: 1210
+
+ORDER_EXECUTED:
+PriceAtTrade: 52
+TradeSize: 74
+InstrumentId: 25123
+OrderIdAggressor: 67170
+OrderIdPassive: 60755
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: c
+SequenceNumber: 1211
+
+ORDER_CANCEL:
+InstrumentId: 19450
+OrderId: 21498
+
+HEADER:
+MessageType: a
+SequenceNumber: 1212
+
+ANNOUNCEMENT:
+InstrumentId: 736920
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: m
+SequenceNumber: 1213
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 68
+OrderPrice: 54
+InstrumentId: 31753
+OrderId: 6508
+
+HEADER:
+MessageType: c
+SequenceNumber: 1214
+
+ORDER_CANCEL:
+InstrumentId: 34005
+OrderId: 72160
+
+HEADER:
+MessageType: e
+SequenceNumber: 1215
+
+ORDER_EXECUTED:
+PriceAtTrade: 28
+TradeSize: 77
+InstrumentId: 19600
+OrderIdAggressor: 82652
+OrderIdPassive: 43767
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: o
+SequenceNumber: 1216
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 39
+OrderPrice: 63
+InstrumentId: 86263
+OrderId: 52024
+
+HEADER:
+MessageType: m
+SequenceNumber: 1217
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 11
+OrderPrice: 24
+InstrumentId: 76713
+OrderId: 28646
+
+HEADER:
+MessageType: c
+SequenceNumber: 1218
+
+ORDER_CANCEL:
+InstrumentId: 76168
+OrderId: 22619
+
+HEADER:
+MessageType: e
+SequenceNumber: 1219
+
+ORDER_EXECUTED:
+PriceAtTrade: 37
+TradeSize: 100
+InstrumentId: 79596
+OrderIdAggressor: 19556
+OrderIdPassive: 68826
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: o
+SequenceNumber: 1220
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 79
+OrderPrice: 19
+InstrumentId: 26317
+OrderId: 26095
+
+HEADER:
+MessageType: o
+SequenceNumber: 1221
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 73
+OrderPrice: 33
+InstrumentId: 35307
+OrderId: 82759
+
+HEADER:
+MessageType: c
+SequenceNumber: 1222
+
+ORDER_CANCEL:
+InstrumentId: 8193
+OrderId: 2401
+
+HEADER:
+MessageType: c
+SequenceNumber: 1223
+
+ORDER_CANCEL:
+InstrumentId: 60094
+OrderId: 19246
+
+HEADER:
+MessageType: a
+SequenceNumber: 1224
+
+ANNOUNCEMENT:
+InstrumentId: 567813
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: m
+SequenceNumber: 1225
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 10
+OrderPrice: 67
+InstrumentId: 75271
+OrderId: 22162
+
+HEADER:
+MessageType: c
+SequenceNumber: 1226
+
+ORDER_CANCEL:
+InstrumentId: 99845
+OrderId: 56254
+
+HEADER:
+MessageType: o
+SequenceNumber: 1227
+
+ORDER_ADD:
+OrderSide: S
+OrderSize: 20
+OrderPrice: 53
+InstrumentId: 5802
+OrderId: 81982
+
+HEADER:
+MessageType: c
+SequenceNumber: 1228
+
+ORDER_CANCEL:
+InstrumentId: 71378
+OrderId: 13805
+
+HEADER:
+MessageType: a
+SequenceNumber: 1229
+
+ANNOUNCEMENT:
+InstrumentId: 97668
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: a
+SequenceNumber: 1230
+
+ANNOUNCEMENT:
+InstrumentId: 700010
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: a
+SequenceNumber: 1231
+
+ANNOUNCEMENT:
+InstrumentId: 258205
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: e
+SequenceNumber: 1232
+
+ORDER_EXECUTED:
+PriceAtTrade: 2
+TradeSize: 78
+InstrumentId: 72089
+OrderIdAggressor: 37965
+OrderIdPassive: 94008
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: e
+SequenceNumber: 1233
+
+ORDER_EXECUTED:
+PriceAtTrade: 37
+TradeSize: 8
+InstrumentId: 71762
+OrderIdAggressor: 19801
+OrderIdPassive: 55691
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: m
+SequenceNumber: 1234
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 23
+OrderPrice: 57
+InstrumentId: 85692
+OrderId: 45976
+
+HEADER:
+MessageType: a
+SequenceNumber: 1235
+
+ANNOUNCEMENT:
+InstrumentId: 728385
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: a
+SequenceNumber: 1236
+
+ANNOUNCEMENT:
+InstrumentId: 241629
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: m
+SequenceNumber: 1237
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 73
+OrderPrice: 84
+InstrumentId: 77597
+OrderId: 82286
+
+HEADER:
+MessageType: e
+SequenceNumber: 1238
+
+ORDER_EXECUTED:
+PriceAtTrade: 71
+TradeSize: 6
+InstrumentId: 61164
+OrderIdAggressor: 19427
+OrderIdPassive: 7730
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: o
+SequenceNumber: 1239
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 86
+OrderPrice: 71
+InstrumentId: 42890
+OrderId: 72075
+
+HEADER:
+MessageType: m
+SequenceNumber: 1240
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 11
+OrderPrice: 28
+InstrumentId: 85511
+OrderId: 79684
+
+HEADER:
+MessageType: m
+SequenceNumber: 1241
+
+ORDER_MODIFY:
+OrderSide: B
+OrderSize: 91
+OrderPrice: 16
+InstrumentId: 5354
+OrderId: 49993
+
+HEADER:
+MessageType: a
+SequenceNumber: 1242
+
+ANNOUNCEMENT:
+InstrumentId: 200045
+Announcement: This is an announcement message
+
+HEADER:
+MessageType: m
+SequenceNumber: 1243
+
+ORDER_MODIFY:
+OrderSide: S
+OrderSize: 43
+OrderPrice: 57
+InstrumentId: 89786
+OrderId: 97938
+
+HEADER:
+MessageType: c
+SequenceNumber: 1244
+
+ORDER_CANCEL:
+InstrumentId: 5271
+OrderId: 44477
+
+HEADER:
+MessageType: e
+SequenceNumber: 1245
+
+ORDER_EXECUTED:
+PriceAtTrade: 30
+TradeSize: 28
+InstrumentId: 58507
+OrderIdAggressor: 82924
+OrderIdPassive: 62793
+MMTFlags: 12-D----P-A1--
+
+HEADER:
+MessageType: o
+SequenceNumber: 1246
+
+ORDER_ADD:
+OrderSide: B
+OrderSize: 69
+OrderPrice: 39
+InstrumentId: 43595
+OrderId: 27792
+
+HEADER:
+MessageType: e
+SequenceNumber: 1247
+
+ORDER_EXECUTED:
+PriceAtTrade: 6
+TradeSize: 49
+InstrumentId: 11264
+OrderIdAggressor: 74890
+OrderIdPassive: 79944
+MMTFlags: 12-D----P-A1--
+

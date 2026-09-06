@@ -1,0 +1,6 @@
+*.exe
+*.o
+*.d
+*.bak
+*.obj
+*.swp
