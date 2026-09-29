@@ -24,16 +24,19 @@ class Buffer
             // incr size by 2 so we can insert 2 byte size value header
             int16_t sizeHeader = size + 2;
 
-            std::size_t target_write = current_write;
+            std::size_t start_write = current_write;
 
-            bool needsPadding = ((current_write & (capacity -1)) + sizeHeader) > capacity;
+            bool needsPadding = ((start_write & (capacity -1)) + sizeHeader > capacity);
             if(needsPadding) [[unlikely]]
             {
-                target_write += (capacity - (current_write & (capacity -1)));
+                start_write += (capacity - (start_write & (capacity -1)));
             }
 
-            if(target_write + sizeHeader
-                >= readIndex.load(std::memory_order_acquire) + capacity)
+            std::size_t end_write = start_write + sizeHeader;
+            // Advance end index to the nearest 8 byte aligned address
+            end_write = ((end_write + 7) & ~7);
+
+            if(end_write >= readIndex.load(std::memory_order_acquire) + capacity)
             {
                 return false;
             }
@@ -45,16 +48,13 @@ class Buffer
                 // (Marked unlikely as this will only happen once per loop)
                 int16_t paddingIndicator = 0;
                 std::memcpy(&BUFFER[current_write & (capacity -1)], &paddingIndicator, 2);
-
-                current_write = target_write;
             }
 
             // Now write size header and data
-            std::memcpy(&BUFFER[current_write & (capacity -1)], &sizeHeader, 2);
-            std::memcpy(&BUFFER[(current_write + 2) & (capacity -1)], data, size);
+            std::memcpy(&BUFFER[start_write & (capacity -1)], &sizeHeader, 2);
+            std::memcpy(&BUFFER[(start_write + 2) & (capacity -1)], data, size);
 
-            writeIndex.store(current_write + sizeHeader, std::memory_order_release);
-
+            writeIndex.store(end_write, std::memory_order_release);
             return true;
         }
 
@@ -99,7 +99,6 @@ class Buffer
         void ReadComplete()
         {
             std::size_t current_read = readIndex.load(std::memory_order_relaxed);
-
             int16_t readSize{0};
             std::memcpy(&readSize, &BUFFER[current_read & (capacity -1)], 2);
 
@@ -111,7 +110,10 @@ class Buffer
                 std::memcpy(&readSize, &BUFFER[current_read & (capacity -1)], 2);
             }
 
-            readIndex.store(current_read + readSize, std::memory_order_release);
+            // Increment by read size, and then add alignment padding to nearest multiple of 8 address
+            current_read += readSize;
+            current_read = ((current_read + 7) & ~7);
+            readIndex.store(current_read, std::memory_order_release);
         }
 
         void SetWriteDone() noexcept {
