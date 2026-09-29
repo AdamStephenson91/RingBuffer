@@ -96,8 +96,8 @@ bool Producer<msgArraySize>::InitData(bool logData, bool verbose) {
                                            msgTypeChar = OrderExecuted::msgType; break;
         }
 
-        // Add 2 bytes containing total header + payload size, used by RingBuffer logic
-        int16_t messageLengthField = static_cast<int16_t>(sizeof(Header) + payloadSize);
+        // Add header value containing total header + payload size, used by RingBuffer logic
+        std::size_t messageLengthField = sizeof(Header) + payloadSize;
 
         // Total space required = Message length field + Header + Payload
         std::size_t totalRequiredSpace = sizeof(messageLengthField) + messageLengthField;
@@ -116,8 +116,8 @@ bool Producer<msgArraySize>::InitData(bool logData, bool verbose) {
         switch (choice) {
             case MsgChoice::Announcement:
                 if (!announcementPool.empty()) {
-                    std::memcpy(writePtr, &messageLengthField, sizeof(int16_t));
-                    writePtr += sizeof(int16_t);
+                    std::memcpy(writePtr, &messageLengthField, BufferConfig::HEADER_SIZE);
+                    writePtr += BufferConfig::HEADER_SIZE;
 
                     // only write header if we have a valid message ready to pair with it
                     writePtr = loopHeader.Serialize(writePtr);
@@ -136,8 +136,8 @@ bool Producer<msgArraySize>::InitData(bool logData, bool verbose) {
 
             case MsgChoice::OrderAdd:
                 if (!addPool.empty()) {
-                    std::memcpy(writePtr, &messageLengthField, sizeof(int16_t));
-                    writePtr += sizeof(int16_t);
+                    std::memcpy(writePtr, &messageLengthField, BufferConfig::HEADER_SIZE);
+                    writePtr += BufferConfig::HEADER_SIZE;
 
                     writePtr = loopHeader.Serialize(writePtr);
                     currentSequenceNumber++;
@@ -155,8 +155,8 @@ bool Producer<msgArraySize>::InitData(bool logData, bool verbose) {
 
             case MsgChoice::OrderModify:
                 if (!modifyPool.empty()) {
-                    std::memcpy(writePtr, &messageLengthField, sizeof(int16_t));
-                    writePtr += sizeof(int16_t);
+                    std::memcpy(writePtr, &messageLengthField, BufferConfig::HEADER_SIZE);
+                    writePtr += BufferConfig::HEADER_SIZE;
 
                     writePtr = loopHeader.Serialize(writePtr);
                     currentSequenceNumber++;
@@ -174,8 +174,8 @@ bool Producer<msgArraySize>::InitData(bool logData, bool verbose) {
 
             case MsgChoice::OrderCancel:
                 if (!cancelPool.empty()) {
-                    std::memcpy(writePtr, &messageLengthField, sizeof(int16_t));
-                    writePtr += sizeof(int16_t);
+                    std::memcpy(writePtr, &messageLengthField, BufferConfig::HEADER_SIZE);
+                    writePtr += BufferConfig::HEADER_SIZE;
 
                     writePtr = loopHeader.Serialize(writePtr);
                     currentSequenceNumber++;
@@ -193,8 +193,8 @@ bool Producer<msgArraySize>::InitData(bool logData, bool verbose) {
 
             case MsgChoice::OrderExecuted:
                 if (!execPool.empty()) {
-                    std::memcpy(writePtr, &messageLengthField, sizeof(int16_t));
-                    writePtr += sizeof(int16_t);
+                    std::memcpy(writePtr, &messageLengthField, BufferConfig::HEADER_SIZE);
+                    writePtr += BufferConfig::HEADER_SIZE;
 
                     writePtr = loopHeader.Serialize(writePtr);
                     currentSequenceNumber++;
@@ -241,8 +241,8 @@ void Producer<msgArraySize>::WriteData(Buffer<capacity>& ringBuffer, bool verbos
     int pushCount = 0;
     while (writePtr < endPtr) {
 
-        uint16_t currentMsgSize = 0;
-        std::memcpy(&currentMsgSize, writePtr, sizeof(uint16_t));
+        std::size_t currentMsgSize = 0;
+        std::memcpy(&currentMsgSize, writePtr, BufferConfig::HEADER_SIZE);
 
         if (currentMsgSize == 0) [[unlikely]]
         {
@@ -251,11 +251,11 @@ void Producer<msgArraySize>::WriteData(Buffer<capacity>& ringBuffer, bool verbos
             break;
         }
 
-        if (ringBuffer.Push(writePtr + sizeof(uint16_t), currentMsgSize)) {
-            // Advance past the 2-byte size prefix + the contents size
+        if (ringBuffer.Push(writePtr + BufferConfig::HEADER_SIZE, currentMsgSize)) {
+            // Advance past the size prefix + the contents size
             pushCount ++;
 
-            writePtr += sizeof(uint16_t) + currentMsgSize;
+            writePtr += BufferConfig::HEADER_SIZE + currentMsgSize;
         } else {
             // Buffer is full, spin-loop until the reader thread advances
             _mm_pause();

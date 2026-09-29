@@ -7,6 +7,10 @@
 #include <bit>
 #include <string_view>
 
+namespace BufferConfig {
+    inline constexpr std::size_t HEADER_SIZE = sizeof(std::size_t);
+}
+
 template <std::size_t capacity>
 class Buffer
 {
@@ -17,12 +21,12 @@ class Buffer
         explicit Buffer() {};
         int loopCount_{0};
 
-        bool Push(unsigned char* data, int16_t size)
+        bool Push(unsigned char* data, std::size_t size)
         {
             std::size_t current_write = writeIndex.load(std::memory_order_relaxed);
 
-            // incr size by 2 so we can insert 2 byte size value header
-            int16_t sizeHeader = size + 2;
+            // incr size so we can insert size value header
+            std::size_t sizeHeader = size + BufferConfig::HEADER_SIZE;
 
             std::size_t start_write = current_write;
 
@@ -46,13 +50,13 @@ class Buffer
                 loopCount_++;
                 // message won't fit within capacity, write '0' size header to tell reader
                 // (Marked unlikely as this will only happen once per loop)
-                int16_t paddingIndicator = 0;
-                std::memcpy(&BUFFER[current_write & (capacity -1)], &paddingIndicator, 2);
+                std::size_t paddingIndicator = 0;
+                std::memcpy(&BUFFER[current_write & (capacity -1)], &paddingIndicator, BufferConfig::HEADER_SIZE);
             }
 
             // Now write size header and data
-            std::memcpy(&BUFFER[start_write & (capacity -1)], &sizeHeader, 2);
-            std::memcpy(&BUFFER[(start_write + 2) & (capacity -1)], data, size);
+            std::memcpy(&BUFFER[start_write & (capacity -1)], &sizeHeader, BufferConfig::HEADER_SIZE);
+            std::memcpy(&BUFFER[(start_write + BufferConfig::HEADER_SIZE) & (capacity -1)], data, size);
 
             writeIndex.store(end_write, std::memory_order_release);
             return true;
@@ -67,9 +71,9 @@ class Buffer
                 return false;
             }
 
-            // length of message stored in first 2 bytes
-            int16_t readSize{0};
-            std::memcpy(&readSize, &BUFFER[current_read & (capacity -1)], 2);
+            // length of message stored in header
+            std::size_t readSize{0};
+            std::memcpy(&readSize, &BUFFER[current_read & (capacity -1)], BufferConfig::HEADER_SIZE);
 
             // Read size of 0 indicates message won't fit within buffer,
             // Writer has looped back to the start again
@@ -84,12 +88,12 @@ class Buffer
                     return false;
                 }
 
-                std::memcpy(&readSize, &BUFFER[current_read & (capacity -1)], 2);
+                std::memcpy(&readSize, &BUFFER[current_read & (capacity -1)], BufferConfig::HEADER_SIZE);
             }
-            // read size includes 2 byte size header, decrease for string view length
-            readSize -= 2;
+            // read size includes size header, decrease for string view length
+            readSize -= BufferConfig::HEADER_SIZE;
             // construct string view of data using size
-            outView = std::string_view(&BUFFER[(current_read + 2) & (capacity -1)], readSize);
+            outView = std::string_view(&BUFFER[(current_read + BufferConfig::HEADER_SIZE) & (capacity -1)], readSize);
 
             return true;
         }
@@ -99,15 +103,15 @@ class Buffer
         void ReadComplete()
         {
             std::size_t current_read = readIndex.load(std::memory_order_relaxed);
-            int16_t readSize{0};
-            std::memcpy(&readSize, &BUFFER[current_read & (capacity -1)], 2);
+            std::size_t readSize{0};
+            std::memcpy(&readSize, &BUFFER[current_read & (capacity -1)], BufferConfig::HEADER_SIZE);
 
             // Advance past end-of-buffer padding
             if(readSize == 0) [[unlikely]]
             {
                 current_read += (capacity - (current_read & (capacity - 1)));
 
-                std::memcpy(&readSize, &BUFFER[current_read & (capacity -1)], 2);
+                std::memcpy(&readSize, &BUFFER[current_read & (capacity -1)], BufferConfig::HEADER_SIZE);
             }
 
             // Increment by read size, and then add alignment padding to nearest multiple of 8 address

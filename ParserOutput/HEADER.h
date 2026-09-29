@@ -10,15 +10,15 @@ class HEADER
 {
     private:
         unsigned char buffer_[9];
-        size_t   messageSize_{9};
+        static constexpr std::size_t messageSize_{9};
 
     public:
         HEADER() = default;
 
-        size_t GetSize() { return messageSize_; }
+        constexpr std::size_t GetSize() { return messageSize_; }
 
 
-        bool load(const unsigned char* buffer, size_t size)
+        bool load(const unsigned char* buffer, std::size_t size)
         {
             if(size < 9) [[unlikely]]
             {

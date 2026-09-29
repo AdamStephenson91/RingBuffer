@@ -10,18 +10,18 @@ class ORDER_CANCEL
 {
     private:
         unsigned char buffer_[16];
-        size_t   messageSize_{16};
+        static constexpr std::size_t messageSize_{16};
 
     public:
         ORDER_CANCEL() = default;
 
-        size_t GetSize() { return messageSize_; }
+        constexpr std::size_t GetSize() { return messageSize_; }
 
         constexpr unsigned char GetMessageType() { 
             return 'c'; 
         }
 
-        bool load(const unsigned char* buffer, size_t size)
+        bool load(const unsigned char* buffer, std::size_t size)
         {
             if(size < 16) [[unlikely]]
             {

@@ -10,18 +10,18 @@ class ORDER_ADD
 {
     private:
         unsigned char buffer_[25];
-        size_t   messageSize_{25};
+        static constexpr std::size_t messageSize_{25};
 
     public:
         ORDER_ADD() = default;
 
-        size_t GetSize() { return messageSize_; }
+        constexpr std::size_t GetSize() { return messageSize_; }
 
         constexpr unsigned char GetMessageType() { 
             return 'o'; 
         }
 
-        bool load(const unsigned char* buffer, size_t size)
+        bool load(const unsigned char* buffer, std::size_t size)
         {
             if(size < 25) [[unlikely]]
             {

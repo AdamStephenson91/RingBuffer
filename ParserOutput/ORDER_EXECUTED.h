@@ -10,18 +10,18 @@ class ORDER_EXECUTED
 {
     private:
         unsigned char buffer_[46];
-        size_t   messageSize_{46};
+        static constexpr std::size_t messageSize_{46};
 
     public:
         ORDER_EXECUTED() = default;
 
-        size_t GetSize() { return messageSize_; }
+        constexpr std::size_t GetSize() { return messageSize_; }
 
         constexpr unsigned char GetMessageType() { 
             return 'e'; 
         }
 
-        bool load(const unsigned char* buffer, size_t size)
+        bool load(const unsigned char* buffer, std::size_t size)
         {
             if(size < 46) [[unlikely]]
             {

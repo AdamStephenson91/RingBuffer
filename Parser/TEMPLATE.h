@@ -10,19 +10,19 @@ class %%MESSAGE%%
 {
     private:
         unsigned char buffer_[%%MESSAGE_SIZE%%];
-        size_t   messageSize_{%%MESSAGE_SIZE%%};
+        static constexpr std::size_t messageSize_{%%MESSAGE_SIZE%%};
 
     public:
         %%MESSAGE%%() = default;
 
-        size_t GetSize() { return messageSize_; }
+        constexpr std::size_t GetSize() { return messageSize_; }
 
         IF %%MESSAGE%% != HEADER
         constexpr unsigned char GetMessageType() { 
             return '%%MESSAGE_TYPE%%'; 
         }
 
-        bool load(const unsigned char* buffer, size_t size)
+        bool load(const unsigned char* buffer, std::size_t size)
         {
             if(size < %%MESSAGE_SIZE%%) [[unlikely]]
             {

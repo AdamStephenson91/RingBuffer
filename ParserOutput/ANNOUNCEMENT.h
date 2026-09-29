@@ -10,18 +10,18 @@ class ANNOUNCEMENT
 {
     private:
         unsigned char buffer_[258];
-        size_t   messageSize_{258};
+        static constexpr std::size_t messageSize_{258};
 
     public:
         ANNOUNCEMENT() = default;
 
-        size_t GetSize() { return messageSize_; }
+        constexpr std::size_t GetSize() { return messageSize_; }
 
         constexpr unsigned char GetMessageType() { 
             return 'a'; 
         }
 
-        bool load(const unsigned char* buffer, size_t size)
+        bool load(const unsigned char* buffer, std::size_t size)
         {
             if(size < 258) [[unlikely]]
             {
