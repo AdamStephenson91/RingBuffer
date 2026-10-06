@@ -18,7 +18,7 @@ class Buffer
             "Buffer capacity must be power of 2");
 
     public:
-        explicit Buffer() {};
+        Buffer() {};
         int loopCount_{0};
 
         bool Push(unsigned char* data, std::size_t size)
