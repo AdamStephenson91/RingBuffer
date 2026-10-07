@@ -27,7 +27,7 @@ int RunRingBufferDemo()
             consumer.ReadData(sharedRingBuffer, logData_, verbose_);
     });
 
-    std::jthread producer_thread([&sharedRingBuffer, &producer]() {
+    std::jthread producer_thread([&sharedRingBuffer]() {
             producer.WriteData(sharedRingBuffer, verbose_);
     });
 
