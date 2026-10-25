@@ -47,7 +47,7 @@ static void BM_RingBufferPerformance(benchmark::State& state) {
             // pin consumer thread to core 0
             cpu_set_t cpuset;
             CPU_ZERO(&cpuset);
-            CPU_SET(0, &cpuset);
+            CPU_SET(2, &cpuset);
             pthread_setaffinity_np(pthread_self(), sizeof(cpu_set_t), &cpuset);
 
             consumer.ReadData(sharedRingBuffer, logData_, verbose_);
@@ -58,7 +58,7 @@ static void BM_RingBufferPerformance(benchmark::State& state) {
             // to the consumer thread (avoiding cache contention etc)
             cpu_set_t cpuset;
             CPU_ZERO(&cpuset);
-            CPU_SET(2, &cpuset);
+            CPU_SET(4, &cpuset);
             pthread_setaffinity_np(pthread_self(), sizeof(cpu_set_t), &cpuset);
             
             producer.WriteData(sharedRingBuffer, verbose_);

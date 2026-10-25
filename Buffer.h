@@ -90,6 +90,10 @@ class Buffer
 
                 std::memcpy(&readSize, &BUFFER[current_read & (capacity -1)], BufferConfig::HEADER_SIZE);
             }
+
+            nextRead_ = current_read + readSize;
+            nextRead_ = ((nextRead_ + 7) & ~7);
+
             // read size includes size header, decrease for string view length
             readSize -= BufferConfig::HEADER_SIZE;
             // construct string view of data using size
@@ -102,22 +106,7 @@ class Buffer
         // on data returned by Read()
         void ReadComplete()
         {
-            std::size_t current_read = readIndex.load(std::memory_order_relaxed);
-            std::size_t readSize{0};
-            std::memcpy(&readSize, &BUFFER[current_read & (capacity -1)], BufferConfig::HEADER_SIZE);
-
-            // Advance past end-of-buffer padding
-            if(readSize == 0) [[unlikely]]
-            {
-                current_read += (capacity - (current_read & (capacity - 1)));
-
-                std::memcpy(&readSize, &BUFFER[current_read & (capacity -1)], BufferConfig::HEADER_SIZE);
-            }
-
-            // Increment by read size, and then add alignment padding to nearest multiple of 8 address
-            current_read += readSize;
-            current_read = ((current_read + 7) & ~7);
-            readIndex.store(current_read, std::memory_order_release);
+            readIndex.store(nextRead_, std::memory_order_release);
         }
 
         void SetWriteDone() noexcept {
@@ -143,4 +132,6 @@ class Buffer
 
         alignas(std::hardware_destructive_interference_size)
         std::atomic<std::size_t> readIndex{0};
+
+        size_t nextRead_{0};
 };

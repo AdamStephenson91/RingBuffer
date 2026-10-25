@@ -63,20 +63,39 @@ void Consumer::ReadData(Buffer<capacity>& ringBuffer, bool logData, bool verbose
     std::string_view message;
 
     unsigned int i = 0;
-    while (true) {
-        if (ringBuffer.Read(message)) {
-            ParseData(message);
-            i++;
-            // Advance the read pointer now that we are done with it
-            ringBuffer.ReadComplete();
 
-        } else {
-            // Buffer is empty, check if writer is finished
-            if (ringBuffer.IsWriteDone()) [[unlikely]] {
-                break; // No more data, exit loop
+    if (logData) [[unlikely]] {
+        // data logging path marked as unlikely because performance isn't critical in this mode
+        while (true) {
+            if (ringBuffer.Read(message)) {
+                ParseData(message);
+                i++;
+                // Advance the read pointer now that we are done with it
+                ringBuffer.ReadComplete();
+            } else {
+                // Buffer is empty, check if writer is finished
+                if (ringBuffer.IsWriteDone()) [[unlikely]] {
+                    break; // No more data, exit loop
+                }
+
+                _mm_pause(); // Still writing and empty
             }
+        }
+    } else {
+        // Skip ParseData call in benchmarking mode to measure pure buffer throughput and avoid logging calls
+        while (true) {
+            if (ringBuffer.Read(message)) {
+                // prevent this loop from being optimised away
+                asm volatile("" : : "g"(&message) : "memory");
 
-            _mm_pause(); // Still writing and empty
+                i++;
+                ringBuffer.ReadComplete();
+            } else {
+                if (ringBuffer.IsWriteDone()) [[unlikely]] {
+                    break;
+                }
+                _mm_pause();
+            }
         }
     }
     Reset();
